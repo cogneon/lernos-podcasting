@@ -1,0 +1,1 @@
+pandoc -s -o lernOS-Podcasting-Guide-de.docx lernOS-Podcasting-Guide-de.md
