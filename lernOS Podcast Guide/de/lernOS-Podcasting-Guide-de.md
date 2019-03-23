@@ -1,6 +1,6 @@
 # Vorwort
 
-... Bezug zur lernOS Story ...
+... Bezug zur lernOS Story und Hintergrund...
 
 \@simondueckert
 
