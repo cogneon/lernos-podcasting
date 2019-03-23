@@ -1,1 +1,0 @@
-pandoc -s --toc -o lernOS-Podcasting-Guide-de.html lernOS-Podcasting-Guide-de.md

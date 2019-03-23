@@ -1,7 +1,7 @@
 ---
 title: "lernOS Podcasting Leitfaden (CC BY)"
 author: [Simon Dückert]
-date: "Version 0.1 (dd.mm.2019)"
+date: "Version 0.1 (24.03.2019)"
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
@@ -11,6 +11,6 @@ lof: false
 toc: true
 toc-own-page: true
 toc-depth: 2
-logo: lernOS-logo-white-4000px.png
+logo: images/lernOS-logo-white-4000px.png
 logo-width: 300
 ---

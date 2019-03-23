@@ -1,19 +1,31 @@
 # Vorwort
 
-... Bezug zur lernOS Story und Hintergrund...
+lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
+
+Der Trend Working Out Loud bedeutet, die eigene Arbeit sichtbar zu machen und über die eigene Arbeit zu erzählen, um Vernetzung zu ermöglichen und Hilfe aus dem Netzwerk zu erhalten. Als Plattform kommen oft interne und externe soziale Netzwerke zum Einsatz. Gerade wenn es um den Transport von Wissen zu komplexen Themen oder Emotionen geht, reichen kurze Texte oft nicht aus. Hier eignen sich Audio- und Video-Formate wie Screencasts, Erklärvideos und Podcasts besser.
+
+Podcasts haben hierbei den Vorteil, dass sie viel einfacher zu produzieren sind, als Videos. Außerdem können Podcasts an Orten konsumiert werden, an denen die Nutzung von Videos schwierig ist (Pendler, im Auto, im Flugzeug, beim Spazieren etc.). Mit diesem lernOS Leitfaden lernt ihr in einem Learning Sprint, selber Podcast zu machen und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine durchlaufen oder in einem Learning Circle mit 4-5 anderen Personen.
 
 \@simondueckert
 
 # Danksagung
 
-Der initiale Inhalt dieses Leitfadens besteht auf dem Wikibook [Podcasting für Einsteiger und Fortgeschrittene](https://de.wikibooks.org/wiki/Podcasting_f%C3%BCr_Einsteiger_und_Fortgeschrittene), das wiederum auf dem Artikel Podcasting für Einsteiger von Tim Pritlove auf pb21.de (CC BY) basiert.
+Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für Integrierte Schaltungen](https://www.iis.fraunhofer.de/) (IIS) danken, die mich während meiner aktiven Zeit dort ab Mitte der 1990er Jahre mit Audiokodierung und dem MP3-Standard in Berührung gebracht haben. Ich möchte mich außerdem bei der deutschsprachigen Podcasting-Community rund um das [Sendegate](https://sendegate.de) bedanken, da ich über das Forum und Veranstaltungen wie der [SUBSCRIBE](https://das-sendezentrum.de/subscribe/) sehr viel über das Podcasting lernen konnte. Mein besonderer Dank gilt Tim Pritlove, der mit seinem Artikel [Podcasting für Einsteiger](http://pb21.de/2011/05/podcasting-fur-einsteiger-1/) auf pb21.de (CC BY), zunächst die Grundlage für das Wikibook [Podcasting für Einsteiger und Fortgeschrittene](https://de.wikibooks.org/wiki/Podcasting_f%C3%BCr_Einsteiger_und_Fortgeschrittene) und dann auch für diesen Leitfaden gebildet hat. Außerdem möchte ich Marco Hitschler danken, von dessen Sketchnote [Podcast in a Nutshell](https://www.unmus.de/podcast-in-a-nutshell/) (CC BY) ich Ausschnitte für die Bebilderung dieses Leitfadens verwendet habe.
 
 # Einleitung
 
-...
+Tim Berners-Lee stellte am 13.11.1990 eine Webseite online, die heute als offiziell erster [Weblog](https://de.wikipedia.org/wiki/Blog) gilt. Im Jahr 1997 startete Dave Winer seinen Blog Scripting News. Im gleichen Jahr wurde erstmal der Begriff "Weblog" verwendet. Weblogs stellen ihre Inhalte über sog. [RSS-Feeds](https://de.wikipedia.org/wiki/RSS_(Web-Feed)) in maschinenlesbarer Form zur Verfügung. Dave Winer war der erste, der Weblogs und RSS-Feeds im Jahr 2000 für die erste praktische Umsetzung eines [Podcasts](https://de.wikipedia.org/wiki/Podcast) verwendete, die damals noch Audioblogs genannt wurden. Apple gab Podcasts mit der Veröffentlichung des iPods 2005 ihren bis heute verwendeten Namen. Neben den Audioblogs sind 2004 auch die [Videoblogs](https://de.wikipedia.org/wiki/Vlog) (Vlogs) entstanden, die durch das 2005 gegründete Unternehmen YouTube zu großer Bekanntheit gelangt sind. Anders als bei Massenmedien wie Zeitung, Radio oder Fernsehen bieten Podcasts viel mehr Freiheit bei der Formatwahl und der Interaktion mit der Community der Hörer. Podcasts könnten damit einen "Kommunikationsapparat" darstellen, den Berthold Brecht schon in seiner [Radiotheorie](https://de.wikipedia.org/wiki/Radiotheorie) in den 1930er Jahren dargelegt hat:
 
-# Podcasting Grundlagen
+> Der Rundfunk wäre der denkbar großartigste Kommunikationsapparat des öffentlichen Lebens, ein ungeheures Kanalsystem, das heißt, er wäre es, wenn er es verstünde, nicht nur auszusenden, sondern auch zu empfangen, also den Zuhörer nicht nur hören, sondern auch sprechen zu machen und ihn nicht zu isolieren, sondern ihn auch in Beziehung zu setzen.
+
+Selber Radio zu machen, ist einfach. Man sollte sich nur vorher überlegen, mit wie vielen Leuten man in welcher Situation sprechen will, welche Anforderung an Qualität und Mobilität der Technik stellt und vor allem, wie man die Gesprächsführung gestalten will. Die ersten Versuche werden sicherlich katastrophal ausfallen, aber das ändert sich schnell. Jeder Podcaster blickt mit einem latenten Unwohlsein auf seine erste Sendung, nicht selten auch die Zweite. Aber von da ab gewinnt man schnell an Erfahrung und Routine. Wer dranbleibt wird schnell zu passablen und befriedigenden Ergebnissen kommen.
+
+Die Möglichkeiten eines Gesprächs auszuloten, die Dynamik des Dialogs zur Wissenser- und -vermittlung zu nutzen und eine Sendung mit Spannung, Tiefe und Humor anzureichern sollte das Ziel sein. Man sollte dabei nie nur für sich produzieren, sondern sich stets im Bewusstsein halten, dass das Endergebnis von Dritten auch gehört und genossen werden soll. Mit der Einstellung kommt man schnell voran und kann in der Folge auch im Dialog mit den Hörern am Format feilen und auch für sich selbst den wünschenswerten und notwendigen Spass am Gespräch finden.
+
+# Podcasting-Grundlagen
 Der Wunsch, selbst Audiosendungen in Form von Podcasts zu produzieren stellt viele Neueinsteiger zunächst einmal vor ein großes Problem. Welches Format ist das richtige? Welche Audiotechnik benötige ich, um Aufnahmen in angemessener Qualität durchzuführen, zu bearbeiten und zu veröffentlichen?
+
+![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/Zirkusliebe-cc-by-podcast-in-a-nutshell-podcast-easypeasy.png)
 
 Die Antwort auf diese Fragen hängt von vielen Faktoren ab: Wer ist die Zielgruppe? Wie viele Personen sind an dem Podcast beteiligt? In welchem Raum oder welcher Situation sollen die Aufnahmen gemacht werden? Wie tragbar muss das Equipment sein? Soll die Sendung live übertragen werden? Sollen Leute per Telefon mit in die Sendung einbezogen werden?
 
@@ -21,8 +33,10 @@ Um diese Fragen gut beantworten zu können und basierend auf den Antworten die r
 
 Zum Verständnis der weiteren Diskussion der möglichen Podcast-Formate und den Anforderungen für deren Aufnahme, ist es zunächst erforderlich, ein paar Grundlagen näher zu betrachten, deren Verständnis vielleicht nicht immer vollständig erforderlich, aber zumindest sinnvoll und hilfreich ist.
 
-## Das Format
+## Podast-Formate
 Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. Im Folgenden eine Beschreibung typischer Podcast-Formate.
+
+![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-format.png)
 
 ### Der Solo-Podcast (stationär)
 In einem Solo Podcast spricht nur eine Person. Hier wird typischerweise eine monologische Gesprächsführung gewählt, auch wenn Mischformen denkbar sind. So könnte ein Moderator z.B. auch vorher aufgezeichnetes Audio Feedback von Hörern oder anderes Sprachmaterial oder auch Musik einspielen.
@@ -72,20 +86,24 @@ Es sollte aber darauf verzichtet werden, die Positionierung zu extrem zu machen.
 
 Auch eine Mehrspuraufnahme, in der jeder Sprecher separat aufgenommen wird, ist bei einer Talkrunde sinnvoll, denn dies macht eine nachträglich Bearbeitung viel einfacher. Davon abgesehen kann man auch die räumliche Positionierung im Nachhinein feinabstimmen und ein optimales Ergebnis erzielen.
 
-## Von der Grundausstattung bis zum Tonstudio
+## Podcasting-Grundausstattung
 Der Ort der Aufnahme einer Podcast-Episode kann sehr unterschiedlich sein. Von der mobilen Aufnahme mit dem Smartphone bis zum voll ausgestatteten Tonstudio sind alle Schattierung denkbar. Für jede Aufnahmesituation müssen in der Planung die Rahmenbedingungen bedacht werden, die sich auf die Qualität der Aufnahme auswirken.
 
-## Mikrofongrundlagen
+![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-tonstudio.png)
+
+### Mikrofone
 Eine Aufnahme wird niemals besser als ihr schwächstes Glied zulässt und vor allem kann eine einmal gesenkte Qualität in der Aufnahmekette nicht mehr aufgewertet werden (bestenfalls “gerettet”). Daher ist es erforderlich, schon am Beginn der Aufnahmekette darauf zu achten, keinen nennenswerten Fehler zu machen. Die richtige Wahl des Mikrofons ist dabei entscheidend, denn alles steht und fällt mit der Wandlung von Schall zu einem elektrischen Signal. Im Kern müssen zwei Arten von Mikrofonen unterschieden werden. Dynamische Mikrofone und Kondensator-Mikrofone. Beide sind für unterschiedliche Zwecke gedacht und geeignet und beide kommen für die Podcast-Produktion in Frage.
 
-### Dynamische Mikrofone
+![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/Zirkusliebe-cc-by-podcast-in-a-nutshell-mikrofon.png)
+
+#### Dynamische Mikrofone
 Ein dynamisches Mikrofon erzeugt das elektrische Signal, indem die Schallwellen auf eine Membran auftreffen, deren Bewegung dann auf eine Spule übertragen werden. Diese Spule umschließt einen Magneten der durch Induktion einen Stromfluss in dieser Spule erzeugt. Dieser Stromfluss kann dann als Audiosignal weiter verarbeitet werden.
 
 Dynamische Mikrofone erfordern einen relativ hohen Schalldruck, was sich daran äußert, dass ihre Signale mit abnehmendem Abstand der Geräuschquelle (z. B. dem Sprecher) zum Mikrofon stark abnehmen. Nur eine nahe am Mikrofon befindliche Schallquelle wird vom Mikrofon gewandelt, leisere Quellen reißen schnell ab und werden nicht berücksichtigt. Damit ist ein dynamisches Mikrofon sehr unempfindlich gegen (auch laute) Hintergrundgeräusche.
 
 Der Vorteil ist aber auch ein Nachteil: ein dynamisches Mikrofon zwingt den Sprecher, den Abstand zum Mikrofon möglichst gering zu halten, was eine gewisse Erfahrung und Disziplin beim Sprechen erfordert. Für eine stationäre Aufnahme sind dynamische Mikrofone meist nicht die erste Wahl. Man kann diesen Nachteil etwas abmildern, wenn man sich für extrem hochwertige und damit auch sehr teure Mikrofone entscheidet, die qualitativ mit Kondensatormikrofonen mithalten können.
 
-### Kondensatormikrofone
+#### Kondensatormikrofone
 Kondensatormikrofone arbeiten – wie der Name schon sagt – nach dem Kondensatorprinzip. Zwei sich in engem Abstand gegenüberstehende Metallplatten werden mit einer elektrischen Spannung geladen und erzeugen ein Magnetfeld. Auftreffende Schallwellen verändern den Abstand der beiden Platten und erzeugen einen entsprechenden Stromfluss. Gegenüber der Bewegung der Membran/Spule des dynamischen Mikrofons ist die Empfindlichkeit eines Kondensatormikrofons deutlich größer.
 
 Ein Kondensatormikrofon kommt daher dem Podcaster im Prinzip sehr entgegen und auch im professionellen Radio kommen selten andere Mikrofone zum Einsatz. Die Qualität ist bei gleichem Preis deutlich höher, Stimmen werden viel realistische abgebildet und auch kleinste Nuancen werden registriert.
@@ -96,29 +114,31 @@ Auch hier ist der Vorteil ein Nachteil. Zwar sind bei dem empfindlichen Kondensa
 
 Ein daraus resultierendes Problem kann das sogenannte Übersprechen sein: bei einer Aufnahme mit mehreren Mikrofonen kann eine laute Stimme von einem weiteren, ggf. zu empfindlich eingestellten Mikrofon mit aufgenommen werden. Dieses Übersprechen erzeugt schnell unerwünschte Halleffekte, auf die mit besserer Schalldämmung oder niedrigeren Eingangspegeln reagiert werden sollte.
 
-### Mikrofonvorverstärker
+#### Mikrofonvorverstärker
 Das Ausgangssignal eines Kondensatormikrofons ist deutlich niedriger als das eines dynamischen Mikrofons. Es muss daher am Mikrofoneingang zusätzlich verstärkt werden - der sogenannte Mikrofon-Vorverstärker. Qualitativ minderwertige Vorverstärker können dabei auch das beste Kondensatormikrofon nutzlos machen, da sie zuviel Rauschen hinzufügen oder einfach nur unsauber verstärken und das Signal verzerren.
 
 Bei der Wahl eines Mischpultes sollte daher nicht nur auf die reine Mischfunktionalität oder vorhandene Ein- und Ausgänge geachtet werden - auch die Qualität der Mikrofoneingänge sollte geprüft werden. Für einfache Anforderungen sollten die meisten Mischpulte ausreichen, aber es prüfe wer sich ewig bindet.
 
 Neben Mikrofoneingängen in Mischpulten und Rekordern gibt es auch reine Mikrofonvorverstärker, die sich ausschließlich auf die Aufbereitung der Mikrofonsignale konzentrieren. Diese sind aber für einfache Podcast-Setups eher nicht erforderlich, es sei denn, man benötigt eine große Anzahl von separaten Eingängen, die einem ein Mischpult oder Audiointerface nicht bietet.
 
-### Mikrofoncharakteristik
+#### Mikrofoncharakteristik
 Jedes Mikrofon hat eine bestimmte Charakteristik, die bezeichnet, in welchem Bereich um das Mikrofon das Mikrofon besonders sensitiv ist. Üblicherweise unterscheidet man grob zwischen einer “Niere”, einer nierenförmigen Ausprägung des Aufnahmebereichs und einer “Kugel”, einem 360-Grad-Aufnahmbereich.
 
 Die “Niere” ist aber nicht immer gleich. Man unterscheidet im Detail zwischen einfachen und sog. “Supernieren” und meint damit die konkrete Ausdehnung des Aufnahmebereichs, der mehr oder weniger eng gefasst sein kann. Richtmikrofone sind z.B. Mikrofone in denen die Niere so schmal gefasst ist, dass der Aufnahmebereich nur im unmittelbaren Frontbereich des Mikrofons gilt. Damit können Störgeräusche von der Seite umgangen werden, erfordern aber auch eine präzise Ausrichtung des Mikrofons.
 
-## Kopfhörer und Headsets
+### Kopfhörer und Headsets
 Kopfhörer sind für das Podcasting ein wichtiges Instrument und das nicht nur zum Abhören von Aufzeichnungen. Grundsätzlich empfehlen sich Kopfhörer schon für die Aufnahme von Podcasts, um die Qualität des erzeugten Tonsignals in Echtzeit zu überprüfen. Sind alle Teilnehmer einer Sendung mit Kopfhörern ausgestattet, vereinfacht dies auch die Kommunikation im Gespräch. Nebengeräusche können leichter ausgeblendet werden und man erhält zusätzlich noch die Möglichkeit, über das Mischpult zusätzliche Tonsignale einzuspielen (z.B. weitere Gesprächsteilnehmer über Telefon oder beliebiges aufgezeichnetes Audiomaterial, Hintergrundmusik). Allein schon aus atmosphärischen Gründen kann zu der Verwendung von Kopfhörern nur geraten werden, auch wenn dies die Initialkosten erhöht.
 
-### Headsets
+![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-equipment.png)
+
+#### Headsets
 Besonders interessant für Podcaster sind sogenannte "Hörsprech-Garnituren", im Volksmund auch Headsets genannt. Diese kombinieren Kopfhörer und Mikrofon. Da hier beide Komponenten qualitativ hochwertig sein sollten und der Tragekomfort stimmen muss, ist die Auswahl entsprechend niedrig.
 
 Headsets bieten einen weiteren Vorteil: dadurch, dass das Mikrofon direkt am Kopf befestigt ist, verändert sich der Abstand zur Mikrofonkapsel durch Kopf- und Körperbewegungen nicht. Ein einmal richtig eingestellter Mikrofonhals sollte dauerthaft konstante Ergebnisse liefern. Dies ist vor allem für mit dem Umgang mit Mikrofonen unerfahrene Gäste einer Sendung hilfreich.
 
 Eine gute Option sind z.B. die Beyerdynamic DT297 Modellserie, die gute Kopfhörer und für ihre Größe hervorragende Kondensatormikrofone kombinieren. Das Anschlusskabel ist zudem nicht fest verbunden, sondern kann über einen Stecker dem jeweiligen Längen- und Steckerbedarf angepasst werden.
 
-### Monitoring und Latenz
+#### Monitoring und Latenz
 Beim Einsatz von Kopfhörern und Headsets kommt ein Aspekt ins Spiel, der von Einsteigern häufig übersehen wird: es ist wichtig, dass das Audiosetup den Main Mix möglichst verzögerungsfrei an die Kopfhörer liefert. Entstehen durch den Aufbau große Latenzen von mehreren Millisekunden, wird der Sprecher durch sein eigenes Audiosignal verwirrt. Dies gilt es zu verhindern.
 
 In einem rein analogen Setup, wo der Kopfhörer-Mix durch ein Mischpult erzeugt wird, sind Latenzen in der Regel kein Problem, da der Signallauf in Lichtgeschwindigkeit erzeugt wird.
@@ -136,7 +156,7 @@ Einfache Mischpulte sind analog aufgebaut, alle Signalwege sind elektrisch gekop
 
 Für Podcaster zunehmend interessant sind Mischpulte, die ihren Main Mix (und häufig zusätzlich auch die Eingangsignale und AUX-Mixe) per USB- und/oder FireWire-Schnittstellen direkt einem Computer zugänglich machen. Dem Computer gegenüber stellt sich das Mischpult als mehrkanaliger Audioein- und ausgang dar. Dies erlaubt die einfache Aufnahme auf dem Computer, sowie das Einspielen von Audiomaterial direkt vom Computer in den Main Mix per Software ohne den Umweg eines analogen Audiosignals. Viele Einstiegsmodelle (wie z.B. von Phonic oder Behringer) bieten schon solche Schnittstellen, die auch ohne zusätzliche Treiber “out of the box” funktionieren.
 
-### Rekorder
+### Audio-Rekorder
 Der Markt bietet eine Vielzahl an möglichen Rekordern, mit denen man Gespräche aufzeichnen kann. Das geht von einfachen portablen Rekordern mit eingebauten Mikrofonen, die man gut für Ad-Hoc-Aufnahmen unterwegs einsetzen kann bis zu speziellen, mehrkanaligen Geräten, die Phantomspeisung für Kondensatormikrofone bieten.
 
 Wenn man ein Mischpult einsezt benötigt man für eine einfache Aufnahme nur einen Rekorder mit einem Stereoeingang. Alternativ kann man hier auch einen tragbaren Computer verwenden, doch sollte man tunlichst vermeiden, eingebaute analoge Audioeingänge zu verwenden, da diese in Laptops in der Regel zu starken Störstrahlungen ausgesetzt sind und extrem minderwertige Signale aufzeichnen. Möchte man einen Computer einsetzen empfiehlt sich der Einsatz eines Mischpultes mit USB oder FireWire Interface, das man mit dem Computer verbinden kann.
@@ -159,7 +179,7 @@ Als Kompression bezeichnet man konkret das Verändern des Audiosignals in einer 
 
 Kompressoren müssen mit bestimmten Parametern gesteuert werden: ein Schwellwert (engl. Threshold) bestimmt, ab welcher Lautstärke die Kompression einsetzt und ein ein Kompressionsverhältnis (engl. Compression Ratio) bestimmt, in welchem Größenordnung die Kompression angesetzt wird.
 
-Zusätzlich kann der Übergang am Schwellwert weicher eingestellt werden (engl. Soft Knee) und meist übernimmt der Kompressor auch die Nachverstärkung des in seiner Lautstärke reduzierten Signals gleich mit, um den Lautstärkeverlust auszugleichen. Nicht selten finden sich noch zusätzliche Limiter, die das Signal nachträglich bei einer bestimmten Maximallautstärke hart begrenzen, um das Gesamtsignal in einem
+Zusätzlich kann der Übergang am Schwellwert weicher eingestellt werden (engl. Soft Knee) und meist übernimmt der Kompressor auch die Nachverstärkung des in seiner Lautstärke reduzierten Signals gleich mit, um den Lautstärkeverlust auszugleichen. Nicht selten finden sich noch zusätzliche Limiter, die das Signal nachträglich bei einer bestimmten Maximallautstärke hart begrenzen.
 
 Im Ergebnis hat man ein insgesamt lauter klingendes Signal, das die Unterschiede zwischen lauten und leisen Passagen reduziert.
 
@@ -177,7 +197,7 @@ Die Parametrisierung ist auch ähnlich zur Kompression. Wieder bestimmt ein Ausl
 ## Podcasting-Workflow
 Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem:
 
-![](images/Podcasting-Workflow-900px.png)
+![Typischer Podasting-Workflow](images/Podcasting-Workflow-900px.png)
 
 Bevor man eine Podcast-Episode aufnimmt, sollte man sich über einige Parameter der Aufnahme Gedanken machen. Nicht alles, was hier aufgeführt wird muss zwingend so umgesetzt werden, aber es lohnt sich, zumindest zu prüfen, ob man vielleicht ohne nennenswerten Aufwand das eine oder andere von vornherein den Anforderungen an eine gute Aufnahme anpassen kann.
 
@@ -202,89 +222,74 @@ Zwar kann man auch mehrere Leute mit einem Gemeinschaftsmikrofon aufnehmen, doch
 
 Entsprechend benötigt man für die Aufnahme auch einen eigenen Mikrofoneingang (Mikrofonverstärker) am Mischpult oder Aufnahmegerät. Hier muss also die richtige Kapazität vorhanden sein.
 
-### Aufnahmegerät
-PROBLEM
-* Einen Mikrofoneingang (Mikrofonvorverstärker) für jedes Mikrofon
-* Ein Mischpult (oder entsprechende Software im Computer), die die einzelnen Spuren zusammenmischt.
-* Ein Aufnahmegerät (oder entsprechende Software im Computer), die die Summe oder die einzelnen Spuren einzeln aufnimmt
-
-Dann kann es losgehen. Wie sich diese Situation genau aufbaut hängt vom gewählten Format ab.
-
 ## Podcasting-Software
 Podcasting ist eine Publikationsform, die auf Computer und mobile Abspielgeräte (z.B. Smartphone) zugeschnitten ist. Es ist anzunehmen, dass nahezu jeder, der Podcasts produziert oder Podcasts konsumiert, über einen Computer verfügt. Doch dies kann sich ändern, denn zum einen werden Smartphones für den Empfang von Podcasts zunehmend interessanter und setzen mit unter schon keinen Computer mehr voraus. Auch lassen sich schon heute mit Smartphones und Tablets auch Audioaufnahmen und Schnitt durchführen und der nächste Schritt, der dann auch Encoding und Publikation übernimmt ist nicht mehr weit. Trotzdem bietet der Computer immer noch die größte Bandbreite an Bearbeitungsmöglichkeiten für qualitativ hochwertige Bearbeitung der Audiodaten.
 
 ### Recording und Editing
 In einer stationären Aufnahmesituation spricht einiges dafür, die Audiodaten gleich mit dem Computer aufzunehmen. Einerseits entfällt das ggf. zeitaufwändige oder fehleranfällige Übertragen der Daten von einem Aufnahmegerät, andererseits bietet der Computer insbesondere im Bereich der Mehrspuraufnahmen und Echtzeitanwendung von Filtern etc. viele Möglichkeiten.
 
-Konkurrenzlos ist der Computer bei der Audiobearbeitung. Das Einkürzen der Sendung, das Bearbeiten von Fehlern und die anschliessende Audioaufbereitung für die Veröffentlichung lassen sich am besten mit einer integrierten Audiosoftware machen.
-
-Die Auswahl an Programmen ist gross. Hier eine kleine Auswahl.
+Konkurrenzlos ist der Computer bei der Audiobearbeitung. Das Einkürzen der Sendung, das Bearbeiten von Fehlern und die anschliessende Audioaufbereitung für die Veröffentlichung lassen sich am besten mit einer integrierten Audiosoftware machen. Die Auswahl an Programmen ist groß. Hier eine kleine Auswahl.
 
 ### Audacity
-Audacity ist eine freie und damit kostenlose Softwarelösung für einfache Aufnahme und Audiobearbeitung. Hier findet sich im Kern alles, was man für den Einstieg braucht. Allerdings ist das Programm nicht besonders leistungsfähig und zuverlässig. Für große und wichtige Aufnahmen ist es eher geraten, auf professionelle Angebote zu setzen.
-
-Audacity läuft auf nahezu allen Desktop-Plattformen.
+Audacity ist eine freie und damit kostenlose Softwarelösung für einfache Aufnahme und Audiobearbeitung. Hier findet sich im Kern alles, was man für den Einstieg braucht. Allerdings ist das Programm nicht besonders leistungsfähig und zuverlässig. Für große und wichtige Aufnahmen ist es eher geraten, auf professionelle Angebote zu setzen. Audacity läuft auf nahezu allen Desktop-Plattformen.
 
 ### Adobe Audition
-Audition ist ein “gut abgehangenes” Stück Software, dass durch seine Leistungsfähigkeit und vielen Möglichkeiten, kaputte Aufnahmen zu retten glänzt.
-
-Audition läuft auf Microsoft Windows, erscheint jetzt aber auch auf Mac OS X.
+Audition ist ein “gut abgehangenes” Stück Software, dass durch seine Leistungsfähigkeit und vielen Möglichkeiten, kaputte Aufnahmen zu retten glänzt. Audition läuft auf Microsoft Windows, erscheint jetzt aber auch auf Mac OS X.
 
 ### Apple Garageband
-Garageband ist eine Software für die Aufnahme und Bearbeitung von Musik und Podcasts. Es ist sehr einfach zu bedienen und hat viele Funktionen, die gerade die Podcastaufnahme - und publikation unterstützen. So kann man in Garageband einfach auch Kapitelmarken hinzufügen.
-
-Garageband läuft nur unter Mac OS X. Es erscheint jetzt eine iPad-Version, von der noch nicht klar ist, wie gut sie sich über Podcast-Aufnahmen eignet.
-
-## Fazit
-Selber Radio zu machen, ist einfach. Man sollte sich nur vorher überlegen, mit wie vielen Leuten man in welcher Situation sprechen will, welche Anforderung an Qualität und Mobilität der Technik stellt und vor allem, wie man die Gesprächsführung gestalten will. Die ersten Versuche werden sicherlich katastrophal ausfallen, aber das ändert sich schnell. Jeder Podcaster blickt mit einem latenten Unwohlsein auf seine erste Sendung, nicht selten auch die Zweite. Aber von da ab gewinnt man schnell an Erfahrung und Routine. Wer dranbleibt wird schnell zu passablen und befriedigenden Ergebnissen kommen.
-
-Die Möglichkeiten eines Gesprächs auszuloten, die Dynamik des Dialogs zur Wissenser- und -vermittlung zu nutzen und eine Sendung mit Spannung, Tiefe und Humor anzureichern sollte das Ziel sein. Man sollte dabei nie nur für sich produzieren, sondern sich stets im Bewusstsein halten, dass das Endergebnis von Dritten auch gehört und genossen werden soll. Mit der Einstellung kommt man schnell voran und kann in der Folge auch im Dialog mit den Hörern am Format feilen und auch für sich selbst den wünschenswerten und notwendigen Spass am Gespräch finden.
+Garageband ist eine Software für die Aufnahme und Bearbeitung von Musik und Podcasts. Es ist sehr einfach zu bedienen und hat viele Funktionen, die gerade die Podcastaufnahme - und publikation unterstützen. So kann man in Garageband einfach auch Kapitelmarken hinzufügen. Garageband läuft nur unter Mac OS X. Es erscheint jetzt eine iPad-Version, von der noch nicht klar ist, wie gut sie sich über Podcast-Aufnahmen eignet.
 
 ## Podcasting-Literatur
-* Annik Rubens: Podcasting. Das Buch zum Audiobloggen. O'Reilly Verlag GmbH 2006, ISBN 978-3-89721-459-0.
-* Brigitte Hagedorn: Podcasting: Konzept | Produktion | Vermarktung. mitp 2016. ISBN 978-3958453128.
-* Frank Pieper: Das P.A. Handbuch Praktische Einführung in die professionelle Beschallungstechnik. GC Carstensen Verlag 2011, ISBN 978-3-910098-42-8.
-* Jack D. Herrington: Podcasting Hacks. Tips & Tools for Blogging Out Loud. O'Reilly Media 2005, ISBN 0-596-10066-3.
-* Krisz Rokk: Die Podcasting-Goldgrube. Der umfassende Ratgeber für Podcast-Einsteiger. CreateSpace Independent Publishing Platform 2014, ISBN 978-1530062300.
-* Vanessa Diemand, Michael Mangold, Peter Weibel: Weblogs, Podcasting und Videojournalismus. * Neue Medien zwischen demokratischen und ökonomischen Potenzialen. Heise Zeitschriften Verlag GmbH 2007, ISBN 978-3-936931-41-9.
+* Diemand, V., Mangold, M., Weibel, P.: [Weblogs, Podcasting und Videojournalismus: Neue Medien zwischen demokratischen und ökonomischen Potenzialen](https://amzn.to/2TUDJsk). Heise Zeitschriften Verlag GmbH 2006.
+* Hagedorn, B.: [Podcasting: Konzept, Produktion, Vermarktung](https://amzn.to/2OkCbSg). mitp. 2016.
+* Herrington, J.D.: [Podcasting Hacks. Tips & Tools for Blogging Out Loud](https://amzn.to/2U6KtCK). O'Reilly Media. 2005.
+* Pieper, F.: [Das P.A. Handbuch Praktische Einführung in die professionelle Beschallungstechnik](https://amzn.to/2OkU3wt). GC Carstensen Verlag. 2011.
+* Rokk, K.: [Die Podcasting-Goldgrube. Der umfassende Ratgeber für Podcast-Einsteiger](https://amzn.to/2U83vbK). CreateSpace Independent Publishing Platform. 2014.
+* Rubens, A.: Podcasting. [Das Buch zum Audiobloggen](https://amzn.to/2UN5VJY). O'Reilly Verlag GmbH. 2006.
 
 ## Podcasting-Weblinks
+* Wikipedia-Artikel [Podcast](https://de.wikipedia.org/wiki/Podcast)
+* Video [What is a Podcast?](https://www.youtube.com/watch?v=oerm5Q_9u2A)
+* [Apple Podcast FAQ](https://www.apple.com/de/itunes/podcasts/fanfaq.html) - Was ist ein Podcast? Wie kann ich auf iOS in Podcasts einsteigen?
+* [Sketchnote Podcast in a Nutshell](https://www.unmus.de/podcast-in-a-nutshell) - Ein kleiner Leitfaden zur Orientierung in der komplizierten Welt des Podcasting
 * [fyyd.de](https://fyyd.de) - Podcast Suchmaschine
-* podcast.de - Podcast-Verzeichnis mit MP3s + Videos
-* iTunes Podcasts (inkl. FAQ für Fans, FAQ für Podcast Makers)
+* [Das Sendezentrum](https://das-sendezentrum.de) - Der Schmelztigel für die freie Podcast-Szene, u.a. Podcast Konferenz [SUBSCRIBE](https://das-sendezentrum.de/subscribe)
 * [sendegate.de](https://sendegate.de) - Die Podcasting-Community
-* Das Sendezentrum - Kombinat für andgewandte Radiotheorie (u.a. Podcasting-Konferenz Subscribe und Podcastpat:innen)
-* Sketchnote Podcast in a Nutshell - Ein kleiner Leitfaden zur Orientierung in der komplizierten Welt des Podcasting
-* Der Lautsprecher - Ein Podcast über das Senden und Empfangen werden
-* International Podcast Day - Jedes Jahr am 30. September
+* [How to Podcast](https://www.facebook.com/groups/howtopodcast) - öffentliche Facebook-Gruppe zum Podcasting (englischsprachig, war früher auf Google+)
+* [Der Lautsprecher](https://der-lautsprecher.de) - Ein Podcast über das Senden und Empfangen werden
+* [International Podcast Day](https://internationalpodcastday.com) - Jedes Jahr am 30. September
 
 # Podcasting Path: Vom Hören zum Machen
 
-## Circle Organisatoren Checkliste
-...
+Ein Lernpfad ist eine Folge von Aktivitäten und Übungen, um etwas Neues zu lernen. Ein Pfad kann ein oder mehrere Sprints dauern. Der Podcsating Path ist ein Lernpfad für Lernende, die ihren eigenen Podcast starten wollen. Der Lernpfad besteht aus 11 Katas (Übungen), mit denen man lernt, Podcasts zu finden und zu hören und schließlich auch selber zu produzieren. Es wird empfohlen, den Pfad mit 4-5 Personen in einem Sprint zu durchlaufen.
 
-## Kata: ...
+Katas für den Podcasting Path:
 
-Erste Kata Sammlung von Übungen:
-
-* Finde eine Podcast App auf deinem Smartphone
-* Finde Podcasts, die für deine Wissensgebiete, Aufgaben und Projekt relevant sind (Abgleich lernOS Guide)
-* Abonniere mindestens fünf Podcasts
-* Verschaffe dir einen allgemeinen Überblick über Podcast-Produktion
-* Überlege dir ein Mini-Konzept für deinen eigenen Podcast (Canvas)
-* Definiere dein Podcast-Setup (Checkliste)
-* Richte dein Podcast-Setup ein
-* Achtung Aufnahme: Mache deine erste Aufnahme
-* Scheide deine Aufnahme und erstelle ein MP3
-* Veröffentliche deinen ersten Podcast
-* Reflektiere den ganzen Prozess, die Reaktionen und das Feedback
+1. **Kata: Get Started:** Mache dich mit den Grundlagen des Podcastings über das Grundlagen-Kapitel sowie die weiterführenden Literatur- und Weblinks vertraut.
+2. **Kata: Finde eine Podcast App:** Schaue auf deinem Smartphone, ob bereits eine Podcast-App vorhanden ist. Wenn nicht, gehe in den App Store, suche und installiere eine Podcast App (z.B. Podcast auf iOS oder AntennaPod auf Android).
+3. **Kata: Finde Podcasts:** suche in deiner Podcast App, auf fyyd.de oder anderen Plattformen nach Podcasts, die für deine Ziele, Wissensgebiete, Aufgaben und Projekt relevant sind. Abonniere mindestens fünf Podcasts und höre sie in deinem Alltag. Achte auf Beispiele, die dir für einen eigenen Podcast gefallen würden.
+4. **Kata: Podcast Production Deep Dive:** Verschaffe dir einen allgemeinen Überblick über den Podcast-Produktionsprozess inkl. notwendiger Hard- und Software. Überlege dir, mit welcher Hard- und Software du für deinen eigenen Podcast arbeiten möchtest.
+5. **Kata: Dein eigener Podcast:** Überlege dir ein Mini-Konzept für deinen eigenen Podcast. Arbeite die lernOS Podcast Checkliste durch, um deinen Podcast zu konfigurieren. Beschaffe dir fehlende Podcast-Hardware oder -Software.
+6. **Kata: Baue dein eigenes Podcast-Studio:** Verwende das Setup aus deiner Podcast-Checklist , um dir dein eigenes Podcast-Studio einzurichten. Verwende etwas Zeit, dich mit Hardware und Software vertraut zu machen.
+7. **Kata: Achtung Aufnahme:** Bereite deine erste Episode vor und derstelle die Aufnahme. Meist ist die erste Aufnahme nicht die, die später auch veröffentlicht wird. Mache so viele Aufnahmen, bis du mit dem Ergebnis zufrieden bist.
+8. **Kata: Postproduktion:** Importiere die Aufnahmedatei in deine Podcasting-Software. Schneide die Aufnahme und verwende Effekte, wenn gewünscht. Erstelle die finale MP3-Datei.
+9. **Kata: Publiziere deinen Podcast:** Veröffentliche deine erste Podcast-Episode auf deiner gewählten Podcast-Plattorm. Erstelle Shownotes, um Nutzern einen Überblick über die Podcast-Inhalte zu geben und den Podcast für Suchmaschinen besser auffindbar zu machen.
+10. **Kata: Kommunikation, Kommunikation, Kommunikation:** Mache deinen Podcast über die von dir gewählten Kanäle bekannt und ermuntere zu Diskussion und Feedback. Reserviere dir etwas Zeit, um auf Feedback und Fragen zu reagieren.
+11. **Kata: Podcast Klinik:** Stellt euch gegenseitig eure Podcasts vor und sprecht über die Erfahrungen, die ihr mit euren Podcasts gemacht habt.
 
 # Stop talking, start doing!
-...
+Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach. Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
+
+1.  **Zeit einplanen:** definiere das Quartal, in dem Du mit lernOS starten möchtest. Trage Dir die Zeiten für das wöchentliche Treffen in den Kalender ein. Dieser regelmäßige Termin ist besonders wichtig, wenn Du lernOS in einem Learning Circle praktizierst.
+2.  **Ziele und Schlüsselergebnisse definieren:** nutze Woche 0, um Deine Ziele und messbare Ergebnisse für den Sprint festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.
+3.  **Einen Circle gründen:** suche nach 3-4 Mitstreitern, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann er die Rolle des Circle-Moderator übernehmen.
+4.  **Organisiere das Weekly:** wenn Ihr Euch im Circle nicht kennt, trefft Euch in Woche 0 am besten persönlich. Nutzt soziale Netzwerke oder Messenger, um zwischen den Treffen zu kommunizieren. Nutzt Videokonferenzen, um virtuelle Treffen zu organisieren.
+5.  **Plan, Do, Learn, Repeat:** Nutzt das letzte Treffen in der Woche 12, um die Ergebnisse und die
+    Zusammenarbeit im Kreis zu reflektieren. Entscheidet, ob Ihr einen weiteren Sprint gemeinsam durchlaufen wollt.
 
 Keep Calm & Learn On! :-)
 
 # Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
-| 0.1 | Simon Dückert | ... | dd.mm.yyyy |
+| 0.1 | Simon Dückert | Initialen Version erstellt, Inhalte aus dem Wikibook übernommen, Kapitel Vorwort erstellt, Kapitel Danksagung erstellt, Kapitel Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur- und Linkliste aktualisiert. | 24.03.2019 |
