@@ -1,1 +1,1 @@
-The lernOS Podcasting Guide will help learners to create their own podcast in one learning sprint.
+The lernOS Podcasting Guide is part of [lernOS](https://lernos.org). The guide will help learners to start their own podcast in one learning sprint.
