@@ -1,1 +1,0 @@
-pandoc lernOS-Podcasting-Guide-de.md metadata.yaml -o lernOS-Podcasting-Guide-de.pdf --from markdown --template lernOS --number-sections -V lang=de-de
