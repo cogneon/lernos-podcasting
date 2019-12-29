@@ -8,12 +8,25 @@ Podcasts haben hierbei den Vorteil, dass sie viel einfacher zu produzieren sind,
 
 \@simondueckert
 
-# Danksagung
+# Lizenz
 
-Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für Integrierte Schaltungen](https://www.iis.fraunhofer.de) (IIS) danken, die mich während meiner aktiven Zeit dort ab Mitte der 1990er Jahre mit Audiokodierung und dem MP3-Standard in Berührung gebracht haben. Ich möchte mich außerdem bei der deutschsprachigen Podcasting-Community rund um das [Sendegate](https://sendegate.de) bedanken, da ich über das Forum und Veranstaltungen wie der [SUBSCRIBE](https://das-sendezentrum.de/subscribe) sehr viel über das Podcasting lernen konnte. Mein besonderer Dank gilt Tim Pritlove, der mit seinem Artikel [Podcasting für Einsteiger](http://pb21.de/2011/05/podcasting-fur-einsteiger-1) auf pb21.de (CC BY), zunächst die Grundlage für das Wikibook [Podcasting für Einsteiger und Fortgeschrittene](https://de.wikibooks.org/wiki/Podcasting_f%C3%BCr_Einsteiger_und_Fortgeschrittene) und dann auch für diesen Leitfaden gebildet hat. Außerdem möchte ich Marco Hitschler danken, von dessen Sketchnote [Podcast in a Nutshell](https://www.unmus.de/podcast-in-a-nutshell) (CC BY) ich Ausschnitte für die Bebilderung dieses Leitfadens verwendet habe.
+lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
 
-# Einleitung
+![](./images/cc-by.png)
 
+**Du darfst:**
+
+* **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
+* **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+
+**Unter folgenden Bedingungen:**
+
+- **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+- **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+
+![](./images/FreeCulturalWorks.png)
+
+# Podcasting-Grundlagen
 Tim Berners-Lee stellte am 13.11.1990 eine Webseite online, die heute als offiziell erster [Weblog](https://de.wikipedia.org/wiki/Blog) gilt. Im Jahr 1997 startete Dave Winer seinen Blog Scripting News. Im gleichen Jahr wurde erstmal der Begriff "Weblog" verwendet. Weblogs stellen ihre Inhalte über sog. [RSS-Feeds](https://de.wikipedia.org/wiki/RSS_(Web-Feed)) in maschinenlesbarer Form zur Verfügung. Dave Winer war der erste, der Weblogs und RSS-Feeds im Jahr 2000 für die erste praktische Umsetzung eines [Podcasts](https://de.wikipedia.org/wiki/Podcast) verwendete, die damals noch Audioblogs genannt wurden. Apple gab Podcasts mit der Veröffentlichung des iPods 2005 ihren bis heute verwendeten Namen. Neben den Audioblogs sind 2004 auch die [Videoblogs](https://de.wikipedia.org/wiki/Vlog) (Vlogs) entstanden, die durch das 2005 gegründete Unternehmen YouTube zu großer Bekanntheit gelangt sind. Anders als bei Massenmedien wie Zeitung, Radio oder Fernsehen bieten Podcasts viel mehr Freiheit bei der Formatwahl und der Interaktion mit der Community der Hörer. Podcasts könnten damit einen "Kommunikationsapparat" darstellen, den Berthold Brecht schon in seiner [Radiotheorie](https://de.wikipedia.org/wiki/Radiotheorie) in den 1930er Jahren dargelegt hat:
 
 > Der Rundfunk wäre der denkbar großartigste Kommunikationsapparat des öffentlichen Lebens, ein ungeheures Kanalsystem, das heißt, er wäre es, wenn er es verstünde, nicht nur auszusenden, sondern auch zu empfangen, also den Zuhörer nicht nur hören, sondern auch sprechen zu machen und ihn nicht zu isolieren, sondern ihn auch in Beziehung zu setzen.
@@ -22,7 +35,6 @@ Selber Radio zu machen, ist einfach. Man sollte sich nur vorher überlegen, mit 
 
 Die Möglichkeiten eines Gesprächs auszuloten, die Dynamik des Dialogs zur Wissenser- und -vermittlung zu nutzen und eine Sendung mit Spannung, Tiefe und Humor anzureichern sollte das Ziel sein. Man sollte dabei nie nur für sich produzieren, sondern sich stets im Bewusstsein halten, dass das Endergebnis von Dritten auch gehört und genossen werden soll. Mit der Einstellung kommt man schnell voran und kann in der Folge auch im Dialog mit den Hörern am Format feilen und auch für sich selbst den wünschenswerten und notwendigen Spass am Gespräch finden.
 
-# Podcasting-Grundlagen
 Der Wunsch, selbst Audiosendungen in Form von Podcasts zu produzieren stellt viele Neueinsteiger zunächst einmal vor ein großes Problem. Welches Format ist das richtige? Welche Audiotechnik benötige ich, um Aufnahmen in angemessener Qualität durchzuführen, zu bearbeiten und zu veröffentlichen?
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/Zirkusliebe-cc-by-podcast-in-a-nutshell-podcast-easypeasy.png)
@@ -289,7 +301,13 @@ Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, sol
 
 Keep Calm & Learn On! :-)
 
-# Änderungshistorie
+# Anhang
+
+## Danksagungen
+
+Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für Integrierte Schaltungen](https://www.iis.fraunhofer.de) (IIS) danken, die mich während meiner aktiven Zeit dort ab Mitte der 1990er Jahre mit Audiokodierung und dem MP3-Standard in Berührung gebracht haben. Ich möchte mich außerdem bei der deutschsprachigen Podcasting-Community rund um das [Sendegate](https://sendegate.de) bedanken, da ich über das Forum und Veranstaltungen wie der [SUBSCRIBE](https://das-sendezentrum.de/subscribe) sehr viel über das Podcasting lernen konnte. Mein besonderer Dank gilt Tim Pritlove, der mit seinem Artikel [Podcasting für Einsteiger](http://pb21.de/2011/05/podcasting-fur-einsteiger-1) auf pb21.de (CC BY), zunächst die Grundlage für das Wikibook [Podcasting für Einsteiger und Fortgeschrittene](https://de.wikibooks.org/wiki/Podcasting_f%C3%BCr_Einsteiger_und_Fortgeschrittene) und dann auch für diesen Leitfaden gebildet hat. Außerdem möchte ich Marco Hitschler danken, von dessen Sketchnote [Podcast in a Nutshell](https://www.unmus.de/podcast-in-a-nutshell) (CC BY) ich Ausschnitte für die Bebilderung dieses Leitfadens verwendet habe.
+
+## Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
 | 0.1 | Simon Dückert | Initialen Version erstellt, Inhalte aus dem Wikibook übernommen, Kapitel Vorwort erstellt, Kapitel Danksagung erstellt, Kapitel Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur- und Linkliste aktualisiert. | 24.03.2019 |
