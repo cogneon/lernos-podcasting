@@ -315,3 +315,4 @@ Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für I
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
 | 0.1 | Simon Dückert | Initialen Version erstellt, Inhalte aus dem Wikibook übernommen, Kapitel Vorwort erstellt, Kapitel Danksagung erstellt, Kapitel Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur- und Linkliste aktualisiert. | 24.03.2019 |
+| 0.2 | Simon Dückert | Teile der Sketchnote "Podcast in a Nutshell" von Marco Hitschler (@zirkusliebe) als Bebilderung der Kapitel übernommen. | 27.07.2019 |
