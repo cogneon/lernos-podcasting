@@ -98,7 +98,39 @@ Es sollte aber darauf verzichtet werden, die Positionierung zu extrem zu machen.
 
 Auch eine Mehrspuraufnahme, in der jeder Sprecher separat aufgenommen wird, ist bei einer Talkrunde sinnvoll, denn dies macht eine nachträglich Bearbeitung viel einfacher. Davon abgesehen kann man auch die räumliche Positionierung im Nachhinein feinabstimmen und ein optimales Ergebnis erzielen.
 
-## Podcasting-Grundausstattung
+## Podcasting-Workflow
+
+Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem:
+
+![Typischer Podasting-Workflow](images/Podcasting-Workflow-900px.png)
+
+Bevor man eine Podcast-Episode aufnimmt, sollte man sich über einige Parameter der Aufnahme Gedanken machen. Nicht alles, was hier aufgeführt wird muss zwingend so umgesetzt werden, aber es lohnt sich, zumindest zu prüfen, ob man vielleicht ohne nennenswerten Aufwand das eine oder andere von vornherein den Anforderungen an eine gute Aufnahme anpassen kann.
+
+### Raumsituation und Hall
+
+Wenn man innerhalb eines Raumes aufnimmt, sollte man sich einen Raum suchen, der nicht so viel Hall entwickelt. Kahle Wände und vor allem glatte Fensterfronten sind die Hauptursache für Hall, der sich nachher störend auf die Aufnahme legt und es den Zuhörern unnötig schwer macht, dem Gespräch zu folgen.
+
+Es ist nicht immer einfach, vorhandenen Hall zu unterbinden, so sollte man gleich nach einem Raum Ausschau halten, der eine bestimmte "Unordnung" mit sich bringt: schräge Wände, Bücherregale, Pflanzen, Polstermöbel und Teppiche, Wandteppiche und Vorhänge – all das trägt erheblich dazu bei, dem Schall nicht zu viel Reflektionsfläche zu bieten und ihn zu absorbieren oder zu diffundieren.
+
+Wer sich einen festen Raum als Aufnahmestudio einrichten will, sollte überlegen, ob man kritische Stellen nicht gleich etwas umstellt oder gar absorbierende Materialien installiert. Eine große Fensterfront lässt sich durch einen Molton-Vorhang schnell in den Griff kriegen. Wandteppiche können Wände entschärfen.
+
+Dazu ist es sinnvoll, nicht zu viel zusätzliche "Klangkörper" ins Spiel zu bringen. Metall- oder Glastische können sich unangenehm einbringen, wenn Gesprächsteilnehmer mit ihren Händen oder irgendwelchen Büroartikeln auf der Oberfläche herumfuhrwerken. Hier ist ein massiver Holztisch sinnvoller, ggf. kann man auch mit Schreibtischauflagen Entspannung schaffen.
+
+### Sprecherposition
+
+Ein bequeme Sitzposition ist für Sprachaufnahmen sehr von Vorteil. Idealerweise sollte man das aber nicht zusammengekrümmt im Sofa sitzen, sondern möglichst aufrecht, so dass der Brustkorb und Bauchbereich seine volle Atmungsunterstützung entwickeln kann.
+
+Wer mag kann auch gleich stehen oder zumindest eine Stehhilfe bzw. Hochsitz verwenden. Dann ist das Sprechen am einfachsten, man kann leichter laut und direkt sprechen und wird am Ende besser verstanden.
+
+### Mikrofonierung
+
+Die Aufgabe des Mikrofons ist es, die Sprache jedes Gesprächsteilnehmers optimal einzufangen und für die Aufnahme zu wandeln. Daher ist es optimal, wenn jeder Teilnehmer auch über sein eigenes Mikrofon verfügt.
+
+Zwar kann man auch mehrere Leute mit einem Gemeinschaftsmikrofon aufnehmen, doch wird es sich kaum vermeiden lassen, dass man dabei auch immer viel "Raum" aufnimmt, der sich in der Aufnahme störend auswirkt. Der Aufwand, jedem Teilnehmer sein eigenes Mikrofon zuzuteilen lohnt sich daher auf jeden Fall. Wer hier Geld sparen möchte, sollte sich seiner Optionen bei der Auswahl des richtigen Mikrofons bewusst sein.
+
+Entsprechend benötigt man für die Aufnahme auch einen eigenen Mikrofoneingang (Mikrofonverstärker) am Mischpult oder Aufnahmegerät. Hier muss also die richtige Kapazität vorhanden sein.
+
+## Podcasting-Hardware
 Der Ort der Aufnahme einer Podcast-Episode kann sehr unterschiedlich sein. Von der mobilen Aufnahme mit dem Smartphone bis zum voll ausgestatteten Tonstudio sind alle Schattierung denkbar. Für jede Aufnahmesituation müssen in der Planung die Rahmenbedingungen bedacht werden, die sich auf die Qualität der Aufnahme auswirken.
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-tonstudio.png)
@@ -205,34 +237,6 @@ Ein Expander geht ähnlich vor wie ein Kompressor, allerdings werden hier leise 
 Bei Aufnahmen mit mehreren Mikrofonen kann der Expander das "Übersprechen" von einem auf ein anderes Mikrofon einschränken bzw. unterbinden. Damit erzielt man bei einer Mehrspuraufnahme besser voneinander getrennte Signale, was die Nachbearbeitung vereinfacht und auch potentielle Halleffekte aus der Aufnahme herausnimmt.
 
 Die Parametrisierung ist auch ähnlich zur Kompression. Wieder bestimmt ein Auslösewert (engl. Threshold) bis zu welcher Lautstärke der Expander aktiv werden soll und
-
-## Podcasting-Workflow
-Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem:
-
-![Typischer Podasting-Workflow](images/Podcasting-Workflow-900px.png)
-
-Bevor man eine Podcast-Episode aufnimmt, sollte man sich über einige Parameter der Aufnahme Gedanken machen. Nicht alles, was hier aufgeführt wird muss zwingend so umgesetzt werden, aber es lohnt sich, zumindest zu prüfen, ob man vielleicht ohne nennenswerten Aufwand das eine oder andere von vornherein den Anforderungen an eine gute Aufnahme anpassen kann.
-
-### Raumsituation und Hall
-Wenn man innerhalb eines Raumes aufnimmt, sollte man sich einen Raum suchen, der nicht so viel Hall entwickelt. Kahle Wände und vor allem glatte Fensterfronten sind die Hauptursache für Hall, der sich nachher störend auf die Aufnahme legt und es den Zuhörern unnötig schwer macht, dem Gespräch zu folgen.
-
-Es ist nicht immer einfach, vorhandenen Hall zu unterbinden, so sollte man gleich nach einem Raum Ausschau halten, der eine bestimmte "Unordnung" mit sich bringt: schräge Wände, Bücherregale, Pflanzen, Polstermöbel und Teppiche, Wandteppiche und Vorhänge – all das trägt erheblich dazu bei, dem Schall nicht zu viel Reflektionsfläche zu bieten und ihn zu absorbieren oder zu diffundieren.
-
-Wer sich einen festen Raum als Aufnahmestudio einrichten will, sollte überlegen, ob man kritische Stellen nicht gleich etwas umstellt oder gar absorbierende Materialien installiert. Eine große Fensterfront lässt sich durch einen Molton-Vorhang schnell in den Griff kriegen. Wandteppiche können Wände entschärfen.
-
-Dazu ist es sinnvoll, nicht zu viel zusätzliche "Klangkörper" ins Spiel zu bringen. Metall- oder Glastische können sich unangenehm einbringen, wenn Gesprächsteilnehmer mit ihren Händen oder irgendwelchen Büroartikeln auf der Oberfläche herumfuhrwerken. Hier ist ein massiver Holztisch sinnvoller, ggf. kann man auch mit Schreibtischauflagen Entspannung schaffen.
-
-### Sprecherposition
-Ein bequeme Sitzposition ist für Sprachaufnahmen sehr von Vorteil. Idealerweise sollte man das aber nicht zusammengekrümmt im Sofa sitzen, sondern möglichst aufrecht, so dass der Brustkorb und Bauchbereich seine volle Atmungsunterstützung entwickeln kann.
-
-Wer mag kann auch gleich stehen oder zumindest eine Stehhilfe bzw. Hochsitz verwenden. Dann ist das Sprechen am einfachsten, man kann leichter laut und direkt sprechen und wird am Ende besser verstanden.
-
-### Mikrofonierung
-Die Aufgabe des Mikrofons ist es, die Sprache jedes Gesprächsteilnehmers optimal einzufangen und für die Aufnahme zu wandeln. Daher ist es optimal, wenn jeder Teilnehmer auch über sein eigenes Mikrofon verfügt.
-
-Zwar kann man auch mehrere Leute mit einem Gemeinschaftsmikrofon aufnehmen, doch wird es sich kaum vermeiden lassen, dass man dabei auch immer viel "Raum" aufnimmt, der sich in der Aufnahme störend auswirkt. Der Aufwand, jedem Teilnehmer sein eigenes Mikrofon zuzuteilen lohnt sich daher auf jeden Fall. Wer hier Geld sparen möchte, sollte sich seiner Optionen bei der Auswahl des richtigen Mikrofons bewusst sein.
-
-Entsprechend benötigt man für die Aufnahme auch einen eigenen Mikrofoneingang (Mikrofonverstärker) am Mischpult oder Aufnahmegerät. Hier muss also die richtige Kapazität vorhanden sein.
 
 ## Podcasting-Software
 Podcasting ist eine Publikationsform, die auf Computer und mobile Abspielgeräte (z.B. Smartphone) zugeschnitten ist. Es ist anzunehmen, dass nahezu jeder, der Podcasts produziert oder Podcasts konsumiert, über einen Computer verfügt. Doch dies kann sich ändern, denn zum einen werden Smartphones für den Empfang von Podcasts zunehmend interessanter und setzen mit unter schon keinen Computer mehr voraus. Auch lassen sich schon heute mit Smartphones und Tablets auch Audioaufnahmen und Schnitt durchführen und der nächste Schritt, der dann auch Encoding und Publikation übernimmt ist nicht mehr weit. Trotzdem bietet der Computer immer noch die größte Bandbreite an Bearbeitungsmöglichkeiten für qualitativ hochwertige Bearbeitung der Audiodaten.
