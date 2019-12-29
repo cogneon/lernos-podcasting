@@ -296,7 +296,7 @@ Konkurrenzlos ist der Computer bei der Audiobearbeitung. Das Einkürzen der Send
 * [Der Lautsprecher](https://der-lautsprecher.de) - Ein Podcast über das Senden und Empfangen werden
 * [International Podcast Day](https://internationalpodcastday.com) - Jedes Jahr am 30. September
 
-# Podcasting Path: Vom Hören zum Machen
+# Lernpfad Podcasting
 
 Ein Lernpfad ist eine Folge von Aktivitäten und Übungen, um etwas Neues zu lernen. Ein Pfad kann ein oder mehrere Sprints dauern. Der Podcsating Path ist ein Lernpfad für Lernende, die ihren eigenen Podcast starten wollen. Der Lernpfad besteht aus 11 Katas (Übungen), mit denen man lernt, Podcasts zu finden und zu hören und schließlich auch selber zu produzieren. Es wird empfohlen, den Pfad mit 4-5 Personen in einem Sprint zu durchlaufen.
 
@@ -337,3 +337,4 @@ Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für I
 |---------|----------------|-----------------------|-------|
 | 0.1 | Simon Dückert | Initialen Version erstellt, Inhalte aus dem Wikibook übernommen, Kapitel Vorwort erstellt, Kapitel Danksagung erstellt, Kapitel Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur- und Linkliste aktualisiert. | 24.03.2019 |
 | 0.2 | Simon Dückert | Teile der Sketchnote "Podcast in a Nutshell" von Marco Hitschler (@zirkusliebe) als Bebilderung der Kapitel übernommen. | 27.07.2019 |
+| 0.3 | Simon Dückert | Inhaltsverzeichnis an lernOS High Level Structure angepasst, Untertitel ergänzt, Kapitel "Podcasting-Grundausstattung" in "Podcasting Hardware" umbenannt. | 29.12.2019 |
