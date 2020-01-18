@@ -1,0 +1,15 @@
+site_name: lernOS Podcasting Leitfaden
+
+docs_dir: source
+
+site_dir: ../docs/de
+
+nav:
+    - Vorwort: 1-Vorwort.md
+    - Lizenz: 2-Lizenz.md
+    - Grundlagen: 3-Grundlagen.md
+    - Lernpfad: 4-Lernpfad.md
+    - Stop talking: 5-Stop-talking.md
+    - Anhang: 6-Anhang.md
+
+theme: readthedocs

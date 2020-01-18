@@ -1,32 +1,4 @@
-# Vorwort
-
-lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
-
-Der Trend Working Out Loud bedeutet, die eigene Arbeit sichtbar zu machen und über die eigene Arbeit zu erzählen, um Vernetzung zu ermöglichen und Hilfe aus dem Netzwerk zu erhalten. Als Plattform kommen oft interne und externe soziale Netzwerke zum Einsatz. Gerade wenn es um den Transport von Wissen zu komplexen Themen oder Emotionen geht, reichen kurze Texte oft nicht aus. Hier eignen sich Audio- und Video-Formate wie Screencasts, Erklärvideos und Podcasts besser.
-
-Podcasts haben hierbei den Vorteil, dass sie viel einfacher zu produzieren sind, als Videos. Außerdem können Podcasts an Orten konsumiert werden, an denen die Nutzung von Videos schwierig ist (Pendler, im Auto, im Flugzeug, beim Spazieren etc.). Mit diesem lernOS Leitfaden lernt ihr in einem Learning Sprint, selber Podcast zu machen und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine durchlaufen oder in einem Learning Circle mit 4-5 anderen Personen.
-
-\@simondueckert
-
-# Lizenz
-
-lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
-
-![](./images/cc-by.png)
-
-**Du darfst:**
-
-* **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
-* **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
-
-**Unter folgenden Bedingungen:**
-
-- **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
-- **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
-
-![](./images/FreeCulturalWorks.png)
-
-# Podcasting-Grundlagen
+# Grundlagen
 Tim Berners-Lee stellte am 13.11.1990 eine Webseite online, die heute als offiziell erster [Weblog](https://de.wikipedia.org/wiki/Blog) gilt. Im Jahr 1997 startete Dave Winer seinen Blog Scripting News. Im gleichen Jahr wurde erstmal der Begriff "Weblog" verwendet. Weblogs stellen ihre Inhalte über sog. [RSS-Feeds](https://de.wikipedia.org/wiki/RSS_(Web-Feed)) in maschinenlesbarer Form zur Verfügung. Dave Winer war der erste, der Weblogs und RSS-Feeds im Jahr 2000 für die erste praktische Umsetzung eines [Podcasts](https://de.wikipedia.org/wiki/Podcast) verwendete, die damals noch Audioblogs genannt wurden. Apple gab Podcasts mit der Veröffentlichung des iPods 2005 ihren bis heute verwendeten Namen. Neben den Audioblogs sind 2004 auch die [Videoblogs](https://de.wikipedia.org/wiki/Vlog) (Vlogs) entstanden, die durch das 2005 gegründete Unternehmen YouTube zu großer Bekanntheit gelangt sind. Anders als bei Massenmedien wie Zeitung, Radio oder Fernsehen bieten Podcasts viel mehr Freiheit bei der Formatwahl und der Interaktion mit der Community der Hörer. Podcasts könnten damit einen "Kommunikationsapparat" darstellen, den Berthold Brecht schon in seiner [Radiotheorie](https://de.wikipedia.org/wiki/Radiotheorie) in den 1930er Jahren dargelegt hat:
 
 > Der Rundfunk wäre der denkbar großartigste Kommunikationsapparat des öffentlichen Lebens, ein ungeheures Kanalsystem, das heißt, er wäre es, wenn er es verstünde, nicht nur auszusenden, sondern auch zu empfangen, also den Zuhörer nicht nur hören, sondern auch sprechen zu machen und ihn nicht zu isolieren, sondern ihn auch in Beziehung zu setzen.
@@ -45,7 +17,7 @@ Um diese Fragen gut beantworten zu können und basierend auf den Antworten die r
 
 Zum Verständnis der weiteren Diskussion der möglichen Podcast-Formate und den Anforderungen für deren Aufnahme, ist es zunächst erforderlich, ein paar Grundlagen näher zu betrachten, deren Verständnis vielleicht nicht immer vollständig erforderlich, aber zumindest sinnvoll und hilfreich ist.
 
-## Podast-Formate
+## Formate
 Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. Im Folgenden eine Beschreibung typischer Podcast-Formate.
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-format.png)
@@ -98,7 +70,7 @@ Es sollte aber darauf verzichtet werden, die Positionierung zu extrem zu machen.
 
 Auch eine Mehrspuraufnahme, in der jeder Sprecher separat aufgenommen wird, ist bei einer Talkrunde sinnvoll, denn dies macht eine nachträglich Bearbeitung viel einfacher. Davon abgesehen kann man auch die räumliche Positionierung im Nachhinein feinabstimmen und ein optimales Ergebnis erzielen.
 
-## Podcasting-Workflow
+## Workflow
 
 Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem:
 
@@ -130,7 +102,7 @@ Zwar kann man auch mehrere Leute mit einem Gemeinschaftsmikrofon aufnehmen, doch
 
 Entsprechend benötigt man für die Aufnahme auch einen eigenen Mikrofoneingang (Mikrofonverstärker) am Mischpult oder Aufnahmegerät. Hier muss also die richtige Kapazität vorhanden sein.
 
-## Podcasting-Hardware
+## Hardware
 Der Ort der Aufnahme einer Podcast-Episode kann sehr unterschiedlich sein. Von der mobilen Aufnahme mit dem Smartphone bis zum voll ausgestatteten Tonstudio sind alle Schattierung denkbar. Für jede Aufnahmesituation müssen in der Planung die Rahmenbedingungen bedacht werden, die sich auf die Qualität der Aufnahme auswirken.
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-tonstudio.png)
@@ -238,7 +210,7 @@ Bei Aufnahmen mit mehreren Mikrofonen kann der Expander das "Übersprechen" von 
 
 Die Parametrisierung ist auch ähnlich zur Kompression. Wieder bestimmt ein Auslösewert (engl. Threshold) bis zu welcher Lautstärke der Expander aktiv werden soll und
 
-## Podcasting-Software
+## Software
 Podcasting ist eine Publikationsform, die auf Computer und mobile Abspielgeräte (z.B. Smartphone) zugeschnitten ist. Es ist anzunehmen, dass nahezu jeder, der Podcasts produziert oder Podcasts konsumiert, über einen Computer verfügt. Doch dies kann sich ändern, denn zum einen werden Smartphones für den Empfang von Podcasts zunehmend interessanter und setzen mit unter schon keinen Computer mehr voraus. Auch lassen sich schon heute mit Smartphones und Tablets auch Audioaufnahmen und Schnitt durchführen und der nächste Schritt, der dann auch Encoding und Publikation übernimmt ist nicht mehr weit. Trotzdem bietet der Computer immer noch die größte Bandbreite an Bearbeitungsmöglichkeiten für qualitativ hochwertige Bearbeitung der Audiodaten.
 
 In einer stationären Aufnahmesituation spricht einiges dafür, die Audiodaten gleich mit dem Computer aufzunehmen. Einerseits entfällt das ggf. zeitaufwändige oder fehleranfällige Übertragen der Daten von einem Aufnahmegerät, andererseits bietet der Computer insbesondere im Bereich der Mehrspuraufnahmen und Echtzeitanwendung von Filtern etc. viele Möglichkeiten.
@@ -276,7 +248,10 @@ Konkurrenzlos ist der Computer bei der Audiobearbeitung. Das Einkürzen der Send
 
 [Studio Link](https://studio-link.de) ermöglicht hochwertige Audioverbindungen über das Internet, z.B. zum schnellen und einfachen Einbinden von Gästen.
 
-## Podcasting-Literatur
+## Weiterführende Informationen
+
+**Literatur:**
+
 * Diemand, V., Mangold, M., Weibel, P.: [Weblogs, Podcasting und Videojournalismus: Neue Medien zwischen demokratischen und ökonomischen Potenzialen](https://amzn.to/2TUDJsk). Heise Zeitschriften Verlag GmbH 2006.
 * Hagedorn, B.: [Podcasting: Konzept, Produktion, Vermarktung](https://amzn.to/2OkCbSg). mitp. 2016.
 * Herrington, J.D.: [Podcasting Hacks. Tips & Tools for Blogging Out Loud](https://amzn.to/2U6KtCK). O'Reilly Media. 2005.
@@ -284,7 +259,8 @@ Konkurrenzlos ist der Computer bei der Audiobearbeitung. Das Einkürzen der Send
 * Rokk, K.: [Die Podcasting-Goldgrube. Der umfassende Ratgeber für Podcast-Einsteiger](https://amzn.to/2U83vbK). CreateSpace Independent Publishing Platform. 2014.
 * Rubens, A.: Podcasting. [Das Buch zum Audiobloggen](https://amzn.to/2UN5VJY). O'Reilly Verlag GmbH. 2006.
 
-## Podcasting-Weblinks
+**Weblinks:**
+
 * Wikipedia-Artikel [Podcast](https://de.wikipedia.org/wiki/Podcast)
 * Video [What is a Podcast?](https://www.youtube.com/watch?v=oerm5Q_9u2A)
 * [Apple Podcast FAQ](https://www.apple.com/de/itunes/podcasts/fanfaq.html) - Was ist ein Podcast? Wie kann ich auf iOS in Podcasts einsteigen?
@@ -295,46 +271,3 @@ Konkurrenzlos ist der Computer bei der Audiobearbeitung. Das Einkürzen der Send
 * [How to Podcast](https://www.facebook.com/groups/howtopodcast) - öffentliche Facebook-Gruppe zum Podcasting (englischsprachig, war früher auf Google+)
 * [Der Lautsprecher](https://der-lautsprecher.de) - Ein Podcast über das Senden und Empfangen werden
 * [International Podcast Day](https://internationalpodcastday.com) - Jedes Jahr am 30. September
-
-# Lernpfad Podcasting
-
-Ein Lernpfad ist eine Folge von Aktivitäten und Übungen, um etwas Neues zu lernen. Ein Pfad kann ein oder mehrere Sprints dauern. Der Podcsating Path ist ein Lernpfad für Lernende, die ihren eigenen Podcast starten wollen. Der Lernpfad besteht aus 11 Katas (Übungen), mit denen man lernt, Podcasts zu finden und zu hören und schließlich auch selber zu produzieren. Es wird empfohlen, den Pfad mit 4-5 Personen in einem Sprint zu durchlaufen.
-
-Katas für den Podcasting Path:
-
-1. **Kata: Get Started:** Mache dich mit den Grundlagen des Podcastings über das Grundlagen-Kapitel sowie die weiterführenden Literatur- und Weblinks vertraut.
-2. **Kata: Finde eine Podcast App:** Schaue auf deinem Smartphone, ob bereits eine Podcast-App vorhanden ist. Wenn nicht, gehe in den App Store, suche und installiere eine Podcast App (z.B. Podcast auf iOS oder AntennaPod auf Android).
-3. **Kata: Finde Podcasts:** suche in deiner Podcast App, auf fyyd.de oder anderen Plattformen nach Podcasts, die für deine Ziele, Wissensgebiete, Aufgaben und Projekt relevant sind. Abonniere mindestens fünf Podcasts und höre sie in deinem Alltag. Achte auf Beispiele, die dir für einen eigenen Podcast gefallen würden.
-4. **Kata: Podcast Production Deep Dive:** Verschaffe dir einen allgemeinen Überblick über den Podcast-Produktionsprozess inkl. notwendiger Hard- und Software. Überlege dir, mit welcher Hard- und Software du für deinen eigenen Podcast arbeiten möchtest.
-5. **Kata: Dein eigener Podcast:** Überlege dir ein Mini-Konzept für deinen eigenen Podcast. Arbeite die lernOS Podcast Checkliste durch, um deinen Podcast zu konfigurieren. Beschaffe dir fehlende Podcast-Hardware oder -Software.
-6. **Kata: Baue dein eigenes Podcast-Studio:** Verwende das Setup aus deiner Podcast-Checklist , um dir dein eigenes Podcast-Studio einzurichten. Verwende etwas Zeit, dich mit Hardware und Software vertraut zu machen.
-7. **Kata: Achtung Aufnahme:** Bereite deine erste Episode vor und derstelle die Aufnahme. Meist ist die erste Aufnahme nicht die, die später auch veröffentlicht wird. Mache so viele Aufnahmen, bis du mit dem Ergebnis zufrieden bist.
-8. **Kata: Postproduktion:** Importiere die Aufnahmedatei in deine Podcasting-Software. Schneide die Aufnahme und verwende Effekte, wenn gewünscht. Erstelle die finale MP3-Datei.
-9. **Kata: Publiziere deinen Podcast:** Veröffentliche deine erste Podcast-Episode auf deiner gewählten Podcast-Plattorm. Erstelle Shownotes, um Nutzern einen Überblick über die Podcast-Inhalte zu geben und den Podcast für Suchmaschinen besser auffindbar zu machen.
-10. **Kata: Kommunikation, Kommunikation, Kommunikation:** Mache deinen Podcast über die von dir gewählten Kanäle bekannt und ermuntere zu Diskussion und Feedback. Reserviere dir etwas Zeit, um auf Feedback und Fragen zu reagieren.
-11. **Kata: Podcast Klinik:** Stellt euch gegenseitig eure Podcasts vor und sprecht über die Erfahrungen, die ihr mit euren Podcasts gemacht habt.
-
-# Stop talking, start doing!
-Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach. Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
-
-1.  **Zeit einplanen:** definiere das Quartal, in dem Du mit lernOS starten möchtest. Trage Dir die Zeiten für das wöchentliche Treffen in den Kalender ein. Dieser regelmäßige Termin ist besonders wichtig, wenn Du lernOS in einem Learning Circle praktizierst.
-2.  **Ziele und Schlüsselergebnisse definieren:** nutze Woche 0, um Deine Ziele und messbare Ergebnisse für den Sprint festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.
-3.  **Einen Circle gründen:** suche nach 3-4 Mitstreitern, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann er die Rolle des Circle-Moderator übernehmen.
-4.  **Organisiere das Weekly:** wenn Ihr Euch im Circle nicht kennt, trefft Euch in Woche 0 am besten persönlich. Nutzt soziale Netzwerke oder Messenger, um zwischen den Treffen zu kommunizieren. Nutzt Videokonferenzen, um virtuelle Treffen zu organisieren.
-5.  **Plan, Do, Learn, Repeat:** Nutzt das letzte Treffen in der Woche 12, um die Ergebnisse und die
-    Zusammenarbeit im Kreis zu reflektieren. Entscheidet, ob Ihr einen weiteren Sprint gemeinsam durchlaufen wollt.
-
-Keep Calm & Learn On! :-)
-
-# Anhang
-
-## Danksagungen
-
-Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für Integrierte Schaltungen](https://www.iis.fraunhofer.de) (IIS) danken, die mich während meiner aktiven Zeit dort ab Mitte der 1990er Jahre mit Audiokodierung und dem MP3-Standard in Berührung gebracht haben. Ich möchte mich außerdem bei der deutschsprachigen Podcasting-Community rund um das [Sendegate](https://sendegate.de) bedanken, da ich über das Forum und Veranstaltungen wie der [SUBSCRIBE](https://das-sendezentrum.de/subscribe) sehr viel über das Podcasting lernen konnte. Mein besonderer Dank gilt Tim Pritlove, der mit seinem Artikel [Podcasting für Einsteiger](http://pb21.de/2011/05/podcasting-fur-einsteiger-1) auf pb21.de (CC BY), zunächst die Grundlage für das Wikibook [Podcasting für Einsteiger und Fortgeschrittene](https://de.wikibooks.org/wiki/Podcasting_f%C3%BCr_Einsteiger_und_Fortgeschrittene) und dann auch für diesen Leitfaden gebildet hat. Außerdem möchte ich Marco Hitschler danken, von dessen Sketchnote [Podcast in a Nutshell](https://www.unmus.de/podcast-in-a-nutshell) (CC BY) ich Ausschnitte für die Bebilderung dieses Leitfadens verwendet habe.
-
-## Änderungshistorie
-| Version | Bearbeitet von | Beschreibung Änderung | Datum |
-|---------|----------------|-----------------------|-------|
-| 0.1 | Simon Dückert | Initialen Version erstellt, Inhalte aus dem Wikibook übernommen, Kapitel Vorwort erstellt, Kapitel Danksagung erstellt, Kapitel Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur- und Linkliste aktualisiert. | 24.03.2019 |
-| 0.2 | Simon Dückert | Teile der Sketchnote "Podcast in a Nutshell" von Marco Hitschler (@zirkusliebe) als Bebilderung der Kapitel übernommen. | 27.07.2019 |
-| 0.3 | Simon Dückert | Inhaltsverzeichnis an lernOS High Level Structure angepasst, Untertitel ergänzt, Kapitel "Podcasting-Grundausstattung" in "Podcasting Hardware" umbenannt. | 29.12.2019 |
