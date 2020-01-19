@@ -22,6 +22,7 @@ theme:
     palette:
         primary: 'deep orange'
         accent: 'deep orange'
+    language: de
 
 repo_name: 'cogneon/lernos-podcasting'
 repo_url: 'https://github.com/cogneon/lernos-podcasting'
@@ -30,3 +31,7 @@ extra:
     social:
         - type: 'twitter'
           link: 'https://twitter.com/lern_os'
+        - type: 'linkedin'
+          link: 'https://www.linkedin.com/showcase/lern-os'
+        - type: 'github'
+          link: 'https://github.com/cogneon'
