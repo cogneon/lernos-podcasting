@@ -6,7 +6,7 @@ REM See lernOS Core Repository
 
 REM Variables
 set filename="lernOS-Podcasting-Guide-de"
-set chapters=./src/1-Vorwort.md ./src/2-Lizenz.md ./src/3-0-Grundlagen.md ./src/3-1-Format.md ./src/3-2-Workflow.md ./src/3-3-Technik.md ./src/3-4-Software.md ./src/3-5-Studio.md ./src/3-6-Weiterfuehrende-Informationen.md ./src/4-Lernpfad.md ./src/5-Stop-talking.md ./src/6-Anhang.md
+set chapters=./src/1-Ueber-lernOS.md ./src/2-0-Grundlagen.md ./src/2-1-Format.md ./src/2-2-Workflow.md ./src/2-3-Technik.md ./src/2-4-Software.md ./src/2-5-Studio.md ./src/2-6-Literatur-Links.md ./src/3-Lernpfad.md ./src/4-Anhang.md
 
 REM Delete Old Versions
 echo Deleting old versions ...

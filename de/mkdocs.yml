@@ -5,18 +5,28 @@ docs_dir: src
 site_dir: ../docs/de
 
 nav:
-    - Vorwort: 1-Vorwort.md
-    - Lizenz: 2-Lizenz.md
+    - Über lernOS: 1-Ueber-lernOS.md
     - Grundlagen:
-        - Grundlagen: 3-0-Grundlagen.md
-        - Format: 3-1-Format.md
-        - Workflow: 3-2-Workflow.md
-        - Technik: 3-3-Technik.md
-        - Software: 3-4-Software.md
-        - Studio: 3-5-Studio.md
-        - Literatur und Links: 3-6-Literatur-Links.md
-    - Lernpfad: 4-Lernpfad.md
-    - Stop talking: 5-Stop-talking.md
-    - Anhang: 6-Anhang.md
+        - Grundlagen: 2-0-Grundlagen.md
+        - Format: 2-1-Format.md
+        - Workflow: 2-2-Workflow.md
+        - Technik: 2-3-Technik.md
+        - Software: 2-4-Software.md
+        - Studio: 2-5-Studio.md
+        - Literatur und Links: 2-6-Literatur-Links.md
+    - Lernpfad: 3-Lernpfad.md
+    - Anhang: 4-Anhang.md
 
-theme: readthedocs
+theme:
+    name: 'material'
+    palette:
+        primary: 'deep orange'
+        accent: 'deep orange'
+
+repo_name: 'cogneon/lernos-podcasting'
+repo_url: 'https://github.com/cogneon/lernos-podcasting'
+
+extra:
+    social:
+        - type: 'twitter'
+          link: 'https://twitter.com/lern_os'
