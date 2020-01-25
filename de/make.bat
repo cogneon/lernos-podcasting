@@ -14,7 +14,6 @@ del %filename%.docx %filename%.epub %filename%.mobi %filename%.html %filename%.p
 
 REM Create Microsoft Word Version (docx)
 echo Creating Word version ...
-REM pandoc metadata.yaml -s --resource-path="./src" --reference-doc="./bin/custom-reference.docx" %chapters% -o %filename%.docx
 pandoc metadata.yaml -s --resource-path="./src" %chapters% -o %filename%.docx
 
 REM Create HTML Version (html)

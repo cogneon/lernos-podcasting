@@ -35,3 +35,4 @@ extra:
           link: 'https://www.linkedin.com/showcase/lern-os'
         - type: 'github'
           link: 'https://github.com/cogneon'
+    disqus: 'lernos'
