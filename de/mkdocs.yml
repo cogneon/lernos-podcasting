@@ -1,5 +1,5 @@
-site_name: lernOS Podcasting Leitfaden
-site_url: https://cogneon.github.io
+site_name: 'lernOS Podcasting Leitfaden'
+site_url: 'https://cogneon.github.io/lernos-podcasting/'
 
 docs_dir: src
 
