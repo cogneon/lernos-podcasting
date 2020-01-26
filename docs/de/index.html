@@ -11,7 +11,7 @@
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
       
-        <link rel="canonical" href="https://cogneon.github.io/lernos-podcasting/">
+        <link rel="canonical" href="https://cogneon.github.io/">
       
       
       
@@ -67,6 +67,31 @@
     
     
       
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-156969141-1", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
     
     
   </head>
@@ -96,7 +121,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://cogneon.github.io/lernos-podcasting/" title="lernOS Podcasting Leitfaden" class="md-header-nav__button md-logo">
+        <a href="https://cogneon.github.io/" title="lernOS Podcasting Leitfaden" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -188,7 +213,7 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://cogneon.github.io/lernos-podcasting/" title="lernOS Podcasting Leitfaden" class="md-nav__button md-logo">
+    <a href="https://cogneon.github.io/" title="lernOS Podcasting Leitfaden" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
