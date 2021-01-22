@@ -35,10 +35,10 @@ google_analytics:
 
 extra:
     social:
-        - type: 'twitter'
-          link: 'https://twitter.com/lern_os'
-        - type: 'linkedin'
-          link: 'https://www.linkedin.com/showcase/lern-os'
-        - type: 'github'
-          link: 'https://github.com/cogneon'
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/lern_os
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/showcase/lern-os
+        - icon: fontawesome/brands/github
+          link: https://github.com/cogneon
     disqus: lernos
