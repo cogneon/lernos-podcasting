@@ -9,12 +9,13 @@ nav:
     - Über lernOS: index.md
     - Grundlagen:
         - Grundlagen: 2-0-Grundlagen.md
-        - Format: 2-1-Format.md
-        - Workflow: 2-2-Workflow.md
-        - Technik: 2-3-Technik.md
-        - Software: 2-4-Software.md
-        - Studio: 2-5-Studio.md
-        - Literatur und Links: 2-6-Literatur-Links.md
+        - Podcasting-Canvas: 2-1-Podcasting-Canvas.md
+        - Format: 2-2-Format.md
+        - Workflow: 2-3-Workflow.md
+        - Technik: 2-4-Hardware.md
+        - Software: 2-5-Software.md
+        - Studio: 2-6-Studio.md
+        - Literatur und Links: 2-7-Literatur-Links.md
     - Lernpfad: 3-Lernpfad.md
     - Anhang: 4-Anhang.md
 

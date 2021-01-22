@@ -5,13 +5,14 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Simon Dückert" />
-  <meta name="author" content="Leonid Lezner" />
   <title>lernOS Podcasting Leitfaden</title>
   <style>
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -22,25 +23,39 @@
 <h1 class="title">lernOS Podcasting Leitfaden</h1>
 <p class="subtitle">Wissen teilen mit Podcasts</p>
 <p class="author">Simon Dückert</p>
-<p class="author">Leonid Lezner</p>
-<p class="date">Version x.x (xx.xx.2020)</p>
+<p class="date">Version 0.4 (xx.xx.2020)</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
 <li><a href="#über-lernos">Über lernOS</a></li>
-<li><a href="#grundlagen">Grundlagen</a><ul>
-<li><a href="#format">Format</a><ul>
+<li><a href="#grundlagen">Grundlagen</a>
+<ul>
+<li><a href="#podcasting-canvas">Podcasting-Canvas</a></li>
+<li><a href="#format">Format</a>
+<ul>
 <li><a href="#monolog-dialog-oder-talkrunde">Monolog, Dialog oder Talkrunde</a></li>
+<li><a href="#länge">Länge</a></li>
+<li><a href="#thema">Thema</a></li>
+<li><a href="#intro-outro-und-jingles">Intro, Outro und Jingles</a></li>
 </ul></li>
-<li><a href="#workflow">Workflow</a></li>
-<li><a href="#technik">Technik</a><ul>
+<li><a href="#workflow">Workflow</a>
+<ul>
+<li><a href="#planen-und-abstimmen">Planen und Abstimmen</a></li>
+<li><a href="#aufnehmen-und-streamen">Aufnehmen und Streamen</a></li>
+<li><a href="#bearbeiten-und-exportieren">Bearbeiten und Exportieren</a></li>
+<li><a href="#hochladen-und-beschreiben">Hochladen und Beschreiben</a></li>
+<li><a href="#veröffentlichen-und-kommunizieren">Veröffentlichen und Kommunizieren</a></li>
+</ul></li>
+<li><a href="#hardware">Hardware</a>
+<ul>
 <li><a href="#mikrofone-und-headsets">Mikrofone und Headsets</a></li>
 <li><a href="#audio-rekorder">Audio-Rekorder</a></li>
 <li><a href="#audio-interfaces">Audio-Interfaces</a></li>
 <li><a href="#mischpulte">Mischpulte</a></li>
 <li><a href="#audio-processing">Audio Processing</a></li>
 </ul></li>
-<li><a href="#software">Software</a><ul>
+<li><a href="#software">Software</a>
+<ul>
 <li><a href="#ardour">Ardour</a></li>
 <li><a href="#audacity">Audacity</a></li>
 <li><a href="#audition">Audition</a></li>
@@ -50,7 +65,8 @@
 <li><a href="#reaperultraschall">Reaper/Ultraschall</a></li>
 <li><a href="#studio-link">Studio Link</a></li>
 </ul></li>
-<li><a href="#studio">Studio</a><ul>
+<li><a href="#studio">Studio</a>
+<ul>
 <li><a href="#raumsituation-und-hall">Raumsituation und Hall</a></li>
 <li><a href="#sprecherposition">Sprecherposition</a></li>
 <li><a href="#mikrofonierung">Mikrofonierung</a></li>
@@ -58,7 +74,8 @@
 <li><a href="#literatur-und-links">Literatur und Links</a></li>
 </ul></li>
 <li><a href="#podcasting-lernpfad">Podcasting Lernpfad</a></li>
-<li><a href="#anhang">Anhang</a><ul>
+<li><a href="#anhang">Anhang</a>
+<ul>
 <li><a href="#danksagungen">Danksagungen</a></li>
 <li><a href="#änderungshistorie">Änderungshistorie</a></li>
 </ul></li>
@@ -96,6 +113,10 @@
 <p>Die Antwort auf diese Fragen hängt von vielen Faktoren ab: Wer ist die Zielgruppe? Wie viele Personen sind an dem Podcast beteiligt? In welchem Raum oder welcher Situation sollen die Aufnahmen gemacht werden? Wie tragbar muss das Equipment sein? Soll die Sendung live übertragen werden? Sollen Leute per Telefon mit in die Sendung einbezogen werden?</p>
 <p>Um diese Fragen gut beantworten zu können und basierend auf den Antworten die richtige Entscheidung fällen zu können, betrachten wir zunächst verschiedene Aspekte einzeln, um konkrete Empfehlungen geben zu können.</p>
 <p>Zum Verständnis der weiteren Diskussion der möglichen Podcast-Formate und den Anforderungen für deren Aufnahme, ist es zunächst erforderlich, ein paar Grundlagen näher zu betrachten, deren Verständnis vielleicht nicht immer vollständig erforderlich, aber zumindest sinnvoll und hilfreich ist.</p>
+<h2 id="podcasting-canvas">Podcasting-Canvas</h2>
+<p>…</p>
+<p><img src="images/lernOS-Podcasting-Canvas-de.png" /></p>
+<p>…</p>
 <h2 id="format">Format</h2>
 <p>Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. Im Folgenden eine Beschreibung typischer Podcast-Formate.</p>
 <figure>
@@ -128,20 +149,29 @@
 <p>Eine Möglichkeit, die Verständlichkeit einer großen Gesprächsrunde zu erhöhen, ist, jeden Sprecher im Stereobild an einer anderen Stelle zu positionieren. Wenn manche Sprecher mehr nach links, andere mehr nach rechts positioniert werden, können die Zuhörer die Stimmen ggf. leichter auseinanderhalten bzw. einen Sprecherwechsel in einem schnellen Gespräch einfacher registrieren.</p>
 <p>Es sollte aber darauf verzichtet werden, die Positionierung zu extrem zu machen. Alle Sprecher sollten auf beiden Kanälen deutlich hörbar sein, damit auch in extremen Stereowiedergabe-Situationen (z.B. im Auto) noch ein akustisch nachvollziehbares Ergebnis herauskommt. Eine einseitige Belastung eines Kanals ist auch beim Hören mit Kopfhörern eher unangenehm.</p>
 <p>Auch eine Mehrspuraufnahme, in der jeder Sprecher separat aufgenommen wird, ist bei einer Talkrunde sinnvoll, denn dies macht eine nachträglich Bearbeitung viel einfacher. Davon abgesehen kann man auch die räumliche Positionierung im Nachhinein feinabstimmen und ein optimales Ergebnis erzielen.</p>
+<h3 id="länge">Länge</h3>
+<p>…</p>
+<h3 id="thema">Thema</h3>
+<p>…</p>
+<h3 id="intro-outro-und-jingles">Intro, Outro und Jingles</h3>
+<p>…</p>
 <h2 id="workflow">Workflow</h2>
 <p>Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem:</p>
 <figure>
 <img src="images/Podcasting-Workflow-900px.png" alt="" /><figcaption>Typischer Podasting-Workflow</figcaption>
 </figure>
 <p>Bevor man eine Podcast-Episode aufnimmt, sollte man sich über einige Parameter der Aufnahme Gedanken machen. Nicht alles, was hier aufgeführt wird muss zwingend so umgesetzt werden, aber es lohnt sich, zumindest zu prüfen, ob man vielleicht ohne nennenswerten Aufwand das eine oder andere von vornherein den Anforderungen an eine gute Aufnahme anpassen kann.</p>
-<ul>
-<li>Planen und Abstimmen</li>
-<li>Aufnehmen und Streamen</li>
-<li>Bearbeiten und Exportieren (Rendern)</li>
-<li>Hochladen und Beschreiben</li>
-<li>Veröffentlichen (Publizieren) und Kommunizieren</li>
-</ul>
-<h2 id="technik">Technik</h2>
+<h3 id="planen-und-abstimmen">Planen und Abstimmen</h3>
+<p>…</p>
+<h3 id="aufnehmen-und-streamen">Aufnehmen und Streamen</h3>
+<p>…</p>
+<h3 id="bearbeiten-und-exportieren">Bearbeiten und Exportieren</h3>
+<p>…</p>
+<h3 id="hochladen-und-beschreiben">Hochladen und Beschreiben</h3>
+<p>…</p>
+<h3 id="veröffentlichen-und-kommunizieren">Veröffentlichen und Kommunizieren</h3>
+<p>…</p>
+<h2 id="hardware">Hardware</h2>
 <p>Der Ort der Aufnahme einer Podcast-Episode kann sehr unterschiedlich sein. Von der mobilen Aufnahme mit dem Smartphone bis zum voll ausgestatteten Tonstudio sind alle Schattierung denkbar. Für jede Aufnahmesituation müssen in der Planung die Rahmenbedingungen bedacht werden, die sich auf die Qualität der Aufnahme auswirken.</p>
 <figure>
 <img src="images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-equipment.png" alt="" /><figcaption>Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <a href="https://www.unmus.de/podcast-in-a-nutshell/" class="uri">https://www.unmus.de/podcast-in-a-nutshell/</a></figcaption>
