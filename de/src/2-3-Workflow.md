@@ -7,22 +7,8 @@ Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme,
 
 Bevor man eine Podcast-Episode aufnimmt, sollte man sich über einige Parameter der Aufnahme Gedanken machen. Nicht alles, was hier aufgeführt wird muss zwingend so umgesetzt werden, aber es lohnt sich, zumindest zu prüfen, ob man vielleicht ohne nennenswerten Aufwand das eine oder andere von vornherein den Anforderungen an eine gute Aufnahme anpassen kann.
 
-### Planen und Abstimmen
-
-...
-
-### Aufnehmen und Streamen
-
-...
-
-### Bearbeiten und Exportieren
-
-...
-
-### Hochladen und Beschreiben
-
-...
-
-### Veröffentlichen und Kommunizieren
-
-...
+1. **Planen und Abstimmen:** Der Podcast-Workflow startet mit der Planung und Abstimmung des Termins und der Inhalte der jeweiligen Episode. Es muss ein gemeinsamer Termin gefunden und die Aufnahmesituation (z.B. vor Ort vs. Remote) besprochen werden. Für die inhaltliche Planung reichen i.d.R. Stichpunkte, da vorformulierte Text oft unnatürlich und steif klingen.
+2. **Aufnehmen und Streamen:** Es folgt die Aufnahme des Rohmaterials, am besten jeder Podcastende in einer eigenen Spur. Für Remote-Teilnehmer sind spezielle Tools (z.B. [Studio Link](https://studio-link.de)) oder Dienste (z.B. [Zencastr](https://zencastr.com)) notwendig. Soll das Publikum live bei der Aufnahme zuhören können, wird zusätzlich ein Livestream angeboten.
+3. **Bearbeiten und Exportieren:** In der Post-Produktion wird das Audio-Rohmaterial bearbeitet (z.B. vorne und hinten kürzen, "Ähms" oder Passagen rausschneiden, Pegel anpassen). Der fertige Schnitt wird dann im gewünschten Audio-Format exportiert (meist [MP3](https://de.wikipedia.org/wiki/MP3), alternativ [M4a](https://de.wikipedia.org/wiki/MP4) oder [Ogg](https://de.wikipedia.org/wiki/Ogg)).
+4. **Hochladen und Beschreiben:** Die fertige Audio-Datei wird dann zu einem Podhost hochgeladen. Das kann die eigene Webseite sein (z.B. Wordpress mit [Podlove Podcast Publisher](https://podlove.org/podlove-podcast-publisher)) oder ein spezieller Podhost-Dienst (z.B. [Podigee](https://www.podigee.com)). Meist wird der Podcast noch um sog. Shownotes ergänzt, eine grobe Beschreibung der Inhalte des Podcasts. Damit können sich potentielle Hörer schnell einen Überblick über den Inhalt verschaffen. Außerdem können Suchmaschinen Podcasts durch die Shownotes besser auffindbar machen.
+5. **Veröffentlichen und Kommunizieren:** Ist die Audio-Datei beim Podhost hochgeladen und veröffentlicht geht es darum, die Episode an die Zielgruppe zu bekommen. Alle Abonnenten des Podcast erhalten die Episode automatisch. Über Medien wie Newsletter, Twitter, Soziale Netzwerke, E-Mails etc. kann mit jeder Episode neues Publikum für den Podcast gewonnen werden.
