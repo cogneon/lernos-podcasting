@@ -12,8 +12,23 @@ nav:
         - Podcasting-Canvas: 2-1-Podcasting-Canvas.md
         - Format: 2-2-Format.md
         - Workflow: 2-3-Workflow.md
-        - Technik: 2-4-Hardware.md
-        - Software: 2-5-Software.md
+        - Hardare:
+            Überblick: 2-4-0-Hardware.md
+            Mikrofone und Headsets: 2-4-1-Mikrofone-Headsets.md
+            Audio-Rekorder: 2-4-2-Audio-Rekorder.md
+            Audio-Interfaces und Mischpulte: 2-4-3-Audio-Interfaces-Mischpulte.md
+            Audio-Processing: 2-4-4-Audio-Processing.md
+        - Software:
+            Überlick: 2-5-0-Software.md
+            Ardour: 2-5-1-Ardour.md
+            Audacity: 2-5-2-Audacity.md
+            Audition: 2-5-3-Audition.md
+            Ferrite: 2-5-4-Ferrite.md
+            Garageband: 2-5-5-Garageband.md
+            Hindenburg: 2-5-6-Hindenburg.md
+            Reaper und Ultraschall: 2-5-7-Reaper-Ultraschall.md
+            Studio Link: 2-5-8-Studio-Link.md
+            Zencastr: 2-5-9-Zencastr.md
         - Studio: 2-6-Studio.md
         - Literatur und Links: 2-7-Literatur-Links.md
     - Lernpfad: 3-Lernpfad.md
