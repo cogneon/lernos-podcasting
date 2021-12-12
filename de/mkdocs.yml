@@ -33,6 +33,16 @@ nav:
         - Literatur und Links: 2-7-Literatur-Links.md
     - Lernpfad: 3-Lernpfad.md
     - Anhang: 4-Anhang.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.mobi
+    - Links:
+      - lernOS Website: https://lernos.org
+      - lernOS Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'
@@ -40,6 +50,9 @@ theme:
         primary: 'deep orange'
         accent: 'deep orange'
     language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
 
 repo_name: 'cogneon/lernos-podcasting'
 repo_url: 'https://github.com/cogneon/lernos-podcasting'
@@ -57,3 +70,14 @@ extra:
         - icon: fontawesome/brands/github
           link: https://github.com/cogneon
     disqus: lernos
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - mermaid2
