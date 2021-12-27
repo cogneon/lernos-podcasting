@@ -14,3 +14,7 @@
 
 * Komplexer Installationsprozess
 * Im Vergleich zu Software wie Audacity höherer Einarbeitungsaufwand
+
+**Links:**
+
+* [Ultraschall Tutorial](https://docs.leonidlezner.de/ultraschall-tutorial) von Leonid Lezner
