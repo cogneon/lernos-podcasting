@@ -38,6 +38,7 @@ nav:
       - E-Book (epub): https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.epub
       - E-Book (mobi): https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.mobi
     - Links:
+      - Präsentation: https://cogneon.github.io/lernos-podcasting/de-slides
       - lernOS Website: https://lernos.org
       - lernOS Community: https://community.cogneon.de
       - Peerfinder: https://web.peerfinder.app
@@ -45,12 +46,14 @@ nav:
 theme:
     name: 'material'
     palette:
-        primary: 'deep orange'
-        accent: 'deep orange'
+        scheme: lernos
     language: de
     icon:
       logo: material/home
       repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
 
 repo_name: 'cogneon/lernos-podcasting'
 repo_url: 'https://github.com/cogneon/lernos-podcasting'
@@ -64,7 +67,6 @@ extra:
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
           disqus: lernos
-
 
 markdown_extensions:
   - pymdownx.superfences:

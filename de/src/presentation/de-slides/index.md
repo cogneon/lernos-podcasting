@@ -1,8 +1,13 @@
+### Ziel: Podcasting für alle
+![](images/boy-microphone.png)
+<p><small>Jemand, der Wissen zu teilen hat und keine Zielgruppe findet, ist schlimm daran. Noch schlimmer sind aber die daran, die keinen finden, der/die ihnen etwas zu sagen hat. (frei nach Brecht)</small></p>
+---
+
 ### Inhalt
 1. Kurz zu [lernOS](https://lernos.org)
 2. Geschichte des Podcasting-Leitfadens
 3. Beispiele aus dem Inhalt
-4. Ansatz Content as Code -> Verfügbare Leitfaden-Versionen
+4. lernOS Produktionskette: Content as Code
 
 ---
 
@@ -44,14 +49,14 @@
 
 ### Verfügbare Leitfaden-Versionen
 
-* **[Markdown-Version](https://github.com/cogneon/lernos-podcasting/tree/master/de/src)** - unser Quellformat
+* **[Markdown](https://github.com/cogneon/lernos-podcasting/tree/master/de/src)** - unser Quellformat
 * **[Webversion](https://cogneon.github.io/lernos-podcasting/de/)** - responsives Web-Interface
-* **PDF-Version** - zum Ausdrucken und annotieren
-* **Word-Version** - für einfache Anpassungen
-* **HTML-Version** - rohes HTML für copy&paste
-* **E-Book-Version** - in den Formaten mobi&epub
+* **PDF** - zum ausdrucken/annotieren (*pandoc*, *TeX*)
+* **Word** - für einfache Anpassungen (*pandoc*)
+* **HTML** - rohes HTML für copy&paste (*pandoc*)
+* **E-Book** - Formate mobi&epub (*pandoc*, *ImageMagick*, *Calibre*)
 
-<br /><small>Ideen für die Zukunft: Audiobook-Version, automatische Übersetzung, OneNote-Vorlage, weitere Quellen wie z.B. [24 Tipps zum Podcasten](https://das-sendezentrum.de/24-tipps-zum-podcasten/) einfügen</small>
+<br /><small>Ideen für die Zukunft: Audiobook- und OneNote-Version, automatische Übersetzung, Intranet-Beispiele, weitere Quellen z.B. [24 Tipps zum Podcasten](https://das-sendezentrum.de/24-tipps-zum-podcasten/), Video-Lernpfad</small>
 
 ---
 

@@ -11,18 +11,18 @@
 <title>Index - lernOS Podcasting Leitfaden</title>
 <link href="../../assets/stylesheets/main.82f3c0b9.min.css" rel="stylesheet"/>
 <link href="../../assets/stylesheets/palette.9204c3b2.min.css" rel="stylesheet"/>
-<meta content="#ff6e42" name="theme-color"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&amp;display=fallback" rel="stylesheet"/>
 <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<link href="../../stylesheets/extra.css" rel="stylesheet"/>
 <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
 </head>
-<body data-md-color-accent="deep-orange" data-md-color-primary="deep-orange" data-md-color-scheme="" dir="ltr">
+<body data-md-color-accent="" data-md-color-primary="" data-md-color-scheme="lernos" dir="ltr">
 <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
-<a class="md-skip" href="#inhalt">
+<a class="md-skip" href="#ziel-podcasting-fur-alle">
           Zum Inhalt
         </a>
 </div>
@@ -336,6 +336,11 @@
         </label>
 <ul class="md-nav__list" data-md-scrollfix="">
 <li class="md-nav__item">
+<a class="md-nav__link" href="https://cogneon.github.io/lernos-podcasting/de-slides">
+        Präsentation
+      </a>
+</li>
+<li class="md-nav__item">
 <a class="md-nav__link" href="https://lernos.org">
         lernOS Website
       </a>
@@ -367,6 +372,11 @@
       Inhaltsverzeichnis
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#ziel-podcasting-fur-alle">
+    Ziel: Podcasting für alle
+  </a>
+</li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="#inhalt">
     Inhalt
@@ -433,12 +443,16 @@
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"></path></svg>
 </a>
 <h1>Index</h1>
+<h3 id="ziel-podcasting-fur-alle">Ziel: Podcasting für alle</h3>
+<p><img alt="" src="images/boy-microphone.png"/></p>
+<p><small>Jemand, der Wissen zu teilen hat und keine Zielgruppe findet, ist schlimm daran. Noch schlimmer sind aber die daran, die keinen finden, der/die ihnen etwas zu sagen hat. (frei nach Brecht)</small></p>
+<hr/>
 <h3 id="inhalt">Inhalt</h3>
 <ol>
 <li>Kurz zu <a href="https://lernos.org">lernOS</a></li>
 <li>Geschichte des Podcasting-Leitfadens</li>
 <li>Beispiele aus dem Inhalt</li>
-<li>Ansatz Content as Code -&gt; Verfügbare Leitfaden-Versionen</li>
+<li>lernOS Produktionskette: Content as Code</li>
 </ol>
 <hr/>
 <h3 id="kurz-zu-lernos">Kurz zu lernOS</h3>
@@ -469,14 +483,14 @@
 <hr/>
 <h3 id="verfugbare-leitfaden-versionen">Verfügbare Leitfaden-Versionen</h3>
 <ul>
-<li><strong><a href="https://github.com/cogneon/lernos-podcasting/tree/master/de/src">Markdown-Version</a></strong> - unser Quellformat</li>
+<li><strong><a href="https://github.com/cogneon/lernos-podcasting/tree/master/de/src">Markdown</a></strong> - unser Quellformat</li>
 <li><strong><a href="https://cogneon.github.io/lernos-podcasting/de/">Webversion</a></strong> - responsives Web-Interface</li>
-<li><strong>PDF-Version</strong> - zum Ausdrucken und annotieren</li>
-<li><strong>Word-Version</strong> - für einfache Anpassungen</li>
-<li><strong>HTML-Version</strong> - rohes HTML für copy&amp;paste</li>
-<li><strong>E-Book-Version</strong> - in den Formaten mobi&amp;epub</li>
+<li><strong>PDF</strong> - zum ausdrucken/annotieren (<em>pandoc</em>, <em>TeX</em>)</li>
+<li><strong>Word</strong> - für einfache Anpassungen (<em>pandoc</em>)</li>
+<li><strong>HTML</strong> - rohes HTML für copy&amp;paste (<em>pandoc</em>)</li>
+<li><strong>E-Book</strong> - Formate mobi&amp;epub (<em>pandoc</em>, <em>ImageMagick</em>, <em>Calibre</em>)</li>
 </ul>
-<p><br/><small>Ideen für die Zukunft: Audiobook-Version, automatische Übersetzung, OneNote-Vorlage, weitere Quellen wie z.B. <a href="https://das-sendezentrum.de/24-tipps-zum-podcasten/">24 Tipps zum Podcasten</a> einfügen</small></p>
+<p><br/><small>Ideen für die Zukunft: Audiobook- und OneNote-Version, automatische Übersetzung, Intranet-Beispiele, weitere Quellen z.B. <a href="https://das-sendezentrum.de/24-tipps-zum-podcasten/">24 Tipps zum Podcasten</a>, Video-Lernpfad</small></p>
 <hr/>
 <h3 id="lernos-produktionskette-content-as-code">lernOS Produktionskette: Content as Code</h3>
 <p><a href="https://aws1.discourse-cdn.com/standard21/uploads/cogneon1/optimized/2X/c/cda162cd3ac63d56a935734be71125cd1ac3fc50_2_800x1000.png"><img src="https://aws1.discourse-cdn.com/standard21/uploads/cogneon1/optimized/2X/c/cda162cd3ac63d56a935734be71125cd1ac3fc50_2_800x1000.png" width="40%"/></a></p>
