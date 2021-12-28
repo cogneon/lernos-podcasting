@@ -7,9 +7,9 @@ chapters="./src/index.md ./src/2-0-Grundlagen.md ./src/2-1-Podcasting-Canvas.md 
 
 # Delete Old Versions
 echo Deleting old versions ...
-rm -f $filename.*
+rm -rf $filename.*
 rm -rf ../docs/de/*
-rm -f ../docs/de-slides/index.html
+rm -ff ../docs/de-slides/index.html
 
 # Create Web Version (mkdocs)
 echo Creating Web Version ...
