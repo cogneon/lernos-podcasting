@@ -24,7 +24,7 @@ Die folgende Materialliste enthält eine Übersicht von Hard- und Software für 
 | Rode NT USB                 | USB-Standmikrofon mit Kopfhöreranschluss (lokales Monitoring)                                                                                       | 140,-     |
 | Shure SM 7B                 | Studiomikrofon                                                                                                                                      | 370,-     |
 | Superlux HMC 660 X          | Hör-Sprech-Kombination (Headset), Achtung: mit maximal 12V Phantom-Speisung (nicht 48V) betreiben, kann bei Zoom-Audio-Recordern eingestellt werden | 50,-      |
-| V-Moda BoomPro              | Mikrofon-Kabel, das an einen Kopfhörer mit 3,5mm Klinkenbuchse gesteckt werden kann                                                                 | 30,-      |
+| V-Moda BoomPro              | Mikrofon-Kabel, das an einen Kopfhörer mit 3,5mm Klinkenbuchse gesteckt werden kann, Achtung: nicht V-Moda BoomPro X kaufen                         | 30,-      |
 | Yamaha AG03                 | USB-Mischpult mit 1 Mikrofon- und 1 Line-Eingang                                                                                                    | 120,-     |
 | Yamaha AG03                 | USB-Mischpult mit 2 Mikrofon- und 1 Line-Eingängen                                                                                                  | 160,-     |
 | Zoom H5                     | Audio-Recorder (4 Kanäle)                                                                                                                           | 230,-     |
@@ -38,7 +38,7 @@ Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für I
 ## Änderungshistorie
 
 | Version | Bearbeitet von | Beschreibung Änderung                                                                                                                                                                                                               | Datum      |
-| ------- | -------------- | ----------------------------------------- | ---------- |
+| ------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 0.1     | Simon Dückert  | Initialen Version erstellt, Inhalte aus dem Wikibook übernommen, Kapitel Vorwort erstellt, Kapitel Danksagung erstellt, Kapitel Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur- und Linkliste aktualisiert. | 24.03.2019 |
 | 0.2     | Simon Dückert  | Teile der Sketchnote "Podcast in a Nutshell" von Marco Hitschler (@zirkusliebe) als Bebilderung der Kapitel übernommen.                                                                                                             | 27.07.2019 |
 | 0.3     | Simon Dückert  | Inhaltsverzeichnis an lernOS High Level Structure angepasst, Untertitel ergänzt, Kapitel "Podcasting-Grundausstattung" in "Podcasting Hardware" umbenannt.                                                                          | 29.12.2019 |
