@@ -44,7 +44,8 @@ nav:
       - Peerfinder: https://web.peerfinder.app
 
 theme:
-    name: 'material'
+    name: material
+    custom_dir: src/overrides
     palette:
         scheme: lernos
     language: de
@@ -66,7 +67,7 @@ extra:
           link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
-          disqus: lernos
+    disqus: lernos
 
 markdown_extensions:
   - pymdownx.superfences:

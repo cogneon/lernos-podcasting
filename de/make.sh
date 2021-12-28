@@ -8,6 +8,8 @@ chapters="./src/index.md ./src/2-0-Grundlagen.md ./src/2-1-Podcasting-Canvas.md 
 # Delete Old Versions
 echo Deleting old versions ...
 rm -f $filename.*
+rm -rf ../docs/de/*
+rm -f ../docs/de-slides/index.html
 
 # Create Web Version (mkdocs)
 echo Creating Web Version ...
@@ -35,4 +37,4 @@ ebook-convert $filename.epub $filename.mobi
 
 #Create Slides (revealjs)
 echo Creating Presentation ...
-pandoc metadata.yaml --from markdown -s --resource-path="./src" -t revealjs -V theme=night -s ./src/presentation/de-slides/index.md -o ../docs/de-slides/index.html
+pandoc metadata.yaml --from markdown -s --resource-path="./src" -t revealjs -V theme=night -s ./slides/index.md -o ../docs/de-slides/index.html
