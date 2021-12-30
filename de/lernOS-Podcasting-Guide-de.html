@@ -155,7 +155,7 @@
 <h1 class="title">lernOS Podcasting Leitfaden</h1>
 <p class="subtitle">Wissen teilen mit Podcasts und VLogs</p>
 <p class="author">Simon Dückert</p>
-<p class="date">Version 0.4 (27.12.2021)</p>
+<p class="date">Version 0.5 (29.12.2021)</p>
 </header>
 <nav id="TOC" role="doc-toc">
 
@@ -254,6 +254,12 @@
 <h3 data-number="2.2.4" id="intro-outro-und-jingles"><span class="header-section-number">2.2.4</span> Intro, Outro und Jingles</h3>
 <p>Ähnlich wie Radio- oder Fernsehsendung können auch Podcasts eine Musik am Anfang (Intro) und am Ende (Intro) haben, müssen sie aber nicht. Manche Podcasts nutzen das Intro auch, um einen Rückblick auf die vergangene Sendung zu machen (das “Previously”) oder ein Zitat aus der aktuellen Episode anzuteasern.</p>
 <p>Während einer Episode können im Podcasts sog. “Jingles” eingespielt werden. Das kann z.B. Werbung oder kurze Melodien sein. Hat ein Podcast verschiedene thematische Rubriken, können diese durch kurze Jingles voneinander getrennt werden.</p>
+<p>Kostenfreie Töne und Musik gibt es z.B an folgenden Stellen (auf Lizenzen und Verwendungsrechte achten):</p>
+<ul>
+<li><p><a href="https://sound-effects.bbcrewind.co.uk">BBC Sound Effects</a></p></li>
+<li><p><a href="%5BFree%20Music%20Archive%20-%20Welcome%20to%20the%20Free%20Music%20Archive%5D(https://freemusicarchive.org/home)">Free Music Archive</a></p></li>
+<li><p><a href="https://youtube.com">YouTube</a>, über die Suche, dann nach Creative Commons filtern, mit <a href="https://youtube-dl.org/">youtube-dl</a> können Audios heruntergeladen werden</p></li>
+</ul>
 <h2 data-number="2.3" id="workflow"><span class="header-section-number">2.3</span> Workflow</h2>
 <p>Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem:</p>
 <figure>
@@ -300,17 +306,17 @@
 <p>Einfache Mischpulte sind analog aufgebaut, alle Signalwege sind elektrisch gekoppelt. Moderne, teurere Mischpulte arbeiten zunehmend auf digitaler Basis und bilden die Signalwege als Informationsfluss ab. Digitale Systeme sind in der Regel flexibler in der Verschaltung von Ein- und Ausgängen und weisen klassische Probleme analoger Mischpulte wie das Übersprechen von Kanälen durch mangelnde Signaltrennung prinzipbedingt nicht mehr auf.</p>
 <p>Für Podcaster zunehmend interessant sind Mischpulte, die ihren Main Mix (und häufig zusätzlich auch die Eingangsignale und AUX-Mixe) per USB- und/oder FireWire-Schnittstellen direkt einem Computer zugänglich machen. Dem Computer gegenüber stellt sich das Mischpult als mehrkanaliger Audioein- und ausgang dar. Dies erlaubt die einfache Aufnahme auf dem Computer, sowie das Einspielen von Audiomaterial direkt vom Computer in den Main Mix per Software ohne den Umweg eines analogen Audiosignals. Viele Einstiegsmodelle (wie z.B. von Phonic oder Behringer) bieten schon solche Schnittstellen, die auch ohne zusätzliche Treiber “out of the box” funktionieren.</p>
 <h3 data-number="2.4.4" id="audio-processing"><span class="header-section-number">2.4.4</span> Audio Processing</h3>
-<ul>
-<li><p><strong>Effektgeräte:</strong> Unter dem Begriff “Effektgeräte” versteht man eine nahezu endlose Typenvielfalt von Geräten, mit denen man das eingehende Tonsignal auf dem Weg zum Mischpult verändern kann. Die meisten Geräte machen allerdings nur in der Musikproduktion wirklich sinn. Allerdings können manche Geräte auch die Klangqualität für Podcasts merklich beeinflussen und sollten bei aufwändigeren Produktionen zumindest erwogen werden.</p></li>
-<li><p><strong>Kompressoren:</strong> Die Kompression ist die wichtigste Signalverarbeitung im Radiobereich. Jeder kennt den Effekt vom normalen Radio hören: ob man “lauter” Musik oder einem ruhig redenden Nachrichtensprecher lauscht, nur selten sieht man sich genötigt, den Lautstärkeregler des Empfangsgerätes zu bedienen, weil sich im Kern immer das selbe Lautstärkeempfinden einstellt. Dies ist ein beabsichtigter Effekt und wird durch eine aufwändige Kompression erreicht. Als Kompression bezeichnet man konkret das Verändern des Audiosignals in einer Weise, so dass besonders laute Passagen in ihrer Lautstärke abgesenkt werden, während leisere Passagen weniger oder gar nicht verändert werden. Dies führt dazu, dass laute und leisere Passagen danach “näher” beinander liegen. Man spricht davon, dass die “Dynamik” des Signals erhöht wurde. Kompressoren müssen mit bestimmten Parametern gesteuert werden: ein Schwellwert (engl. Threshold) bestimmt, ab welcher Lautstärke die Kompression einsetzt und ein ein Kompressionsverhältnis (engl. Compression Ratio) bestimmt, in welchem Größenordnung die Kompression angesetzt wird. Zusätzlich kann der Übergang am Schwellwert weicher eingestellt werden (engl. Soft Knee) und meist übernimmt der Kompressor auch die Nachverstärkung des in seiner Lautstärke reduzierten Signals gleich mit, um den Lautstärkeverlust auszugleichen. Nicht selten finden sich noch zusätzliche Limiter, die das Signal nachträglich bei einer bestimmten Maximallautstärke hart begrenzen. Im Ergebnis hat man ein insgesamt lauter klingendes Signal, das die Unterschiede zwischen lauten und leisen Passagen reduziert. Die Kompression ist besonders für Podcasts wertvoll, da Podcasts häufig unterwegs und nicht selten in lauten Umgebungen gehört werden. Da ist es besonders wichtig, dass man die maximale Lautstärke des Abspielgeräts gut nutzt und ein sorgfältig komprimiertes Signal hält die gesamte Aufnahme auf einer hohen Gesamtlautstärke, so dass auch bei vielen Störgeräuschen der Inhalt immer noch deutlich wahrgenommen werden kann.</p></li>
-<li><p><strong>Expander:</strong> Der Expander ist der kleine Bruder der Kompression und ist besonders bei der Aufnahme mit mehreren Mikrofonen oder wenn die Aufnahme unter Bedingungen mit störenden Hintergrundgeräuschen durchgeführt wird, hilfreich. Ein Expander geht ähnlich vor wie ein Kompressor, allerdings werden hier leise Passagen noch leiser gemacht, während lautere Passagen weniger oder gar nicht verändert werden. Der Expander sorgt also dafür, dass in Gesprächspausen leise, aber für die Aufnahme nicht relevante Klangquellen, automatisch ausgeblendet werden. Bei Aufnahmen mit mehreren Mikrofonen kann der Expander das “Übersprechen” von einem auf ein anderes Mikrofon einschränken bzw. unterbinden. Damit erzielt man bei einer Mehrspuraufnahme besser voneinander getrennte Signale, was die Nachbearbeitung vereinfacht und auch potentielle Halleffekte aus der Aufnahme herausnimmt. Die Parametrisierung ist auch ähnlich zur Kompression. Wieder bestimmt ein Auslösewert (engl. Threshold) bis zu welcher Lautstärke der Expander aktiv werden soll und</p></li>
-</ul>
+<p>Das Audio Processing wie Noise Gates, Effekte, Kompression oder Expansion kann in Hardware oder in Software umgesetzt sein.</p>
+<p><strong>Effektgeräte:</strong> Unter dem Begriff “Effektgeräte” versteht man eine nahezu endlose Typenvielfalt von Geräten, mit denen man das eingehende Tonsignal auf dem Weg zum Mischpult verändern kann. Die meisten Geräte machen allerdings nur in der Musikproduktion wirklich sinn. Allerdings können manche Geräte auch die Klangqualität für Podcasts merklich beeinflussen und sollten bei aufwändigeren Produktionen zumindest erwogen werden.</p>
+<p><strong>Kompressoren:</strong> Die Kompression ist die wichtigste Signalverarbeitung im Radiobereich. Jeder kennt den Effekt vom normalen Radio hören: ob man “lauter” Musik oder einem ruhig redenden Nachrichtensprecher lauscht, nur selten sieht man sich genötigt, den Lautstärkeregler des Empfangsgerätes zu bedienen, weil sich im Kern immer das selbe Lautstärkeempfinden einstellt. Dies ist ein beabsichtigter Effekt und wird durch eine aufwändige Kompression erreicht. Als Kompression bezeichnet man konkret das Verändern des Audiosignals in einer Weise, so dass besonders laute Passagen in ihrer Lautstärke abgesenkt werden, während leisere Passagen weniger oder gar nicht verändert werden. Dies führt dazu, dass laute und leisere Passagen danach “näher” beinander liegen. Man spricht davon, dass die “Dynamik” des Signals erhöht wurde. Kompressoren müssen mit bestimmten Parametern gesteuert werden: ein Schwellwert (engl. Threshold) bestimmt, ab welcher Lautstärke die Kompression einsetzt und ein ein Kompressionsverhältnis (engl. Compression Ratio) bestimmt, in welchem Größenordnung die Kompression angesetzt wird. Zusätzlich kann der Übergang am Schwellwert weicher eingestellt werden (engl. Soft Knee) und meist übernimmt der Kompressor auch die Nachverstärkung des in seiner Lautstärke reduzierten Signals gleich mit, um den Lautstärkeverlust auszugleichen. Nicht selten finden sich noch zusätzliche Limiter, die das Signal nachträglich bei einer bestimmten Maximallautstärke hart begrenzen. Im Ergebnis hat man ein insgesamt lauter klingendes Signal, das die Unterschiede zwischen lauten und leisen Passagen reduziert. Die Kompression ist besonders für Podcasts wertvoll, da Podcasts häufig unterwegs und nicht selten in lauten Umgebungen gehört werden. Da ist es besonders wichtig, dass man die maximale Lautstärke des Abspielgeräts gut nutzt und ein sorgfältig komprimiertes Signal hält die gesamte Aufnahme auf einer hohen Gesamtlautstärke, so dass auch bei vielen Störgeräuschen der Inhalt immer noch deutlich wahrgenommen werden kann.</p>
+<p><strong>Expander:</strong> Der Expander ist der kleine Bruder der Kompression und ist besonders bei der Aufnahme mit mehreren Mikrofonen oder wenn die Aufnahme unter Bedingungen mit störenden Hintergrundgeräuschen durchgeführt wird, hilfreich. Ein Expander geht ähnlich vor wie ein Kompressor, allerdings werden hier leise Passagen noch leiser gemacht, während lautere Passagen weniger oder gar nicht verändert werden. Der Expander sorgt also dafür, dass in Gesprächspausen leise, aber für die Aufnahme nicht relevante Klangquellen, automatisch ausgeblendet werden. Bei Aufnahmen mit mehreren Mikrofonen kann der Expander das “Übersprechen” von einem auf ein anderes Mikrofon einschränken bzw. unterbinden. Damit erzielt man bei einer Mehrspuraufnahme besser voneinander getrennte Signale, was die Nachbearbeitung vereinfacht und auch potentielle Halleffekte aus der Aufnahme herausnimmt. Die Parametrisierung ist auch ähnlich zur Kompression. Wieder bestimmt ein Auslösewert (engl. Threshold) bis zu welcher Lautstärke der Expander aktiv werden soll und</p>
 <h2 data-number="2.5" id="software"><span class="header-section-number">2.5</span> Software</h2>
 <p>Podcasting ist eine Publikationsform, die auf Computer und mobile Abspielgeräte (z.B. Smartphone) zugeschnitten ist. Es ist anzunehmen, dass nahezu jeder, der Podcasts produziert oder Podcasts konsumiert, über einen Computer verfügt. Doch dies kann sich ändern, denn zum einen werden Smartphones für den Empfang von Podcasts zunehmend interessanter und setzen mit unter schon keinen Computer mehr voraus. Auch lassen sich schon heute mit Smartphones und Tablets auch Audioaufnahmen und Schnitt durchführen und der nächste Schritt, der dann auch Encoding und Publikation übernimmt ist nicht mehr weit. Trotzdem bietet der Computer immer noch die größte Bandbreite an Bearbeitungsmöglichkeiten für qualitativ hochwertige Bearbeitung der Audiodaten.</p>
 <p>In einer stationären Aufnahmesituation spricht einiges dafür, die Audiodaten gleich mit dem Computer aufzunehmen. Einerseits entfällt das ggf. zeitaufwändige oder fehleranfällige Übertragen der Daten von einem Aufnahmegerät, andererseits bietet der Computer insbesondere im Bereich der Mehrspuraufnahmen und Echtzeitanwendung von Filtern etc. viele Möglichkeiten.</p>
 <p>Konkurrenzlos ist der Computer bei der Audiobearbeitung. Das Einkürzen der Sendung, das Bearbeiten von Fehlern und die anschliessende Audioaufbereitung für die Veröffentlichung lassen sich am besten mit einer integrierten Audiosoftware machen. Die Auswahl an Programmen ist groß. Hier eine kleine Auswahl.</p>
 <h3 data-number="2.5.1" id="ardour"><span class="header-section-number">2.5.1</span> Ardour</h3>
 <p><a href="https://ardour.org">Ardour</a> ist eine Software zum Aufnehmen, Bearbeiten und Mixen auf Linux, macOS und Windows.</p>
+<p><img src="images/screenshot-ardour.png" /></p>
 <h3 data-number="2.5.2" id="audacity"><span class="header-section-number">2.5.2</span> Audacity</h3>
 <p><a href="https://www.audacityteam.org">Audacity</a> ist eine freie und damit kostenlose Softwarelösung für einfache Aufnahme und Audiobearbeitung. Sie bietet im Kern alles, was man für den Einstieg braucht. Großer Nachteil ist, dass die Schnittfunktion destruktiv ist, d.h. einmal gelöschte Bereiche in der Audiospur lassen sich nicht mehr wieder herstellen. Für große und komplexe Projekte ist es daher eher geraten, eine nicht-destruktiv schneidende DAW zu verwenden (z.B. Reaper + Ultraschall).</p>
 <figure>
@@ -327,6 +333,12 @@
 <ul>
 <li>Destruktiver Schnitt</li>
 <li>Wenig Podcast-Funktionalität (z.B. Remote-Podcasting, Livestream)</li>
+</ul>
+<p><strong>Links:</strong></p>
+<ul>
+<li><p><a href="https://www.audacityteam.org/help/documentation">Dokumentation und FAQ</a></p></li>
+<li><p><a href="https://wiki.cogneon.de/Audacity">Audacity</a> in COPEDIA</p></li>
+<li><p><a href="https://portableapps.com/de/apps/music_video/audacity_portable">Audacity Portable</a>, Version, die man ohne Installationsrechte nutzen kann</p></li>
 </ul>
 <h3 data-number="2.5.3" id="audition"><span class="header-section-number">2.5.3</span> Audition</h3>
 <p><a href="https://www.adobe.com/products/audition.html">Audition</a> ist ein “gut abgehangenes” Stück Software von Adobe, dass durch seine Leistungsfähigkeit und vielen Möglichkeiten, kaputte Aufnahmen zu retten glänzt. Audition läuft auf Microsoft Windows, erscheint jetzt aber auch auf macOS.</p>
@@ -384,6 +396,7 @@
 <p><strong>Links:</strong></p>
 <ul>
 <li><a href="https://docs.leonidlezner.de/ultraschall-tutorial">Ultraschall Tutorial</a> von Leonid Lezner</li>
+<li>c’t Artikel <a href="https://www.heise.de/select/ct/2020/14/2014915163287581935">Von null auf Sendung</a> (Ultraschall 4)</li>
 </ul>
 <h3 data-number="2.5.8" id="studio-link-standalone"><span class="header-section-number">2.5.8</span> Studio Link Standalone</h3>
 <p><a href="https://studio-link.de">Studio Link</a> ermöglicht hochwertige Audioverbindungen über das Internet, z.B. zum schnellen und einfachen Einbinden von Gästen. Durch die Verwendung des Audioformats <a href="https://de.wikipedia.org/wiki/Opus_(Audioformat)">Opus</a> sind die Verbindungen mit Studio Link i.d.R. von hoher Qualität und niedriger Latenz.</p>
@@ -399,7 +412,7 @@
 </ul>
 <p><strong>Nachteile:</strong></p>
 <ul>
-<li>Kein Einfluss auf Aufnahmeparameter (z.B. Pegel)</li>
+<li>Kein Einfluss auf Aufnahmeparameter (Hinweis: Seit Version v21.07.0 lässt sich die Lautstärke einstellen. Allerdings sollte das nur benutzt werden wenn es keine andere Möglichkeit der lokalen Gain-Anpassung gibt.)</li>
 </ul>
 <h3 data-number="2.5.9" id="zencastr"><span class="header-section-number">2.5.9</span> Zencastr</h3>
 <p><a href="https://zencastr.com/">Zencastr</a> ist eine Podcast-Aufnahme-Software, die vollständig im Browser läuft (keine Installation notwendig). Es gibt eine kostenfreie und eine kostenpflichtige Version. Neben Audio-Spuren ist auch eine Übertragung von Video (z.B. Webcam möglich).</p>
@@ -444,48 +457,48 @@
 <p><strong>Weblinks:</strong></p>
 <ul>
 <li>Wikipedia-Artikel <a href="https://de.wikipedia.org/wiki/Podcast">Podcast</a></li>
-<li>Video <a href="https://www.youtube.com/watch?v=oerm5Q_9u2A">What is a Podcast?</a></li>
 <li><a href="https://www.apple.com/de/itunes/podcasts/fanfaq.html">Apple Podcast FAQ</a> - Was ist ein Podcast? Wie kann ich auf iOS in Podcasts einsteigen?</li>
 <li><a href="https://www.unmus.de/podcast-in-a-nutshell">Sketchnote Podcast in a Nutshell</a> - Ein kleiner Leitfaden zur Orientierung in der komplizierten Welt des Podcasting</li>
 <li><a href="https://fyyd.de">fyyd.de</a> - Podcast Suchmaschine</li>
 <li><a href="https://das-sendezentrum.de">Das Sendezentrum</a> - Der Schmelztigel für die freie Podcast-Szene, u.a. Podcast Konferenz <a href="https://das-sendezentrum.de/subscribe">SUBSCRIBE</a></li>
 <li><a href="https://sendegate.de">sendegate.de</a> - Die Podcasting-Community</li>
-<li><a href="https://www.facebook.com/groups/howtopodcast">How to Podcast</a> - öffentliche Facebook-Gruppe zum Podcasting (englischsprachig, war früher auf Google+)</li>
 <li><a href="https://der-lautsprecher.de">Der Lautsprecher</a> - Ein Podcast über das Senden und Empfangen werden</li>
-<li><a href="https://internationalpodcastday.com">International Podcast Day</a> - Jedes Jahr am 30. September</li>
+<li><a href="https://internationalpodcastday.com">International Podcast Day</a> - Jedes Jahr am 30. September, gut geeignet, um auf Podcasts aufmerksam zu machen und neue Hörer_innen/Podcaster_innen zu gewinnen</li>
+<li>Artikel <a href="https://blog.medientage.de/so-entwickelt-sich-der-podcast-markt">So entwickelt sich der Podcast-Markt</a> (2020)</li>
+<li>Artikel <a href="https://bvdw.org/fileadmin/user_upload/BVDW_Podcast-Audio_Trend_2020_im_UEberblick.pdf">Podcasts – gekommen, um zu bleiben Der Audio-Trend im Überblick</a> (BVDW, 2020)</li>
 </ul>
 <h1 data-number="3" id="podcasting-lernpfad"><span class="header-section-number">3</span> Podcasting Lernpfad</h1>
 <p>Ein Lernpfad ist eine Folge von Aktivitäten und Übungen, um etwas Neues zu lernen. Ein Pfad kann ein oder mehrere Sprints dauern. Der Podcsating Path ist ein Lernpfad für Lernende, die ihren eigenen Podcast starten wollen. Der Lernpfad besteht aus 11 Katas (Übungen), mit denen man lernt, Podcasts zu finden und zu hören und schließlich auch selber zu produzieren. Es wird empfohlen, den Pfad mit 4-5 Personen in einem Sprint zu durchlaufen.</p>
-<p>Katas für den Podcasting Path:</p>
-<ol type="1">
-<li><strong>Kata: Get Started:</strong> Mache dich mit den Grundlagen des Podcastings über das Grundlagen-Kapitel sowie die weiterführenden Literatur- und Weblinks vertraut.</li>
-<li><strong>Kata: Finde eine Podcast App:</strong> Schaue auf deinem Smartphone, ob bereits eine Podcast-App vorhanden ist. Wenn nicht, gehe in den App Store, suche und installiere eine Podcast App (z.B. Podcast auf iOS oder AntennaPod auf Android).</li>
-<li><strong>Kata: Finde Podcasts:</strong> suche in deiner Podcast App, auf fyyd.de oder anderen Plattformen nach Podcasts, die für deine Ziele, Wissensgebiete, Aufgaben und Projekt relevant sind. Abonniere mindestens fünf Podcasts und höre sie in deinem Alltag. Achte auf Beispiele, die dir für einen eigenen Podcast gefallen würden.</li>
-<li><strong>Kata: Podcast Production Deep Dive:</strong> Verschaffe dir einen allgemeinen Überblick über den Podcast-Produktionsprozess inkl. notwendiger Hard- und Software. Überlege dir, mit welcher Hard- und Software du für deinen eigenen Podcast arbeiten möchtest.</li>
-<li><strong>Kata: Dein eigener Podcast:</strong> Überlege dir ein Mini-Konzept für deinen eigenen Podcast. Arbeite die lernOS Podcast Checkliste durch, um deinen Podcast zu konfigurieren. Beschaffe dir fehlende Podcast-Hardware oder -Software.</li>
-<li><strong>Kata: Baue dein eigenes Podcast-Studio:</strong> Verwende das Setup aus deiner Podcast-Checklist , um dir dein eigenes Podcast-Studio einzurichten. Verwende etwas Zeit, dich mit Hardware und Software vertraut zu machen.</li>
-<li><strong>Kata: Achtung Aufnahme:</strong> Bereite deine erste Episode vor und derstelle die Aufnahme. Meist ist die erste Aufnahme nicht die, die später auch veröffentlicht wird. Mache so viele Aufnahmen, bis du mit dem Ergebnis zufrieden bist.</li>
-<li><strong>Kata: Postproduktion:</strong> Importiere die Aufnahmedatei in deine Podcasting-Software. Schneide die Aufnahme und verwende Effekte, wenn gewünscht. Erstelle die finale MP3-Datei.</li>
-<li><strong>Kata: Publiziere deinen Podcast:</strong> Veröffentliche deine erste Podcast-Episode auf deiner gewählten Podcast-Plattorm. Erstelle Shownotes, um Nutzern einen Überblick über die Podcast-Inhalte zu geben und den Podcast für Suchmaschinen besser auffindbar zu machen.</li>
-<li><strong>Kata: Kommunikation, Kommunikation, Kommunikation:</strong> Mache deinen Podcast über die von dir gewählten Kanäle bekannt und ermuntere zu Diskussion und Feedback. Reserviere dir etwas Zeit, um auf Feedback und Fragen zu reagieren.</li>
-<li><strong>Kata: Podcast Klinik:</strong> Stellt euch gegenseitig eure Podcasts vor und sprecht über die Erfahrungen, die ihr mit euren Podcasts gemacht habt.</li>
-</ol>
-<p><strong>Stop talking, start doing!</strong> Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach. Diese fünf Schritte werden Dir beim reibungslosen Start helfen:</p>
-<ol type="1">
-<li><strong>Zeit einplanen:</strong> definiere das Quartal, in dem Du mit lernOS starten möchtest. Trage Dir die Zeiten für das wöchentliche Treffen in den Kalender ein. Dieser regelmäßige Termin ist besonders wichtig, wenn Du lernOS in einem Learning Circle praktizierst.</li>
-<li><strong>Ziele und Schlüsselergebnisse definieren:</strong> nutze Woche 0, um Deine Ziele und messbare Ergebnisse für den Sprint festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.</li>
-<li><strong>Einen Circle gründen:</strong> suche nach 3-4 Mitstreitern, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann er die Rolle des Circle-Moderator übernehmen.</li>
-<li><strong>Organisiere das Weekly:</strong> wenn Ihr Euch im Circle nicht kennt, trefft Euch in Woche 0 am besten persönlich. Nutzt soziale Netzwerke oder Messenger, um zwischen den Treffen zu kommunizieren. Nutzt Videokonferenzen, um virtuelle Treffen zu organisieren.</li>
-<li><strong>Plan, Do, Learn, Repeat:</strong> Nutzt das letzte Treffen in der Woche 12, um die Ergebnisse und die Zusammenarbeit im Kreis zu reflektieren. Entscheidet, ob Ihr einen weiteren Sprint gemeinsam durchlaufen wollt.</li>
-</ol>
 <p>Keep Calm &amp; Learn On! :-)</p>
+<h2 data-number="3.1" id="get-started-kata"><span class="header-section-number">3.1</span> Get Started (Kata)</h2>
+<p>Mache dich mit den Grundlagen des Podcastings über das Grundlagen-Kapitel sowie die weiterführenden Literatur- und Weblinks vertraut.</p>
+<h2 data-number="3.2" id="wähle-eine-podcast-app-und-finde-podcasts-kata"><span class="header-section-number">3.2</span> Wähle eine Podcast App und finde Podcasts (Kata)</h2>
+<p>Schaue auf deinem Smartphone, ob bereits eine Podcast-App vorhanden ist. Wenn nicht, gehe in den App Store, suche und installiere eine Podcast App (z.B. Podcast auf iOS oder AntennaPod auf Android). Suche in deiner Podcast App, in Suchmaschinen oder anderen Plattformen nach Podcasts, die für deine Ziele, Wissensgebiete, Aufgaben und Projekt relevant sind. Abonniere mindestens fünf Podcasts und höre sie in deinem Alltag. Achte auf Beispiele, die dir für einen eigenen Podcast gefallen würden.</p>
+<h2 data-number="3.3" id="nutze-den-podcast-canvas-als-checkliste-kata"><span class="header-section-number">3.3</span> Nutze den Podcast Canvas als Checkliste (Kata)</h2>
+<p>Verwende den Podcast Canvas aus dem Grundlagen-Kapitel, um dir zu allen Gestaltungsdimensionen deines eigenen Podcasts Gedanken zu machen. Du kannst den Canavas ausdrucken und mit Haftnotizen bekleben oder ihn elektronisch ausfüllen. Versuche für alle Felder erste Ideen zu formulieren und aufzuschreiben. Identifiziere die größten offenen Fragen. Im Lauf der nächsten Wochen kannst du den Canvas verwenden, um dein Podcast-Konzept weiter zu verfeinern und die offenen Fragen nach und nach zu beantworten. Wenn schon weißt, welche Hard- und Software du noch brauchst, kümmere dich frühzeitig um die Beschaffung.</p>
+<h2 data-number="3.4" id="nimm-deine-nullnummer-auf"><span class="header-section-number">3.4</span> Nimm deine “Nullnummer” auf</h2>
+<p>Viele Podcasts verwenden eine Nullnummer (die Ausgabe vor der 1. Episode), um sich und ihren Podcast der Zielgruppe vorzustellen und die richtige Erwartungshaltung zu erzeugen (z.B. wie lang ist eine Episode, wie oft erscheinen Episoden, welche Themen werden behandelt). Verschaffe dir einen allgemeinen Überblick über den Podcast-Produktionsprozess inkl. notwendiger Hard- und Software. Überlege dir, mit welcher Hard- und Software du für deinen eigenen Podcast arbeiten möchtest. Das kann auch einfach ein Smartphone oder ein Computer mit einfacher Aufnahmesoftware sein. Nimm eine erste Version der Nullnummer für deinen Podcast auf schneide Anfang und Ende zu. Behandle in der Nullnummer die Themen aus deinem Podcast Canvas. Lass andere deine Nullnummer anhören und hole dir Feedback.</p>
+<h2 data-number="3.5" id="dein-podcast-studio-kata"><span class="header-section-number">3.5</span> Dein Podcast-Studio (Kata)</h2>
+<p>Wahrscheinlich hast du keinen Raum, der nur als Podcast-Studio verwendet wird. Trotzdem solltest du etwas Zeit darauf verwenden, den Raum und die Umgebung, die du für Aufnahmen verwendest, so optimal wie möglich zu gestalten. Dazu gehören z.B. Positionen der Podcastenden, Raumhall, Störgeräusche, Dämmung, Standard-Setup von Software, Verkabelung. Verwende etwas Zeit, dich mit Hardware und Software vertraut zu machen. Im Lauf deiner Podcast-Karriere wird sich dein Studio durch deine Erfahrungen kontinuierlich verbessern</p>
+<h2 data-number="3.6" id="achtung-aufnahme-episode-1-kata"><span class="header-section-number">3.6</span> Achtung Aufnahme Episode 1 (Kata)</h2>
+<p>Bereite deine erste Episode vor. Erstelle die Aufnahme der Episode. Mache so viele Aufnahmen, bis du mit dem Ergebnis zufrieden bist. Schneide die Episode und finde die richtige “Schnittstrategie” für dich (z.B. Willst du alle Äh’s rausschneiden? Wie viel Zeit willst du in den Schnitt investieren? Willst du Effekte wie Kompression, Expansion in der Postproduktion verwenden? Willst du Shownotes oder sogar ein Transkript zu deinen Episoden bereitstellen? Willst du Kapitelmarken zum Navigieren in deinem Podast verwenden? Willst du Kapitelbilder verwenden?). Produziere die finale Audio-Datei deiner Episode (z.B. als MP3-Datei mit 128kBit/s). Lass andere deine erste Episode anhören und hole dir Feedback.</p>
+<h2 data-number="3.7" id="deine-podcast-webseite-kata"><span class="header-section-number">3.7</span> Deine Podcast-Webseite (Kata)</h2>
+<p>Die meisten Podcasts haben als “Heimat” eine Webseite im Internet oder Intranet, die als Anlaufstelle für neue Hörer_innen dient (Stamm-Hörer_innen haben deinen Podcast ja abonniert und hören ihn i.d.R. im Podcatcher auf dem Smartphone). Überlege dir, wo du die Webseite zu deinem Podcast aufbauen willst und welche Informationen darauf enthalten sein sollen (z.B. Logo, Kurzbeschreibung, aktuelle Episoden und Archiv, Anleitung zum Abonnieren, Link zur Community und Sozialen Medien, Lizenz, Impressum&amp;Rechtliches). Erstelle die erste Version deiner Podcast-Webseite (idealerweise schon in der richtigen Software, zur Not mit Papier und Bleistift). Zeige andere deine Podcast-Webseite und hole dir Feedback.</p>
+<h2 data-number="3.8" id="achtung-aufnahme-episode-2-kata"><span class="header-section-number">3.8</span> Achtung Aufnahme Episode 2 (Kata)</h2>
+<p>Nimm die zweite Episode deines Podcasts auf und mache die Postproduktion. Ergebnis ist nach Nullnummer und erste Episode deine dritte Audio-Datei. Wenn sich deine Fähigkeiten und die Aufnahmequalität bis jetzt schon stark verbessert hat, kannst du überlegen, die Nullnummer und/oder die erste Episode noch einmal aufzunehmen.</p>
+<h2 data-number="3.9" id="publiziere-deinen-podcast-kata"><span class="header-section-number">3.9</span> Publiziere deinen Podcast (Kata)</h2>
+<p>Veröffentliche deine Nullnummer und die erste Podcast-Episode auf deiner Podcast-Webseite (die zweite Episode kannst du auch gleich oder zu einem späteren Zeitpunkt veröffentlichen, um den Produktionsstress zu reduzieren). Erstelle Shownotes, um Hörer_innen einen Überblick über die Podcast-Inhalte zu geben und den Podcast für Suchmaschinen besser auffindbar zu machen.</p>
+<h2 data-number="3.10" id="kommunikation-kommunikation-kommunikation-kata"><span class="header-section-number">3.10</span> Kommunikation, Kommunikation, Kommunikation (Kata)</h2>
+<p>Mache deinen Podcast über die von dir im Podcasting Canvas gewählten Kanäle bekannt und ermuntere zu Diskussion und Feedback. Reserviere dir etwas Zeit, um auf Feedback und Fragen zu reagieren. Sammle alles Feedback um deinen Podcast in Zukunft kontinuierlich gemäß deiner Ziele und den Wünschen der Zielgruppe zu verbessern.</p>
+<h2 data-number="3.11" id="podcast-klinik-kata"><span class="header-section-number">3.11</span> Podcast Klinik (Kata)</h2>
+<p>Stelle deinen Podcast und die Erfahrungen, die du bisher gemacht hast, anderen vor. Sprecht über die Erfahrungen, die ihr mit euren Podcasts gemacht habt und was ihr voneinander lernen könnt.</p>
 <h1 data-number="4" id="anhang"><span class="header-section-number">4</span> Anhang</h1>
 <h2 data-number="4.1" id="materialliste"><span class="header-section-number">4.1</span> Materialliste</h2>
 <p>Die folgende Materialliste enthält eine Übersicht von Hard- und Software für das Podcasting mit ungefähren Preisen (Stand Recherche: 28.12.2021, Liste ist alphabetisch sortiert).</p>
-<table>
+<table style="width:100%;">
 <colgroup>
-<col style="width: 14%" />
-<col style="width: 80%" />
+<col style="width: 16%" />
+<col style="width: 79%" />
 <col style="width: 4%" />
 </colgroup>
 <thead>
@@ -512,9 +525,9 @@
 <td>140,-</td>
 </tr>
 <tr class="even">
-<td>Behringer U-Phoria UMC202HD</td>
-<td>Audio-Interface, 2 Mikrofon-Eingänge</td>
-<td>65,-</td>
+<td>Behringer U-Phoria UMC204HD</td>
+<td>Audio-Interface, 2 Mikrofon-Eingänge (wichtig: nicht das UMC202HD verwenden, da sich dort das Direct Monitoring nicht regeln lässt)</td>
+<td>79,-</td>
 </tr>
 <tr class="odd">
 <td>Behringer UMC404HD</td>
@@ -532,14 +545,14 @@
 <td>330,-</td>
 </tr>
 <tr class="even">
+<td>beyerdynamic DT-770 PRO/80 Ohm</td>
+<td>Kopfhörer</td>
+<td>130,-</td>
+</tr>
+<tr class="odd">
 <td>beyerdynamic DT-797 PV</td>
 <td>Hör-Sprech-Kombination (Headset) mit integriertem Kabel</td>
 <td>300,-</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Focusrite Scarlett Solo</td>
@@ -557,24 +570,24 @@
 <td>490,-</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Reaper</td>
 <td>Digital Audio Workstation (Ultraschall-Erweiterung ist kostenlos), Preis ist für “discounted license”, die “commercial license” ist teurer</td>
 <td>60,-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>RodeCaster Pro</td>
 <td>USB-Mischpult mit 4 Mikrofon-Eingängen und 4 Kopfhörer-Ausgängen speziell für Podcasting</td>
 <td>500,-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Rode NT USB</td>
 <td>USB-Standmikrofon mit Kopfhöreranschluss (lokales Monitoring)</td>
 <td>140,-</td>
+</tr>
+<tr class="even">
+<td>Rode PodMic</td>
+<td>Für Sprache optimiertes Nierenmikrofon</td>
+<td>100,-</td>
 </tr>
 <tr class="odd">
 <td>Shure SM 7B</td>
@@ -582,9 +595,19 @@
 <td>370,-</td>
 </tr>
 <tr class="even">
+<td>Sony MDR-7506</td>
+<td>Kopfhörer</td>
+<td>100,-</td>
+</tr>
+<tr class="odd">
 <td>Superlux HMC 660 X</td>
 <td>Hör-Sprech-Kombination (Headset), Achtung: mit maximal 12V Phantom-Speisung (nicht 48V) betreiben, kann bei Zoom-Audio-Recordern eingestellt werden</td>
 <td>50,-</td>
+</tr>
+<tr class="even">
+<td>Termichy Bluetooth Kopfhörer</td>
+<td>Bluetooth-Kopfhörer, das auch an einem 3,5mm Klinken-Kabel verwendet werden kann (z.B. für Mikrofon V-Moda BoomPro)</td>
+<td>25,-</td>
 </tr>
 <tr class="odd">
 <td>V-Moda BoomPro</td>
@@ -623,10 +646,10 @@
 <h2 data-number="4.3" id="änderungshistorie"><span class="header-section-number">4.3</span> Änderungshistorie</h2>
 <table>
 <colgroup>
-<col style="width: 2%" />
-<col style="width: 5%" />
-<col style="width: 87%" />
-<col style="width: 3%" />
+<col style="width: 14%" />
+<col style="width: 29%" />
+<col style="width: 44%" />
+<col style="width: 10%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -660,6 +683,12 @@
 <td>Simon Dückert</td>
 <td>Webpräsentation ergänzt, Link zu Ultraschall-Tutorial ergänzt</td>
 <td>27.12.2021</td>
+</tr>
+<tr class="odd">
+<td>0.5</td>
+<td>Simon Dückert</td>
+<td>Feedback vom rc3 ergänzt</td>
+<td>29.12.2021</td>
 </tr>
 </tbody>
 </table>

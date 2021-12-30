@@ -1,0 +1,3 @@
+## Nutze den Podcast Canvas als Checkliste (Kata)
+
+Verwende den Podcast Canvas aus dem Grundlagen-Kapitel, um dir zu allen Gestaltungsdimensionen deines eigenen Podcasts Gedanken zu machen. Du kannst den Canavas ausdrucken und mit Haftnotizen bekleben oder ihn elektronisch ausfüllen. Versuche für alle Felder erste Ideen zu formulieren und aufzuschreiben. Identifiziere die größten offenen Fragen. Im Lauf der nächsten Wochen kannst du den Canvas verwenden, um dein Podcast-Konzept weiter zu verfeinern und die offenen Fragen nach und nach zu beantworten. Wenn schon weißt, welche Hard- und Software du noch brauchst, kümmere dich frühzeitig um die Beschaffung.

@@ -1,0 +1,3 @@
+## Achtung Aufnahme Episode 1 (Kata)
+
+Bereite deine erste Episode vor. Erstelle die Aufnahme der Episode. Mache so viele Aufnahmen, bis du mit dem Ergebnis zufrieden bist. Schneide die Episode und finde die richtige "Schnittstrategie" für dich (z.B. Willst du alle Äh's rausschneiden? Wie viel Zeit willst du in den Schnitt investieren? Willst du Effekte wie Kompression, Expansion in der Postproduktion verwenden? Willst du Shownotes oder sogar ein Transkript zu deinen Episoden bereitstellen? Willst du Kapitelmarken zum Navigieren in deinem Podast verwenden? Willst du Kapitelbilder verwenden?). Produziere die finale Audio-Datei deiner Episode (z.B. als MP3-Datei mit 128kBit/s). Lass andere deine erste Episode anhören und hole dir Feedback.

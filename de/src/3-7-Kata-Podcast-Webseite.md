@@ -1,0 +1,3 @@
+## Deine Podcast-Webseite (Kata)
+
+Die meisten Podcasts haben als "Heimat" eine Webseite im Internet oder Intranet, die als Anlaufstelle für neue Hörer_innen dient (Stamm-Hörer_innen haben deinen Podcast ja abonniert und hören ihn i.d.R. im Podcatcher auf dem Smartphone). Überlege dir, wo du die Webseite zu deinem Podcast aufbauen willst und welche Informationen darauf enthalten sein sollen (z.B. Logo, Kurzbeschreibung, aktuelle Episoden und Archiv, Anleitung zum Abonnieren, Link zur Community und Sozialen Medien, Lizenz, Impressum&Rechtliches). Erstelle die erste Version deiner Podcast-Webseite (idealerweise schon in der richtigen Software, zur Not mit Papier und Bleistift). Zeige andere deine Podcast-Webseite und hole dir Feedback.
