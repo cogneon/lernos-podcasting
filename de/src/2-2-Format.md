@@ -1,5 +1,5 @@
-
 ## Format
+
 Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. Im Folgenden eine Beschreibung typischer Podcast-Formate.
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-format.png)
@@ -49,3 +49,11 @@ Bei der inhaltlichen Gestaltung von Podcasts ist der Phantasie keine Grenze gese
 Ähnlich wie Radio- oder Fernsehsendung können auch Podcasts eine Musik am Anfang (Intro) und am Ende (Intro) haben, müssen sie aber nicht. Manche Podcasts nutzen das Intro auch, um einen Rückblick auf die vergangene Sendung zu machen (das "Previously") oder ein Zitat aus der aktuellen Episode anzuteasern.
 
 Während einer Episode können im Podcasts sog. "Jingles" eingespielt werden. Das kann z.B. Werbung oder kurze Melodien sein. Hat ein Podcast verschiedene thematische Rubriken, können diese durch kurze Jingles voneinander getrennt werden.
+
+Kostenfreie Töne und Musik gibt es z.B an folgenden Stellen (auf Lizenzen und Verwendungsrechte achten):
+
+- [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk)
+
+- [Free Music Archive]([Free Music Archive - Welcome to the Free Music Archive](https://freemusicarchive.org/home))
+
+- [YouTube](https://youtube.com), über die Suche, dann nach Creative Commons filtern, mit [youtube-dl](https://youtube-dl.org/) können Audios heruntergeladen werden
