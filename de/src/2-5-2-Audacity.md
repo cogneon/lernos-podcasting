@@ -15,3 +15,11 @@
 
 * Destruktiver Schnitt
 * Wenig Podcast-Funktionalität (z.B. Remote-Podcasting, Livestream)
+
+**Links:**
+
+- [Dokumentation und FAQ](https://www.audacityteam.org/help/documentation)
+
+- [Audacity](https://wiki.cogneon.de/Audacity) in COPEDIA
+
+- [Audacity Portable](https://portableapps.com/de/apps/music_video/audacity_portable), Version, die man ohne Installationsrechte nutzen kann

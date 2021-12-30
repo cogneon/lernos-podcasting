@@ -18,3 +18,4 @@
 **Links:**
 
 * [Ultraschall Tutorial](https://docs.leonidlezner.de/ultraschall-tutorial) von Leonid Lezner
+* c't Artikel [Von null auf Sendung](https://www.heise.de/select/ct/2020/14/2014915163287581935) (Ultraschall 4)
