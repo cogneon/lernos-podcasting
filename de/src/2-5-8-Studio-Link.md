@@ -13,4 +13,4 @@
 
 **Nachteile:**
 
-* Kein Einfluss auf Aufnahmeparameter (z.B. Pegel)
+* Kein Einfluss auf Aufnahmeparameter (Hinweis: Seit Version v21.07.0 lässt sich die Lautstärke einstellen. Allerdings sollte das nur benutzt werden wenn es keine andere Möglichkeit der lokalen Gain-Anpassung gibt.)
