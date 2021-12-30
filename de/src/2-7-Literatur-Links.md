@@ -1,4 +1,3 @@
-
 ## Literatur und Links
 
 **Literatur:**
@@ -13,12 +12,12 @@
 **Weblinks:**
 
 * Wikipedia-Artikel [Podcast](https://de.wikipedia.org/wiki/Podcast)
-* Video [What is a Podcast?](https://www.youtube.com/watch?v=oerm5Q_9u2A)
 * [Apple Podcast FAQ](https://www.apple.com/de/itunes/podcasts/fanfaq.html) - Was ist ein Podcast? Wie kann ich auf iOS in Podcasts einsteigen?
 * [Sketchnote Podcast in a Nutshell](https://www.unmus.de/podcast-in-a-nutshell) - Ein kleiner Leitfaden zur Orientierung in der komplizierten Welt des Podcasting
 * [fyyd.de](https://fyyd.de) - Podcast Suchmaschine
 * [Das Sendezentrum](https://das-sendezentrum.de) - Der Schmelztigel für die freie Podcast-Szene, u.a. Podcast Konferenz [SUBSCRIBE](https://das-sendezentrum.de/subscribe)
 * [sendegate.de](https://sendegate.de) - Die Podcasting-Community
-* [How to Podcast](https://www.facebook.com/groups/howtopodcast) - öffentliche Facebook-Gruppe zum Podcasting (englischsprachig, war früher auf Google+)
 * [Der Lautsprecher](https://der-lautsprecher.de) - Ein Podcast über das Senden und Empfangen werden
-* [International Podcast Day](https://internationalpodcastday.com) - Jedes Jahr am 30. September
+* [International Podcast Day](https://internationalpodcastday.com) - Jedes Jahr am 30. September, gut geeignet, um auf Podcasts aufmerksam zu machen und neue Hörer_innen/Podcaster_innen zu gewinnen
+* Artikel [So entwickelt sich der Podcast-Markt](https://blog.medientage.de/so-entwickelt-sich-der-podcast-markt) (2020)
+* Artikel [Podcasts – gekommen, um zu bleiben Der Audio-Trend im Überblick](https://bvdw.org/fileadmin/user_upload/BVDW_Podcast-Audio_Trend_2020_im_UEberblick.pdf) (BVDW, 2020)
