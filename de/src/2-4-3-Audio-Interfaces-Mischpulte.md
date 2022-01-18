@@ -1,6 +1,8 @@
 ### Audio-Interfaces und Mischpulte
 
-Ein [Audio-Interface](https://de.wikipedia.org/wiki/Audio-Interface) kann als Alternative zum Audio-Rekorder verwendet werden, um Audio digital direkt im Computer aufzeichnen zu können. Es bildet die Schnittstelle zwischen Audio-Quellen wie z.B. Instrumente, Mikrofone und dem Computer. Das Audio-Interface verstärkt Audio-Signale und wandelt die analogen Signale in digitale um. Der Anschluss an den Computer erfolgt z.B. über die USB-Schnittstelle (z.B. Focusrite Scarlett 2i2).
+Ein [Audio-Interface](https://de.wikipedia.org/wiki/Audio-Interface) kann als Alternative zum Audio-Rekorder verwendet werden, um Audio digital direkt im Computer aufzeichnen zu können. Es bildet die Schnittstelle zwischen Audio-Quellen wie z.B. Instrumente, Mikrofone und dem Computer. Das Audio-Interface verstärkt Audio-Signale und wandelt die analogen Signale in digitale um. Der Anschluss an den Computer erfolgt z.B. über die USB-Schnittstelle (z.B. Behringer U-Phoria UMC204HD, Focusrite Scarlett 2i2).
+
+![](/Users/simondueckert/Documents/GitHub/lernos-podcasting/de/src/images/behringer-u-phoria-umc204hd.jpg)
 
 Ein [Mischpult](https://de.wikipedia.org/wiki/Mischpult) ist noch flexibler, als ein Audio-Interface. Es bietet meist eine Vielzahl von Eingangskanälen. Das Audiosignal läuft durch den sog. Kanalzug (en: Channel Strip), im Mischpult von oben nach unten). Jeder Kanalzug repräsentiert den Verlauf eines Eingangssignals.
 
@@ -21,9 +23,3 @@ Die meisten Mischpulte sind für die Produktion von Musik gedacht. Es gibt aber 
 - Eingebaute Effekte wie Noise Gate, Kompressor und Expander
 
 - Funktion zum Setzen von Schnitt- und Kapitelmarken
-
-
-
-
-
-
