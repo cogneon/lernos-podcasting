@@ -20,3 +20,5 @@ Außerdem ist darauf zu achten, dass Mikrofone unterschiedliche Aufnahmecharakte
 Mikrofone werden meist als Tischmikrofon auf einen Tisch gestellt oder an einem Stativ montiert. Eine besondere Bauform ist das **Headset** (z.B. Beyerdynamic DT297), bei dem Mikrofon und Kopfhörer zusammen ausgeführt sind. Das hat gerade bei ungeübten Sprecher_innen den Vorteil, dass sich das Mikrofon unabhängig von der Kopfbewegung immer an der gleichen Stelle befindet. Es ist darauf zu achten, dass das Mikrofon sich nicht im Strom der Atemluft befindet (z.B. vier Finger vom Mund weg und seitlich auf Nasenhöhe).
 
 **Tipp:** der Ton einer Aufzeichnung sollte bei Podcasts wie bei Videokonferenzen nie im gleichen Raum zu hören sein, in dem das Mikrofon steht, da es sonst zu Rückkopplungen kommen kann. Deswegen sollte immer ein Kopfhörer oder ein Headset verwendet werden.
+
+**Tipp:** die Freisprecheinrichtung eines mobilen Telefons (z.B. iPhone) bietet oftmals erstaunlich gute Tonqualität (z.B. Earpod mit Klinken- oder Lightning-Anschluss). Man muss allerdings darauf achten, dass die im Kabel eingebaute Mikrofonkapsel nicht an Kleidung, Schal oder Haaren reibt.
