@@ -4,15 +4,15 @@ Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wiev
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-format.png)
 
-### Gesprächspartner: Monolog, Dialog oder Gesprächsrunde
+### Gesprächspartner_innen
 
-Die Gesprächspartner im Podcast können über die Episoden (Sendungen) hinweg gleich bleiben oder wechseln. Je nach der Anzahl der Gesprächspartner unterscheidet man:
+Die Gesprächspartner_innen im Podcast können über die Episoden (Sendungen) hinweg gleich bleiben oder wechseln. Je nach der Anzahl der Gesprächspartner unterscheidet man:
 
 * **Monolog oder Solo-Podcast:** In einem Solo Podcast spricht nur eine Person. Das Hören monologischer Podcasts kann für den Zuhörer auch schnell anstrengend werden, da Pausen und Geschwindigkeitswechsel selten sind, die dem Hörer Verschnaufpausen und Abwechslung schaffen könnten. Solo-Podcasts lassen sich mit verhältnismäßig wenig Technikaufwand realisieren, da nur ein Mikrofon und keine Live-Schalte erforderlich sind. Für die Aufnahme kann eine einfache Software mit Aufnahmefunktion genommen werden (z.B. Audacity).
 * **Dialog- oder Interview-Podcast:** Wird eine Sendung mit zwei Personen aufgenommen, ändert sich die Dynamik des Gesprächs in der Regel deutlich. Dabei ist es unerheblich, ob die beiden Personen gleichberechtigt als Moderatoren auftreten oder ob es sich um eine Moderator/Gast-Situation handelt. Die natürlichen Pausen eines wechselseitigen Gesprächs bzw. der Übergang zwischen zwei separaten Ansprachen schafft für den Hörer ein vom Solo-Podcast deutlich unterschiedliches Format. Um einen Dialog-Podcast aufzunehmen, sind die technischen Anforderungen etwas höher: es müssen zwei Stimmen in einer separaten Audio-Spur aufgenommen werden. Bei  
 * **Talk- oder Gesprächsrunde:** Bei drei oder mehr Teilnehmern entwickelt sich ein Gespräch schnell zu einer sehe dynamischen Gesprächsrunde, die einerseits sehr unterhaltsam sein kann, es aber auch dem Zuhörer zunehmen schwerer macht, den einzelnen Sprechern zu folgen bzw. diese zu identifizieren (mehr als sechs Personen sind in Podcasts eher unüblich). Eine Möglichkeit, die Verständlichkeit einer großen Gesprächsrunde zu erhöhen, ist, jeden Sprecher im Stereobild an einer anderen Stelle zu positionieren (max. 20% rechts/links). 
 
-### Sendungslänge
+### Sendungslänge und Frequenz
 
 Die "richtige" Länge für Podcasts gibt es nicht, Podcasts können eine beliebige Länge haben, die dem Zweck des Podcasts angemessen ist. Oft wird die Dauer eines Inlandsflugs (30-45 Minuten) als optimale Länge genannt. Ganz grob kann man drei Kategorien von Podcast-Längen unterscheiden:
 
@@ -20,7 +20,9 @@ Die "richtige" Länge für Podcasts gibt es nicht, Podcasts können eine beliebi
 * **Mittellange** Podcasts sind zwischen 45 und 90 Minuten lang
 * **Lange Podcasts** sind länger als 90 Minuten (bis zu mehren Stunden)
 
-### Inhalt
+Auch die Frequenz mit der Podcast-Episoden kann sehr unterschiedlich sein. Der Podcast kann regelmäßig (z.B. wöchentlich, monatlich) oder unregelmäßig (je nach Anlass) erscheinen.
+
+### Inhalt und Form
 
 Bei der inhaltlichen Gestaltung von Podcasts ist der Phantasie keine Grenze gesetzt. Jedes Thema, dass eine Gruppe von Personen interessiert, kann sich für einen Podcast eignen. Podcast-Episoden können ein Thema (monothematisch) oder mehrere Themen behandeln. Podcasts können sich außerdem mit aktuellen Themen (News-Podcasts) oder mit zeitlosen Themen (Evergreen) befassen. Eine gute Orientierung zu Themen von Podcasts gibt z.B. das Podcast-Verzeichnis von Apple:
 
@@ -44,7 +46,7 @@ Bei der inhaltlichen Gestaltung von Podcasts ist der Phantasie keine Grenze gese
 * Technologie
 * Wahre Kriminalfälle
 
-### Intro, Outro und Jingles
+### Medien wie Intro, Outro und Jingles
 
 Ähnlich wie Radio- oder Fernsehsendung können auch Podcasts eine Musik am Anfang (Intro) und am Ende (Intro) haben, müssen sie aber nicht. Manche Podcasts nutzen das Intro auch, um einen Rückblick auf die vergangene Sendung zu machen (das "Previously") oder ein Zitat aus der aktuellen Episode anzuteasern.
 
