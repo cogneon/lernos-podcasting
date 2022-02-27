@@ -46,3 +46,4 @@ Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für I
 | 0.3     | Simon Dückert  | Inhaltsverzeichnis an lernOS High Level Structure angepasst, Untertitel ergänzt, Kapitel "Podcasting-Grundausstattung" in "Podcasting Hardware" umbenannt. | 29.12.2019 |
 | 0.4     | Simon Dückert  | Webpräsentation ergänzt, Link zu Ultraschall-Tutorial ergänzt | 27.12.2021 |
 | 0.5     | Simon Dückert  | Feedback vom rc3 ergänzt | 29.12.2021 |
+| 0.9     | Simon Dückert  | Katas im Lernpfad erweitert (war bisher nur eine Liste) | 27.02.20212|
