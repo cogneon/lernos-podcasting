@@ -8,9 +8,6 @@
   <title>lernOS Podcasting Leitfaden</title>
   <style>
     html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
       color: #1a1a1a;
       background-color: #fdfdfd;
     }
@@ -29,13 +26,16 @@
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 12px;
       }
       h1 {
         font-size: 1.8em;
       }
     }
     @media print {
+      html {
+        background-color: white;
+      }
       body {
         background-color: transparent;
         color: black;
@@ -85,9 +85,10 @@
       color: #606060;
     }
     code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
+      hyphens: manual;
     }
     pre {
       margin: 1em 0;
@@ -149,10 +150,18 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
@@ -718,8 +727,9 @@ nur weiche Noise Gates brauchbar.</p></li>
 in Hardware oder in Software umgesetzt sein. Digitales Audio Processing
 hat meist längere Signallaufzeiten, was die Latenz der ganzen Audiokette
 verschlechtert.</p>
-<h2 data-number="2.5" id="software"><span
-class="header-section-number">2.5</span> Software</h2>
+<h2 data-number="2.5" id="software---aufnahme-produktion"><span
+class="header-section-number">2.5</span> Software - Aufnahme &amp;
+Produktion</h2>
 <p>Früher kam Software hauptsächlich für den Schnitt von Podcasts zum
 Einsatz, aufgezeichnet wurde mit Hardware. Mittlerweile sind Computer
 viel schneller geworden und es ist zusätzlich Software vorhanden, mit
@@ -940,8 +950,41 @@ von Video (z.B. Webcam möglich).</p>
 <ul>
 <li>Wenig Konfigurationsmöglichkeiten</li>
 </ul>
-<h2 data-number="2.6" id="studio"><span
-class="header-section-number">2.6</span> Studio</h2>
+<h2 data-number="2.6" id="software---aufnahme-produktion-1"><span
+class="header-section-number">2.6</span> Software - Aufnahme &amp;
+Produktion</h2>
+<p>Früher kam Software hauptsächlich für den Schnitt von Podcasts zum
+Einsatz, aufgezeichnet wurde mit Hardware. Mittlerweile sind Computer
+viel schneller geworden und es ist zusätzlich Software vorhanden, mit
+der die Produktion von Podcasts ohne spezielle Audio-Hardware möglich
+ist.</p>
+<p>Typische Kategorien von Software im Podcasting sind:</p>
+<ul>
+<li><p><strong>Digital Audio Workstation (DAW)</strong>, Softwar zur
+Aufnahme, Bearbeitung und Produktion von Audio-Inhalten (z.B.
+Reaper).</p></li>
+<li><p><strong>Audioeditor</strong>, ähnlich der DAW, aber viel
+einfacher und mit weniger Funktionen (z.B. Audacity).</p></li>
+<li><p><strong>VoIP-Dienste</strong>, Software, die eigentlich zur
+Telefonie im Internet gedacht ist (Voice over IP), aber auch für das
+Remote-Podcasting verwendet werden kann (z.B. Studiolink).</p></li>
+<li><p><strong>Postproduktionsdienste</strong>, die den Podcastenden
+Audio-Processing-Arbeit wie z.B. Pegelanpassung, Kompression und
+Störgeräuschunterdrückung abnehmen (z.B. Auphonic).</p></li>
+<li><p><strong>Virtuelle Podcast Studios</strong> bieten die Einwahl per
+Webbrowser, Funktionen zur Aufzeichnung, Chat und teilweise auch
+Videokonferenzen. Nach Aufnahmeende können die Audiospuren
+heruntergeladen werden.</p></li>
+<li><p><strong>Podcast Recorder Apps</strong>, mit denen man ganze
+Podcast-Episoden mit dem Smartphone aufnehmen, bearbeiten und
+publizieren kann (z.B. Anchor).</p></li>
+<li><p><strong>Videokonferenz-Tools</strong>, die auch zur Aufzeichnung
+von Remote-Podcasts verwendet werden kann (z.B. Zoom, MS Teams, Jitsi).
+Dabei ist allerdings auf gute Audioqualität und idealerweise auch die
+Funktion der Mehrspuraufnahme zu achten.</p></li>
+</ul>
+<h2 data-number="2.7" id="studio"><span
+class="header-section-number">2.7</span> Studio</h2>
 <figure>
 <img
 src="images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-tonstudio.png"
@@ -951,8 +994,8 @@ zirkusliebe.de, CC BY, <a
 href="https://www.unmus.de/podcast-in-a-nutshell/"
 class="uri">https://www.unmus.de/podcast-in-a-nutshell/</a></figcaption>
 </figure>
-<h3 data-number="2.6.1" id="raumsituation-und-hall"><span
-class="header-section-number">2.6.1</span> Raumsituation und Hall</h3>
+<h3 data-number="2.7.1" id="raumsituation-und-hall"><span
+class="header-section-number">2.7.1</span> Raumsituation und Hall</h3>
 <p>Wenn man innerhalb eines Raumes aufnimmt, sollte man sich einen Raum
 suchen, der nicht so viel Hall entwickelt. Kahle Wände und vor allem
 glatte Fensterfronten sind die Hauptursache für Hall, der sich nachher
@@ -975,8 +1018,8 @@ einbringen, wenn Gesprächsteilnehmer mit ihren Händen oder irgendwelchen
 Büroartikeln auf der Oberfläche herumfuhrwerken. Hier ist ein massiver
 Holztisch sinnvoller, ggf. kann man auch mit Schreibtischauflagen
 Entspannung schaffen.</p>
-<h3 data-number="2.6.2" id="sprecherposition"><span
-class="header-section-number">2.6.2</span> Sprecherposition</h3>
+<h3 data-number="2.7.2" id="sprecherposition"><span
+class="header-section-number">2.7.2</span> Sprecherposition</h3>
 <p>Ein bequeme Sitzposition ist für Sprachaufnahmen sehr von Vorteil.
 Idealerweise sollte man das aber nicht zusammengekrümmt im Sofa sitzen,
 sondern möglichst aufrecht, so dass der Brustkorb und Bauchbereich seine
@@ -985,8 +1028,8 @@ volle Atmungsunterstützung entwickeln kann.</p>
 Hochsitz verwenden. Dann ist das Sprechen am einfachsten, man kann
 leichter laut und direkt sprechen und wird am Ende besser
 verstanden.</p>
-<h3 data-number="2.6.3" id="mikrofonierung"><span
-class="header-section-number">2.6.3</span> Mikrofonierung</h3>
+<h3 data-number="2.7.3" id="mikrofonierung"><span
+class="header-section-number">2.7.3</span> Mikrofonierung</h3>
 <p>Die Aufgabe des Mikrofons ist es, die Sprache jedes
 Gesprächsteilnehmers optimal einzufangen und für die Aufnahme zu
 wandeln. Daher ist es optimal, wenn jeder Teilnehmer auch über sein
@@ -1001,8 +1044,8 @@ sein.</p>
 <p>Entsprechend benötigt man für die Aufnahme auch einen eigenen
 Mikrofoneingang (Mikrofonverstärker) am Mischpult oder Aufnahmegerät.
 Hier muss also die richtige Kapazität vorhanden sein.</p>
-<h2 data-number="2.7" id="literatur-und-links"><span
-class="header-section-number">2.7</span> Literatur und Links</h2>
+<h2 data-number="2.8" id="literatur-und-links"><span
+class="header-section-number">2.8</span> Literatur und Links</h2>
 <p><strong>Literatur:</strong></p>
 <ul>
 <li>Diemand, V., Mangold, M., Weibel, P.: <a

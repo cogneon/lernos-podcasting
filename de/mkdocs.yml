@@ -16,8 +16,8 @@ nav:
             Audio-Rekorder: 2-4-2-Audio-Rekorder.md
             Audio-Interfaces und Mischpulte: 2-4-3-Audio-Interfaces-Mischpulte.md
             Audio-Processing: 2-4-4-Audio-Processing.md
-        - Software:
-            Überlick: 2-5-0-Software.md
+        - Software - Aufnahme:
+            Überlick: 2-5-0-Software-Aufnahme.md
             Ardour: 2-5-1-Ardour.md
             Audacity: 2-5-2-Audacity.md
             Audition: 2-5-3-Audition.md
@@ -27,8 +27,10 @@ nav:
             Reaper und Ultraschall: 2-5-7-Reaper-Ultraschall.md
             Studio Link: 2-5-8-Studio-Link.md
             Zencastr: 2-5-9-Zencastr.md
-        - Studio: 2-6-Studio.md
-        - Literatur und Links: 2-7-Literatur-Links.md
+        - Software - Hosting:
+            Überblick: 2-6-0-Software-Hosting.md
+        - Studio: 2-7-Studio.md
+        - Literatur und Links: 2-8-Literatur-Links.md
     - Lernpfad:
             Überblick: 3-0-Lernpfad.md
             Get Started (Kata): 3-1-Kata-Get-Started.md
@@ -83,13 +85,5 @@ extra:
     analytics:
        provider: custom
 
-markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-
 plugins:
   - search
-  - mermaid2
