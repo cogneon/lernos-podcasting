@@ -1,5 +1,7 @@
 ### Audio Processing
 
+Frage: als Info zu Workflow mit Hinweis, dass man das in Software oder Hardware machen kann?
+
 Mit Audio-Processing (auch Audio-Effekte) bezeichnet man die analoge oder digitale Manipulation eines Audio-Signals. Typische Audio-Effekte sind.
 
 - **Kompressoren:** Die Kompression ist die wichtigste Signalverarbeitung im Radiobereich. Jeder kennt den Effekt vom normalen Radio hören: ob man "lauter" Musik oder einem ruhig redenden Nachrichtensprecher lauscht, nur selten muss man den Lautstärkeregler bedienen, weil sich im Kern immer das selbe Lautstärkeempfinden einstellt. Dies ist ein beabsichtigter Effekt und wird durch eine aufwändige Kompression erreicht.
