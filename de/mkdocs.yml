@@ -11,13 +11,13 @@ nav:
         - Format: 2-2-Format.md
         - Workflow: 2-3-Workflow.md
         - Hardware:
-            Überblick: 2-4-0-Hardware.md
+            Überblick: 2-4-0-Technik-Hardware.md
             Mikrofone und Headsets: 2-4-1-Mikrofone-Headsets.md
             Audio-Rekorder: 2-4-2-Audio-Rekorder.md
             Audio-Interfaces und Mischpulte: 2-4-3-Audio-Interfaces-Mischpulte.md
             Audio-Processing: 2-4-4-Audio-Processing.md
-        - Software - Aufnahme:
-            Überlick: 2-5-0-Software-Aufnahme.md
+        - Software:
+            Überlick: 2-5-0-Technik-Software.md
             Ardour: 2-5-1-Ardour.md
             Audacity: 2-5-2-Audacity.md
             Audition: 2-5-3-Audition.md
@@ -27,8 +27,7 @@ nav:
             Reaper und Ultraschall: 2-5-7-Reaper-Ultraschall.md
             Studio Link: 2-5-8-Studio-Link.md
             Zencastr: 2-5-9-Zencastr.md
-        - Software - Hosting:
-            Überblick: 2-6-0-Software-Hosting.md
+        - Podhosting: 2-6-0-Podhosting.md
         - Studio: 2-7-Studio.md
         - Literatur und Links: 2-8-Literatur-Links.md
     - Lernpfad:

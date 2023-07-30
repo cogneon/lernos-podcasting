@@ -14,22 +14,4 @@ Selber Radio zu machen, ist einfach. Man sollte sich nur vorher überlegen, mit 
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/Zirkusliebe-cc-by-podcast-in-a-nutshell-podcast-easypeasy.png)
 
-Der Wunsch, selbst Audiosendungen in Form von Podcasts zu produzieren stellt viele Neueinsteiger zunächst einmal vor einige Fragen:
-
-1. Welches Format ist das richtige?
-
-2. Welche Audiotechnik benötige ich, um Aufnahmen in angemessener Qualität durchzuführen, zu bearbeiten und zu veröffentlichen?
-
-Die Antwort auf diese Fragen hängt von vielen Faktoren ab:
-
-1. Wer ist die Zielgruppe?
-
-2. Wie viele Personen sind an dem Podcast beteiligt?
-
-3. In welchem Raum oder welcher Situation sollen die Aufnahmen gemacht werden? Wie tragbar muss das Equipment sein?
-
-4. Soll die Sendung live übertragen werden?
-
-5. Sollen Leute per Telefon mit in die Sendung einbezogen werden?
-
-Um diese Fragen gut beantworten und die richtigen Entscheidung treffen zu können, wird im Folgenden der Podcasting Canvas vorgestellt, eine Art visuelle Checkliste mit der alle für den eigenen Podcast relevanten Fragen gestellt und beantwortet werden können.
+Ein Beispiel-Podcast ...
