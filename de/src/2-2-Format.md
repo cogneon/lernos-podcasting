@@ -24,7 +24,7 @@ Auch die Frequenz mit der Podcast-Episoden kann sehr unterschiedlich sein. Der P
 
 ### Inhalt und Form
 
-Bei der inhaltlichen Gestaltung von Podcasts ist der Phantasie keine Grenze gesetzt. Jedes Thema, dass eine Gruppe von Personen interessiert, kann sich für einen Podcast eignen. Podcast-Episoden können ein Thema (monothematisch) oder mehrere Themen behandeln. Podcasts können sich außerdem mit aktuellen Themen (News-Podcasts) oder mit zeitlosen Themen (Evergreen) befassen. Eine gute Orientierung zu Themen von Podcasts gibt z.B. das Podcast-Verzeichnis von Apple:
+Bei der inhaltlichen Gestaltung von Podcasts ist der Phantasie keine Grenze gesetzt. Jedes Thema, dass eine Gruppe von Personen interessiert, kann sich für einen Podcast eignen. Podcast-Episoden können ein Thema (monothematisch) oder mehrere Themen behandeln. Podcasts können sich außerdem mit aktuellen Themen (News-Podcasts) oder mit zeitlosen Themen (Evergreen) befassen. Eine gute Orientierung zu Themen von Podcasts geben z.B. die [Kategorien des Podcast-Verzeichnis von Apple](https://podcasters.apple.com/de-de/support/1691-apple-podcasts-categories):
 
 * Kunst
 * Wirtschaft
