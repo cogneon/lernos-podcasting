@@ -8,7 +8,7 @@ jobs:
     steps:
       # Repository auschecken, damit Workflow es nutzen kann
       - uses: actions/checkout@v3
-
+      
       # Delete Old Versions
       - run: rm -rf ./de/${{ github.event.repository.name }}-guide.*
       - run: rm -rf ./docs/de/*
@@ -72,9 +72,18 @@ jobs:
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
       # Create Web Version (mkdocs)
-      - uses: docker://squidfunk/mkdocs-material
+      - uses: actions/setup-python@v4
         with:
-          mkdocs_version: 'latest'
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material
+      - run: mkdocs build -f ./de/mkdocs.yml
 
       # Geänderte Datein zurück ins Repository committen
       - uses: stefanzweifel/git-auto-commit-action@v4
