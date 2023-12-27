@@ -39,11 +39,12 @@ Ich möchte an dieser Stelle allen Mitarbeitern des [Fraunhofer Instituts für I
 
 ## Änderungshistorie
 
-| Version | Bearbeitet von | Beschreibung Änderung | Datum |
-| ------- | -------------- | --------------------- | ----- |
+| Version | Bearbeitet von | Beschreibung Änderung                                                                                                                                                                                                               | Datum      |
+| ------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 0.1     | Simon Dückert  | Initialen Version erstellt, Inhalte aus dem Wikibook übernommen, Kapitel Vorwort erstellt, Kapitel Danksagung erstellt, Kapitel Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur- und Linkliste aktualisiert. | 24.03.2019 |
-| 0.2     | Simon Dückert  | Teile der Sketchnote "Podcast in a Nutshell" von Marco Hitschler (@zirkusliebe) als Bebilderung der Kapitel übernommen. | 27.07.2019 |
-| 0.3     | Simon Dückert  | Inhaltsverzeichnis an lernOS High Level Structure angepasst, Untertitel ergänzt, Kapitel "Podcasting-Grundausstattung" in "Podcasting Hardware" umbenannt. | 29.12.2019 |
-| 0.4     | Simon Dückert  | Webpräsentation ergänzt, Link zu Ultraschall-Tutorial ergänzt | 27.12.2021 |
-| 0.5     | Simon Dückert  | Feedback vom rc3 ergänzt | 29.12.2021 |
-| 0.9     | Simon Dückert  | Katas im Lernpfad erweitert (war bisher nur eine Liste) | 27.02.20212|
+| 0.2     | Simon Dückert  | Teile der Sketchnote "Podcast in a Nutshell" von Marco Hitschler (@zirkusliebe) als Bebilderung der Kapitel übernommen.                                                                                                             | 27.07.2019 |
+| 0.3     | Simon Dückert  | Inhaltsverzeichnis an lernOS High Level Structure angepasst, Untertitel ergänzt, Kapitel "Podcasting-Grundausstattung" in "Podcasting Hardware" umbenannt.                                                                          | 29.12.2019 |
+| 0.4     | Simon Dückert  | Webpräsentation ergänzt, Link zu Ultraschall-Tutorial ergänzt                                                                                                                                                                       | 27.12.2021 |
+| 0.5     | Simon Dückert  | Feedback vom rc3 ergänzt                                                                                                                                                                                                            | 29.12.2021 |
+| 0.9     | Simon Dückert  | Katas im Lernpfad erweitert (war bisher nur eine Liste)                                                                                                                                                                             | 27.02.2021 |
+| 1.0     | Simon Dückert  | Feedback aus Learning Circle Experience lce22a eingefügt                                                                                                                                                                            | 01.06.2022 |
