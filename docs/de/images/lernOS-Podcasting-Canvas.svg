@@ -7,7 +7,7 @@
    id="svg311"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    sodipodi:docname="lernOS-Podcasting-Canvas.svg"
-   inkscape:export-filename="C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-podcasting\de\src\images\lernOS-Podcasting-Canvas-de.png"
+   inkscape:export-filename="lernOS-Podcasting-Canvas.png"
    inkscape:export-xdpi="149.98094"
    inkscape:export-ydpi="149.98094"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -517,8 +517,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2304121"
-     inkscape:cx="531.52922"
-     inkscape:cy="200.33938"
+     inkscape:cx="390.51955"
+     inkscape:cy="292.99126"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -663,7 +663,7 @@
          x="81.826637"
          y="175.48503"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558"
-         id="tspan722">Technik</tspan></text>
+         id="tspan722">Technik &amp; Studio</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
@@ -959,6 +959,6 @@
          id="tspan852-8-5-8-2-7"
          x="14.747869"
          y="175.48503"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31771px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558">Name &amp; Cover Art</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31771px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558">Name &amp; Cover</tspan></text>
   </g>
 </svg>
