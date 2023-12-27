@@ -56,6 +56,6 @@ Kostenfreie Töne und Musik gibt es z.B an folgenden Stellen (auf Lizenzen und V
 
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk)
 
-- [Free Music Archive]([Free Music Archive - Welcome to the Free Music Archive](https://freemusicarchive.org/home))
+- [Free Music Archive](https://freemusicarchive.org/home)
 
 - [YouTube](https://youtube.com), über die Suche, dann nach Creative Commons filtern, mit [youtube-dl](https://youtube-dl.org/) können Audios heruntergeladen werden
