@@ -6,44 +6,44 @@ site_dir: ../docs/de
 nav:
     - Über lernOS: index.md
     - Grundlagen:
-        - Grundlagen: 2-0-Grundlagen.md
-        - Podcasting-Canvas: 2-1-Podcasting-Canvas.md
-        - Format: 2-2-Format.md
-        - Workflow: 2-3-Workflow.md
+        - Grundlagen: 2-0-basics.md
+        - Podcasting-Canvas: 2-1-podcasting-canvas.md
+        - Format: 2-2-format.md
+        - Workflow: 2-3-workflow.md
         - Hardware:
-            Überblick: 2-4-0-Technik-Hardware.md
-            Mikrofone und Headsets: 2-4-1-Mikrofone-Headsets.md
-            Audio-Rekorder: 2-4-2-Audio-Rekorder.md
-            Audio-Interfaces und Mischpulte: 2-4-3-Audio-Interfaces-Mischpulte.md
-            Audio-Processing: 2-4-4-Audio-Processing.md
+            Überblick: 2-4-0-equipment-hardware.md
+            Mikrofone und Headsets: 2-4-1-mikrophone-headsets.md
+            Audio-Rekorder: 2-4-2-audio-recorder.md
+            Audio-Interfaces und Mischpulte: 2-4-3-audio-interfaces-mixer.md
+            Audio-Processing: 2-4-4-audio-processing.md
         - Software:
-            Überlick: 2-5-0-Technik-Software.md
-            Ardour: 2-5-1-Ardour.md
-            Audacity: 2-5-2-Audacity.md
-            Audition: 2-5-3-Audition.md
-            Ferrite: 2-5-4-Ferrite.md
-            Garageband: 2-5-5-Garageband.md
-            Hindenburg: 2-5-6-Hindenburg.md
-            Reaper und Ultraschall: 2-5-7-Reaper-Ultraschall.md
-            Studio Link: 2-5-8-Studio-Link.md
-            Zencastr: 2-5-9-Zencastr.md
-        - Podhosting: 2-6-0-Podhosting.md
-        - Studio: 2-7-Studio.md
-        - Literatur und Links: 2-8-Literatur-Links.md
+            Überlick: 2-5-0-equipment-software.md
+            Ardour: 2-5-1-ardour.md
+            Audacity: 2-5-2-audacity.md
+            Audition: 2-5-3-audition.md
+            Ferrite: 2-5-4-ferrite.md
+            Garageband: 2-5-5-garageband.md
+            Hindenburg: 2-5-6-hindenburg.md
+            Reaper und Ultraschall: 2-5-7-reaper-ultraschall.md
+            Studio Link: 2-5-8-studio-link.md
+            Zencastr: 2-5-9-zencastr.md
+        - Podhosting: 2-6-0-podhosting.md
+        - Studio: 2-7-studio.md
+        - Literatur und Links: 2-8-further-information.md
     - Lernpfad:
-            Überblick: 3-0-Lernpfad.md
-            Get Started (Kata): 3-1-Kata-Get-Started.md
-            Wähle eine Podcast App und finde Podcasts (Kata): 3-2-Kata-Podcast-Beispiele.md
-            Nutze den Podcast Canvas als Checkliste (Kata): 3-3-Kata-Podcast-Canvas.md
-            Nimm deine "Nullnummer" auf (Kata): 3-4-Kata-Nullnummer.md
-            Dein Podcast-Studio (Kata): 3-5-Kata-Podcast-Studio.md
-            Achtung Aufnahme Episode 1 (Kata): 3-6-Kata-Episode-1.md
-            Deine Podcast-Webseite (Kata): 3-7-Kata-Podcast-Webseite.md
-            Achtung Aufnahme Episode 2 (Kata): 3-8-Kata-Episode-2.md
-            Publiziere deine Episoden (Kata): 3-9-Kata-Publikation.md
-            Kommunikation, Kommunikation, Kommunikation (Kata): 3-10-Kata-Kommunikation.md
-            Podcast-Klinik (Kata): 3-11-Kata-Podcast-Klinik.md
-    - Anhang: 4-0-Anhang.md
+            Überblick: 3-0-learning-pathway.md
+            Get Started (Kata): 3-1-kata-get-started.md
+            Wähle eine Podcast App und finde Podcasts (Kata): 3-2-kata-podcast-examples.md
+            Nutze den Podcast Canvas als Checkliste (Kata): 3-3-kata-podcast-canvas.md
+            Nimm deine "Nullnummer" auf (Kata): 3-4-kata-first-episode.md
+            Dein Podcast-Studio (Kata): 3-5-kata-podcast-studio.md
+            Achtung Aufnahme Episode 1 (Kata): 3-6-kata-episode-1.md
+            Deine Podcast-Webseite (Kata): 3-7-kata-podcast-website.md
+            Achtung Aufnahme Episode 2 (Kata): 3-8-kata-episode-2.md
+            Publiziere deine Episoden (Kata): 3-9-kata-publication.md
+            Kommunikation, Kommunikation, Kommunikation (Kata): 3-10-kata-communication.md
+            Podcast-Klinik (Kata): 3-11-kata-podcast-clinic.md
+    - Anhang: 4-0-appendix.md
     - Download:
       - PDF-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernos-podcasting-guide.pdf
       - Word-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernos-podcasting-guide.docx
