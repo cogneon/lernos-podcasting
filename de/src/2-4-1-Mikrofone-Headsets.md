@@ -22,3 +22,11 @@ Mikrofone werden meist als Tischmikrofon auf einen Tisch gestellt oder an einem 
 **Tipp:** der Ton einer Aufzeichnung sollte bei Podcasts wie bei Videokonferenzen nie im gleichen Raum zu hören sein, in dem das Mikrofon steht, da es sonst zu Rückkopplungen kommen kann. Deswegen sollte immer ein Kopfhörer oder ein Headset verwendet werden.
 
 **Tipp:** die Freisprecheinrichtung eines mobilen Telefons (z.B. iPhone) bietet oftmals erstaunlich gute Tonqualität (z.B. Earpod mit Klinken- oder Lightning-Anschluss). Man muss allerdings darauf achten, dass die im Kabel eingebaute Mikrofonkapsel nicht an Kleidung, Schal oder Haaren reibt.
+
+Beyerdynamic DT297
+
+V-Moda Boom Pro
+
+Rode NT USB
+
+SMB7

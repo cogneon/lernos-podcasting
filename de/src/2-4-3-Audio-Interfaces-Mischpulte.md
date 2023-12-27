@@ -23,3 +23,7 @@ Die meisten Mischpulte sind für die Produktion von Musik gedacht. Es gibt aber 
 - Eingebaute Effekte wie Noise Gate, Kompressor und Expander
 
 - Funktion zum Setzen von Schnitt- und Kapitelmarken
+
+Focusrite
+
+Behringer

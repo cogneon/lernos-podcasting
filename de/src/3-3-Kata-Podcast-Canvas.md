@@ -4,7 +4,7 @@
 
 Der Podcast Canvas liegt als Grafik im PNG- und SVG-Format vor. Du kannst dir den Canvas ausdrucken und z.B. mit kleinen Haftnotizen darauf arbeiten.
 
-![](./images/lernOS-Podcasting-Canvas-de.png)
+![](./images/lernOS-Podcasting-Canvas.png)
 
 Wenn du mit dem Podcasting Canvas elektronisch arbeiten möchtest, kannst du z.B. folgende Ansätze wählen:
 

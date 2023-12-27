@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 296.99999 210.00004"
    version="1.1"
    id="svg311"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    sodipodi:docname="lernOS-Podcasting-Canvas.svg"
-   inkscape:export-filename="C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-podcasting\de\src\images\lernOS-Podcasting-Canvas-de.png"
+   inkscape:export-filename="lernOS-Podcasting-Canvas.png"
    inkscape:export-xdpi="149.98094"
-   inkscape:export-ydpi="149.98094">
+   inkscape:export-ydpi="149.98094"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs305">
     <linearGradient
@@ -516,19 +516,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3332381"
-     inkscape:cx="486.00544"
-     inkscape:cy="420.20416"
+     inkscape:zoom="1.2304121"
+     inkscape:cx="390.51955"
+     inkscape:cy="292.99126"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1373"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      units="mm"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata308">
     <rdf:RDF>
@@ -626,14 +629,14 @@
       <text
          id="text854-9-7-7-0-1"
          y="110.06491"
-         x="191.53885"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
+         x="211.4028"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.154558"
            y="110.06491"
-           x="191.53885"
+           x="211.4028"
            id="tspan852-8-5-8-7-9"
-           sodipodi:role="line">Podhosting</tspan></text>
+           sodipodi:role="line">Kanäle</tspan></text>
     </g>
     <g
        id="g3955"
@@ -648,7 +651,7 @@
            y="110.00801"
            x="234.45482"
            id="tspan852-8-5-8-7-5-5-8"
-           sodipodi:role="line">Zuhörer*innen &amp; Zielgruppen</tspan></text>
+           sodipodi:role="line">Zuhörer:innen &amp; Zielgruppen</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -656,11 +659,11 @@
        x="81.826637"
        y="175.48503"
        id="text854-9-7-7-09"><tspan
-         id="tspan340"
          sodipodi:role="line"
          x="81.826637"
          y="175.48503"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558">Technik</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558"
+         id="tspan722">Technik &amp; Studio</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
@@ -880,15 +883,15 @@
        y="104.31226" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
-       x="202.55307"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154558"
+       x="215.08241"
        y="175.55882"
        id="text854-9-7-7-09-7"><tspan
          id="tspan342"
          sodipodi:role="line"
-         x="202.55307"
+         x="215.08241"
          y="175.55882"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558">Kanäle</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.3177px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.154558">Podhosting</tspan></text>
     <path
        style="fill:#ffccaa;stroke:#000000;stroke-width:0.761192;stroke-miterlimit:4;stroke-dasharray:none"
        id="path450"
@@ -919,7 +922,7 @@
            y="115.75324"
            x="124.97398"
            id="tspan852-8-5-8-7-1"
-           sodipodi:role="line">Zweck &amp; Purpose</tspan></text>
+           sodipodi:role="line">Zweck &amp; Vision</tspan></text>
     </g>
     <rect
        y="104.31023"
@@ -956,6 +959,6 @@
          id="tspan852-8-5-8-2-7"
          x="14.747869"
          y="175.48503"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31771px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558">Name &amp; Cover Art</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31771px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.154558">Name &amp; Cover</tspan></text>
   </g>
 </svg>

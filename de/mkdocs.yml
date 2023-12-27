@@ -10,14 +10,14 @@ nav:
         - Podcasting-Canvas: 2-1-Podcasting-Canvas.md
         - Format: 2-2-Format.md
         - Workflow: 2-3-Workflow.md
-        - Hardare:
-            Überblick: 2-4-0-Hardware.md
+        - Hardware:
+            Überblick: 2-4-0-Technik-Hardware.md
             Mikrofone und Headsets: 2-4-1-Mikrofone-Headsets.md
             Audio-Rekorder: 2-4-2-Audio-Rekorder.md
             Audio-Interfaces und Mischpulte: 2-4-3-Audio-Interfaces-Mischpulte.md
             Audio-Processing: 2-4-4-Audio-Processing.md
         - Software:
-            Überlick: 2-5-0-Software.md
+            Überlick: 2-5-0-Technik-Software.md
             Ardour: 2-5-1-Ardour.md
             Audacity: 2-5-2-Audacity.md
             Audition: 2-5-3-Audition.md
@@ -27,8 +27,9 @@ nav:
             Reaper und Ultraschall: 2-5-7-Reaper-Ultraschall.md
             Studio Link: 2-5-8-Studio-Link.md
             Zencastr: 2-5-9-Zencastr.md
-        - Studio: 2-6-Studio.md
-        - Literatur und Links: 2-7-Literatur-Links.md
+        - Podhosting: 2-6-0-Podhosting.md
+        - Studio: 2-7-Studio.md
+        - Literatur und Links: 2-8-Literatur-Links.md
     - Lernpfad:
             Überblick: 3-0-Lernpfad.md
             Get Started (Kata): 3-1-Kata-Get-Started.md
@@ -44,10 +45,11 @@ nav:
             Podcast-Klinik (Kata): 3-11-Kata-Podcast-Klinik.md
     - Anhang: 4-0-Anhang.md
     - Download:
-      - PDF-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernos-podcasting-guide.pdf
-      - Word-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernos-podcasting-guide.docx
-      - HTML-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernos-podcasting-guide.html
-      - E-Book (epub): https://github.com/cogneon/lernos-podcasting/blob/master/de/lernos-podcasting-guide.epub
+      - PDF-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-podcasting/blob/master/de/lernOS-Podcasting-Guide-de.mobi
     - Links:
       - Präsentation: https://cogneon.github.io/lernos-podcasting/de-slides
       - lernos.org: https://lernos.org
@@ -72,25 +74,16 @@ repo_url: 'https://github.com/cogneon/lernos-podcasting'
 
 extra:
     social:
-        - icon: fontawesome/brands/mastodon
-          link: 'https://colearn.social/@lernos'
+        - icon: fontawesome/brands/twitter
+          link: 'https://twitter.com/lern_os'
         - icon: fontawesome/brands/linkedin
           link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
-    disqus: lernos
+    giscus: true
     analytics:
        provider: custom
     generator: false
-
-copyright: cogneon.de/impressum
-
-markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
 
 plugins:
   - search
