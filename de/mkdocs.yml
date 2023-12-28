@@ -12,7 +12,7 @@ nav:
         - Workflow: 2-3-workflow.md
         - Hardware:
             - Überblick: 2-4-0-equipment-hardware.md
-            - Mikrofone und Headsets: 2-4-1-mikrophone-headsets.md
+            - Mikrofone und Headsets: 2-4-1-microphone-headsets.md
             - Audio-Rekorder: 2-4-2-audio-recorder.md
             - Audio-Interfaces und Mischpulte: 2-4-3-audio-interfaces-mixer.md
             - Audio-Processing: 2-4-4-audio-processing.md
@@ -35,7 +35,7 @@ nav:
             - Get Started (Kata): 3-1-kata-get-started.md
             - Wähle eine Podcast App und finde Podcasts (Kata): 3-2-kata-podcast-examples.md
             - Nutze den Podcast Canvas als Checkliste (Kata): 3-3-kata-podcast-canvas.md
-            - Nimm deine "Nullnummer" auf (Kata): 3-4-kata-first-episode.md
+            - Nimm deine "Nullnummer" auf (Kata): 3-4-kata-pilot.md
             - Dein Podcast-Studio (Kata): 3-5-kata-podcast-studio.md
             - Achtung Aufnahme Episode 1 (Kata): 3-6-kata-episode-1.md
             - Deine Podcast-Webseite (Kata): 3-7-kata-podcast-website.md
@@ -83,6 +83,11 @@ extra:
     analytics:
        provider: custom
     generator: false
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - search

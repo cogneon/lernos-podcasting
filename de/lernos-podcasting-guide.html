@@ -60,6 +60,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -152,8 +156,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -171,142 +178,7 @@
 <p class="date">Version 1.0 (01.06.2022)</p>
 </header>
 <nav id="TOC" role="doc-toc">
-<ul>
-<li><a href="#über-lernos" id="toc-über-lernos"><span
-class="toc-section-number">1</span> Über lernOS</a></li>
-<li><a href="#grundlagen" id="toc-grundlagen"><span
-class="toc-section-number">2</span> Grundlagen</a>
-<ul>
-<li><a href="#podcasting-canvas" id="toc-podcasting-canvas"><span
-class="toc-section-number">2.1</span> Podcasting-Canvas</a></li>
-<li><a href="#format" id="toc-format"><span
-class="toc-section-number">2.2</span> Format</a>
-<ul>
-<li><a href="#gesprächspartner_innen"
-id="toc-gesprächspartner_innen"><span
-class="toc-section-number">2.2.1</span> Gesprächspartner_innen</a></li>
-<li><a href="#sendungslänge-und-frequenz"
-id="toc-sendungslänge-und-frequenz"><span
-class="toc-section-number">2.2.2</span> Sendungslänge und
-Frequenz</a></li>
-<li><a href="#inhalt-und-form" id="toc-inhalt-und-form"><span
-class="toc-section-number">2.2.3</span> Inhalt und Form</a></li>
-<li><a href="#medien-wie-intro-outro-und-jingles"
-id="toc-medien-wie-intro-outro-und-jingles"><span
-class="toc-section-number">2.2.4</span> Medien wie Intro, Outro und
-Jingles</a></li>
-</ul></li>
-<li><a href="#workflow" id="toc-workflow"><span
-class="toc-section-number">2.3</span> Workflow</a></li>
-<li><a href="#technik---hardware" id="toc-technik---hardware"><span
-class="toc-section-number">2.4</span> Technik - Hardware</a>
-<ul>
-<li><a href="#mikrofone-und-headsets"
-id="toc-mikrofone-und-headsets"><span
-class="toc-section-number">2.4.1</span> Mikrofone und Headsets</a></li>
-<li><a href="#audio-rekorder" id="toc-audio-rekorder"><span
-class="toc-section-number">2.4.2</span> Audio-Rekorder</a></li>
-<li><a href="#audio-interfaces-und-mischpulte"
-id="toc-audio-interfaces-und-mischpulte"><span
-class="toc-section-number">2.4.3</span> Audio-Interfaces und
-Mischpulte</a></li>
-<li><a href="#audio-processing" id="toc-audio-processing"><span
-class="toc-section-number">2.4.4</span> Audio Processing</a></li>
-</ul></li>
-<li><a href="#technik---software" id="toc-technik---software"><span
-class="toc-section-number">2.5</span> Technik - Software</a>
-<ul>
-<li><a href="#ardour" id="toc-ardour"><span
-class="toc-section-number">2.5.1</span> Ardour</a></li>
-<li><a href="#audacity" id="toc-audacity"><span
-class="toc-section-number">2.5.2</span> Audacity</a></li>
-<li><a href="#audition" id="toc-audition"><span
-class="toc-section-number">2.5.3</span> Audition</a></li>
-<li><a href="#ferrite" id="toc-ferrite"><span
-class="toc-section-number">2.5.4</span> Ferrite</a></li>
-<li><a href="#garageband" id="toc-garageband"><span
-class="toc-section-number">2.5.5</span> Garageband</a></li>
-<li><a href="#hindenburg" id="toc-hindenburg"><span
-class="toc-section-number">2.5.6</span> Hindenburg</a></li>
-<li><a href="#reaper-ultraschall" id="toc-reaper-ultraschall"><span
-class="toc-section-number">2.5.7</span> Reaper + Ultraschall</a></li>
-<li><a href="#studio-link-standalone"
-id="toc-studio-link-standalone"><span
-class="toc-section-number">2.5.8</span> Studio Link Standalone</a></li>
-<li><a href="#zencastr" id="toc-zencastr"><span
-class="toc-section-number">2.5.9</span> Zencastr</a></li>
-</ul></li>
-<li><a href="#podhosting" id="toc-podhosting"><span
-class="toc-section-number">2.6</span> Podhosting</a></li>
-<li><a href="#studio" id="toc-studio"><span
-class="toc-section-number">2.7</span> Studio</a>
-<ul>
-<li><a href="#raumsituation-und-hall"
-id="toc-raumsituation-und-hall"><span
-class="toc-section-number">2.7.1</span> Raumsituation und Hall</a></li>
-<li><a href="#sprecherposition" id="toc-sprecherposition"><span
-class="toc-section-number">2.7.2</span> Sprecherposition</a></li>
-<li><a href="#mikrofonierung" id="toc-mikrofonierung"><span
-class="toc-section-number">2.7.3</span> Mikrofonierung</a></li>
-</ul></li>
-<li><a href="#literatur-und-links" id="toc-literatur-und-links"><span
-class="toc-section-number">2.8</span> Literatur und Links</a></li>
-</ul></li>
-<li><a href="#podcasting-lernpfad" id="toc-podcasting-lernpfad"><span
-class="toc-section-number">3</span> Podcasting Lernpfad</a>
-<ul>
-<li><a href="#get-started-kata" id="toc-get-started-kata"><span
-class="toc-section-number">3.1</span> Get Started (Kata)</a></li>
-<li><a href="#kommunikation-kommunikation-kommunikation-kata"
-id="toc-kommunikation-kommunikation-kommunikation-kata"><span
-class="toc-section-number">3.2</span> Kommunikation, Kommunikation,
-Kommunikation (Kata)</a></li>
-<li><a href="#podcast-klinik-kata" id="toc-podcast-klinik-kata"><span
-class="toc-section-number">3.3</span> Podcast Klinik (Kata)</a></li>
-<li><a href="#wähle-eine-podcast-app-und-finde-podcasts-kata"
-id="toc-wähle-eine-podcast-app-und-finde-podcasts-kata"><span
-class="toc-section-number">3.4</span> Wähle eine Podcast App und finde
-Podcasts (Kata)</a></li>
-<li><a href="#nutze-den-podcast-canvas-als-checkliste-kata"
-id="toc-nutze-den-podcast-canvas-als-checkliste-kata"><span
-class="toc-section-number">3.5</span> Nutze den Podcast Canvas als
-Checkliste (Kata)</a></li>
-<li><a href="#nimm-deine-nullnummer-auf"
-id="toc-nimm-deine-nullnummer-auf"><span
-class="toc-section-number">3.6</span> Nimm deine “Nullnummer”
-auf</a></li>
-<li><a href="#dein-podcast-studio-kata"
-id="toc-dein-podcast-studio-kata"><span
-class="toc-section-number">3.7</span> Dein Podcast-Studio
-(Kata)</a></li>
-<li><a href="#achtung-aufnahme-episode-1-kata"
-id="toc-achtung-aufnahme-episode-1-kata"><span
-class="toc-section-number">3.8</span> Achtung Aufnahme Episode 1
-(Kata)</a></li>
-<li><a href="#deine-podcast-webseite-kata"
-id="toc-deine-podcast-webseite-kata"><span
-class="toc-section-number">3.9</span> Deine Podcast-Webseite
-(Kata)</a></li>
-<li><a href="#achtung-aufnahme-episode-2-kata"
-id="toc-achtung-aufnahme-episode-2-kata"><span
-class="toc-section-number">3.10</span> Achtung Aufnahme Episode 2
-(Kata)</a></li>
-<li><a href="#publiziere-deine-episoden-kata"
-id="toc-publiziere-deine-episoden-kata"><span
-class="toc-section-number">3.11</span> Publiziere deine Episoden
-(Kata)</a></li>
-</ul></li>
-<li><a href="#anhang" id="toc-anhang"><span
-class="toc-section-number">4</span> Anhang</a>
-<ul>
-<li><a href="#materialliste" id="toc-materialliste"><span
-class="toc-section-number">4.1</span> Materialliste</a></li>
-<li><a href="#danksagungen" id="toc-danksagungen"><span
-class="toc-section-number">4.2</span> Danksagungen</a></li>
-<li><a href="#änderungshistorie" id="toc-änderungshistorie"><span
-class="toc-section-number">4.3</span> Änderungshistorie</a></li>
-</ul></li>
-</ul>
+
 </nav>
 <h1 data-number="1" id="über-lernos"><span
 class="header-section-number">1</span> Über lernOS</h1>
@@ -329,6 +201,10 @@ konsumiert werden, an denen die Nutzung von Videos schwierig ist
 Leitfaden lernt ihr in einem Learning Sprint, selber Podcast zu machen
 und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine
 durchlaufen oder in einem Learning Circle mit 4-5 anderen Personen.</p>
+<p>!!! Hinweis</p>
+<pre><code>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.</code></pre>
 <p>@simondueckert</p>
 <p>Lizenz</p>
 <p>lernOS Leitfäden stehen unter der Lizenz <a
@@ -595,9 +471,8 @@ Lizenzen und Verwendungsrechte achten):</p>
 <ul>
 <li><p><a href="https://sound-effects.bbcrewind.co.uk">BBC Sound
 Effects</a></p></li>
-<li><p><a
-href="%5BFree%20Music%20Archive%20-%20Welcome%20to%20the%20Free%20Music%20Archive%5D(https://freemusicarchive.org/home)">Free
-Music Archive</a></p></li>
+<li><p><a href="https://freemusicarchive.org/home">Free Music
+Archive</a></p></li>
 <li><p><a href="https://youtube.com">YouTube</a>, über die Suche, dann
 nach Creative Commons filtern, mit <a
 href="https://youtube-dl.org/">youtube-dl</a> können Audios
@@ -1016,10 +891,10 @@ Audio Workstation für Radio Broadcasting und Podcasts.</p>
 <h3 data-number="2.5.7" id="reaper-ultraschall"><span
 class="header-section-number">2.5.7</span> Reaper + Ultraschall</h3>
 <p><a href="https://www.reaper.fm">Reaper</a> ist eine Anwendung für
-Audio Produktion mit Mehrspuraufnahme, Midi Aufnahme und Werkzeugen für
-Bearbeitung, Mixen und Mastering von Musik. Das Projekt <a
-href="https://ultraschall.fm">Ultraschall</a> optimierte Reaper für die
-Aufnahme und Produktion von Podcasts.</p>
+Audio Produktion (DAW, Digital Audio Workstation) mit Mehrspuraufnahme,
+Midi Aufnahme und Werkzeugen für Bearbeitung, Mixen und Mastering von
+Musik. Das Projekt <a href="https://ultraschall.fm">Ultraschall</a>
+optimierte Reaper für die Aufnahme und Produktion von Podcasts.</p>
 <figure>
 <img src="./images/screenshot-reaper-ultraschall.png"
 alt="Screenshot Reaper + Ultraschall" />
@@ -1032,14 +907,14 @@ Ultraschall</figcaption>
 <li>Sehr vollständiger Funktionsumfang für das Podcasting (z.B.
 Remote-Podcasting, Livestreaming, Levelling, Kapitelmarken,
 Livestreaming)</li>
-<li>Für Windows und Mac verfügbar</li>
+<li>Für Windows, Mac und Linux verfügbar</li>
 </ul>
 <p><strong>Nachteile:</strong></p>
 <ul>
-<li>Komplexer Installationsprozess, da erst Reaper und dann Ultraschall
-als Erweiterung installiert werden muss</li>
-<li>Im Vergleich zu Software wie Audacity höherer
-Einarbeitungsaufwand</li>
+<li>Installationsprozess in zwei Schritten, da erst Reaper und dann
+Ultraschall als Erweiterung installiert werden muss</li>
+<li>Im Vergleich zu Software wie <a
+href="2-5-2-audacity.md">Audacity</a> höherer Einarbeitungsaufwand</li>
 </ul>
 <p><strong>Links:</strong></p>
 <ul>
@@ -1049,11 +924,10 @@ Handbuch</a> (auch <a
 href="https://ultraschall.github.io/ultraschall-manual/en/docs/introduction/">auf
 Englisch</a> verfügbar)</li>
 <li><a
-href="https://docs.leonidlezner.de/ultraschall-tutorial">Ultraschall
-Tutorial</a> von Leonid Lezner</li>
-<li><a
 href="https://www.youtube.com/watch?v=LeDNF-GWdxI&amp;list=PLt-IZcwZ3VJk0gBVOz-BNRTxFp8-eNAFN">Ultraschall
 Video-Tutorials</a> von Joram</li>
+<li><a href="https://sendegate.de/c/ultraschall/5">Kategorie
+Ultraschall</a> in der Sendegate Podcasting-Community</li>
 <li>c’t Artikel <a
 href="https://www.heise.de/select/ct/2020/14/2014915163287581935">Von
 null auf Sendung</a> (Ultraschall 4)</li>
@@ -1355,54 +1229,8 @@ Software-Arten etc.)</p></li>
 Besprechungsräumen bis zum Studio</p></li>
 </ul>
 <h2 data-number="3.2"
-id="kommunikation-kommunikation-kommunikation-kata"><span
-class="header-section-number">3.2</span> Kommunikation, Kommunikation,
-Kommunikation (Kata)</h2>
-<p><strong>Schritt 1: Mache deinen Podcast bekannt</strong></p>
-<p><img src="./images/kata-10-kommunizieren.jpg" /></p>
-<p>Mache deinen Podcast über die von dir im Podcasting Canvas gewählten
-Kanäle bekannt und ermuntere zu Diskussion und Feedback. Reserviere dir
-etwas Zeit, um auf Feedback und Fragen zu reagieren. Sammle alles
-Feedback um deinen Podcast in Zukunft kontinuierlich gemäß deiner Ziele
-und den Wünschen der Zielgruppe zu verbessern.</p>
-<p>Ein guter Weg der Kommunikation ist die Mund-zu-Mund-Propaganda.
-Bitte deine Podcast-Gäste, den Podcast in ihren Netzwerken bekannt zu
-machen. Erstelle dafür kleine Textbausteine und/oder Grafiken, die sich
-leicht teilen/weiterleiten lassen. Überlege, welche Personen
-Multiplikatoren/Influencer für deinen Podcast sein könnten und bitte
-diese auch um Weiterleitung.</p>
-<p><strong>Schritt 2: Messe den Erfolg</strong></p>
-<p><img src="./images/kata-10-kennzahlen.jpg" /></p>
-<p>Du musst selber entscheiden, wie wichtig dir harte Zahlen für deinen
-Podcast sind. Wenn du mit deinem Podcast über Werbung Geld verdienen
-willst, sind Zahlen wahrscheinlich wichtiger, als wenn du einen internen
-Wissens-Podcast produzierst.</p>
-<p>Die richtige Vermessung von Podcasts ist gar nicht so einfach. Manche
-hören deinen Podcast über eine App, andere über die Webseite. Eine
-heruntergeladene Episode ist noch keine angehörte Episode. Überlege dir,
-welche Metriken zu deinem Podcast deine verfolgten Ziele am besten
-abbilden. Wenn du dich mit valider Messung beschäftigen willst, schaue
-dir die <a
-href="https://iabtechlab.com/standards/podcast-measurement-guidelines/">iab
-Podcast Measurement Technical Guidelines</a> an.</p>
-<h2 data-number="3.3" id="podcast-klinik-kata"><span
-class="header-section-number">3.3</span> Podcast Klinik (Kata)</h2>
-<p><strong>Schritt 1: Gestalte die Geschichte deines Podcasts als
-Heldenreise</strong></p>
-<p>Verwende den Archetypus der Heldenreise, um die Geschichte deines
-Podcasts bis jetzt erzählen zu können. Schreibe dir die wichtigsten
-Stationen als Stichpunkte auf Karten oder elektronisch auf:</p>
-<p><img src="./images/kata-11-heldenreise.png" /></p>
-<p><strong>Schritt 2: Erzähle anderen die Geschichte deines
-Podcasts</strong></p>
-<p>Stelle deinen Podcast und die bisherigen Erfahrungen damit anhand der
-Heldenreise anderen Personen vor. Sprecht über die Erfahrungen, die ihr
-mit euren Podcasts gemacht habt und was ihr voneinander lernen
-könnt.</p>
-<p><img src="./images/kata-11-feedback.jpg" /></p>
-<h2 data-number="3.4"
 id="wähle-eine-podcast-app-und-finde-podcasts-kata"><span
-class="header-section-number">3.4</span> Wähle eine Podcast App und
+class="header-section-number">3.2</span> Wähle eine Podcast App und
 finde Podcasts (Kata)</h2>
 <p><strong>Schritt 1: Wähle eine Podcast App</strong></p>
 <p>Schaue auf deinem Smartphone, ob bereits eine Podcast-App (auch
@@ -1430,9 +1258,9 @@ Plattformen nach Podcasts, die für deine Ziele, Wissensgebiete, Aufgaben
 und Projekt relevant sind. Abonniere mindestens fünf Podcasts und höre
 sie in deinem Alltag. Achte auf Beispiele, die dir für einen eigenen
 Podcast gefallen würden.</p>
-<h2 data-number="3.5"
+<h2 data-number="3.3"
 id="nutze-den-podcast-canvas-als-checkliste-kata"><span
-class="header-section-number">3.5</span> Nutze den Podcast Canvas als
+class="header-section-number">3.3</span> Nutze den Podcast Canvas als
 Checkliste (Kata)</h2>
 <p><strong>Schritt 1: Überlege, wie du mit dem Podcast Canvas arbeiten
 möchtest</strong></p>
@@ -1467,8 +1295,8 @@ nach zu beantworten.</p>
 <p><strong>Tipp:</strong> Wenn schon weißt, welche Hard- und Software du
 noch brauchst, kümmere dich frühzeitig um die Beschaffung
 (Bestellprozesse und Lieferwege können Zeit in Anspruch nehmen).</p>
-<h2 data-number="3.6" id="nimm-deine-nullnummer-auf"><span
-class="header-section-number">3.6</span> Nimm deine “Nullnummer”
+<h2 data-number="3.4" id="nimm-deine-nullnummer-auf"><span
+class="header-section-number">3.4</span> Nimm deine “Nullnummer”
 auf</h2>
 <p><strong>Schritt 1: Schlanke Ausstattung für die
 Nullnummer</strong></p>
@@ -1509,8 +1337,8 @@ href="https://fyyd.de/user/hoersuppe/curation/nullnummern?page=0">auf
 fyyd.de gibt es eine Kuration von Nullnummern</a>, über die du dir
 Beispiele von Nullnummern anderer Podcasts anhören und Ideen holen
 kannst.</p>
-<h2 data-number="3.7" id="dein-podcast-studio-kata"><span
-class="header-section-number">3.7</span> Dein Podcast-Studio (Kata)</h2>
+<h2 data-number="3.5" id="dein-podcast-studio-kata"><span
+class="header-section-number">3.5</span> Dein Podcast-Studio (Kata)</h2>
 <p><strong>Schritt 1: Wähle dein(e) Podcast-Studio(s)</strong></p>
 <p>Wahrscheinlich hast du keinen Raum, der nur als Podcast-Studio
 verwendet wird. Trotzdem solltest du etwas Zeit darauf verwenden, den
@@ -1541,8 +1369,8 @@ deine Erfahrungen kontinuierlich verbessern.</p>
 die keine gute Audio-Ausstattung haben, lohnt es sich, ein kleines
 Podcasting-Set zum Verschicken zu haben (z.B. Focusrite Scarlett Solo +
 Beyerdynamic DT 297).</p>
-<h2 data-number="3.8" id="achtung-aufnahme-episode-1-kata"><span
-class="header-section-number">3.8</span> Achtung Aufnahme Episode 1
+<h2 data-number="3.6" id="achtung-aufnahme-episode-1-kata"><span
+class="header-section-number">3.6</span> Achtung Aufnahme Episode 1
 (Kata)</h2>
 <p><strong>Schritt 1: Plane deine erste Episode</strong></p>
 <p><img src="./images/kata-6-shownotes-schreiben.jpg" /></p>
@@ -1616,8 +1444,8 @@ alt="Export Dialog in Audacity" />
 hole dir Feedback. Dafür brauchst du noch keine Webseite, schicke z.B.
 einfach einfach einen Link auf die Datei in einem Filesharing-Dienst
 (z.B. Drobpox, OneDrive).</p>
-<h2 data-number="3.9" id="deine-podcast-webseite-kata"><span
-class="header-section-number">3.9</span> Deine Podcast-Webseite
+<h2 data-number="3.7" id="deine-podcast-webseite-kata"><span
+class="header-section-number">3.7</span> Deine Podcast-Webseite
 (Kata)</h2>
 <p><strong>Schritt 1: Hole dir Anregungen für deine
 Podcast-Webseite</strong> Die meisten Podcasts haben als “Heimat” eine
@@ -1697,8 +1525,8 @@ Audio-Player (in Wordpress sind das z.B. Beiträge, in SharePoint
 Neuigkeiten)</p></li>
 <li><p>Podcast-Episode veröffentlichen, fertig :-)</p></li>
 </ol>
-<h2 data-number="3.10" id="achtung-aufnahme-episode-2-kata"><span
-class="header-section-number">3.10</span> Achtung Aufnahme Episode 2
+<h2 data-number="3.8" id="achtung-aufnahme-episode-2-kata"><span
+class="header-section-number">3.8</span> Achtung Aufnahme Episode 2
 (Kata)</h2>
 <p><strong>Schritt 1: Reflektiere die Erfahrungen aus Episode
 1</strong></p>
@@ -1724,8 +1552,8 @@ und bei der Erstellung der Episode 1 festgelegt. Wenn sich deine
 Fähigkeiten und die Aufnahmequalität bis jetzt schon stark verbessert
 hat, kannst du überlegen, die Nullnummer und/oder die erste Episode noch
 einmal aufzunehmen.</p>
-<h2 data-number="3.11" id="publiziere-deine-episoden-kata"><span
-class="header-section-number">3.11</span> Publiziere deine Episoden
+<h2 data-number="3.9" id="publiziere-deine-episoden-kata"><span
+class="header-section-number">3.9</span> Publiziere deine Episoden
 (Kata)</h2>
 <p><strong>Schritt 1: Veröffentliche deine Episoden</strong></p>
 <p><img src="./images/kata-9-publizieren-wordpress.jpg" /></p>
@@ -1748,6 +1576,52 @@ gefunden werden?</p></li>
 <li><p>Funktionieren die Zusatzfunktionen im Podcatcher (Shownotes,
 Kapitelmarken, Kapitelbilder etc.)</p></li>
 </ol>
+<h2 data-number="3.10"
+id="kommunikation-kommunikation-kommunikation-kata"><span
+class="header-section-number">3.10</span> Kommunikation, Kommunikation,
+Kommunikation (Kata)</h2>
+<p><strong>Schritt 1: Mache deinen Podcast bekannt</strong></p>
+<p><img src="./images/kata-10-kommunizieren.jpg" /></p>
+<p>Mache deinen Podcast über die von dir im Podcasting Canvas gewählten
+Kanäle bekannt und ermuntere zu Diskussion und Feedback. Reserviere dir
+etwas Zeit, um auf Feedback und Fragen zu reagieren. Sammle alles
+Feedback um deinen Podcast in Zukunft kontinuierlich gemäß deiner Ziele
+und den Wünschen der Zielgruppe zu verbessern.</p>
+<p>Ein guter Weg der Kommunikation ist die Mund-zu-Mund-Propaganda.
+Bitte deine Podcast-Gäste, den Podcast in ihren Netzwerken bekannt zu
+machen. Erstelle dafür kleine Textbausteine und/oder Grafiken, die sich
+leicht teilen/weiterleiten lassen. Überlege, welche Personen
+Multiplikatoren/Influencer für deinen Podcast sein könnten und bitte
+diese auch um Weiterleitung.</p>
+<p><strong>Schritt 2: Messe den Erfolg</strong></p>
+<p><img src="./images/kata-10-kennzahlen.jpg" /></p>
+<p>Du musst selber entscheiden, wie wichtig dir harte Zahlen für deinen
+Podcast sind. Wenn du mit deinem Podcast über Werbung Geld verdienen
+willst, sind Zahlen wahrscheinlich wichtiger, als wenn du einen internen
+Wissens-Podcast produzierst.</p>
+<p>Die richtige Vermessung von Podcasts ist gar nicht so einfach. Manche
+hören deinen Podcast über eine App, andere über die Webseite. Eine
+heruntergeladene Episode ist noch keine angehörte Episode. Überlege dir,
+welche Metriken zu deinem Podcast deine verfolgten Ziele am besten
+abbilden. Wenn du dich mit valider Messung beschäftigen willst, schaue
+dir die <a
+href="https://iabtechlab.com/standards/podcast-measurement-guidelines/">iab
+Podcast Measurement Technical Guidelines</a> an.</p>
+<h2 data-number="3.11" id="podcast-klinik-kata"><span
+class="header-section-number">3.11</span> Podcast Klinik (Kata)</h2>
+<p><strong>Schritt 1: Gestalte die Geschichte deines Podcasts als
+Heldenreise</strong></p>
+<p>Verwende den Archetypus der Heldenreise, um die Geschichte deines
+Podcasts bis jetzt erzählen zu können. Schreibe dir die wichtigsten
+Stationen als Stichpunkte auf Karten oder elektronisch auf:</p>
+<p><img src="./images/kata-11-heldenreise.png" /></p>
+<p><strong>Schritt 2: Erzähle anderen die Geschichte deines
+Podcasts</strong></p>
+<p>Stelle deinen Podcast und die bisherigen Erfahrungen damit anhand der
+Heldenreise anderen Personen vor. Sprecht über die Erfahrungen, die ihr
+mit euren Podcasts gemacht habt und was ihr voneinander lernen
+könnt.</p>
+<p><img src="./images/kata-11-feedback.jpg" /></p>
 <h1 data-number="4" id="anhang"><span
 class="header-section-number">4</span> Anhang</h1>
 <h2 data-number="4.1" id="materialliste"><span

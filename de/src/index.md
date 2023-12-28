@@ -6,6 +6,12 @@ Der Trend Working Out Loud bedeutet, die eigene Arbeit sichtbar zu machen und ü
 
 Podcasts haben hierbei den Vorteil, dass sie viel einfacher zu produzieren sind, als Videos. Außerdem können Podcasts an Orten konsumiert werden, an denen die Nutzung von Videos schwierig ist (Pendler, im Auto, im Flugzeug, beim Spazieren etc.). Mit diesem lernOS Leitfaden lernt ihr in einem Learning Sprint, selber Podcast zu machen und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine durchlaufen oder in einem Learning Circle mit 4-5 anderen Personen.
 
+!!! Hinweis
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 \@simondueckert
 
 
