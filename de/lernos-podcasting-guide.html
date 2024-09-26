@@ -60,6 +60,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -152,17 +156,17 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -329,10 +333,6 @@ konsumiert werden, an denen die Nutzung von Videos schwierig ist
 Leitfaden lernt ihr in einem Learning Sprint, selber Podcast zu machen
 und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine
 durchlaufen oder in einem Learning Circle mit 4-5 anderen Personen.</p>
-<p>!!! Hinweis</p>
-<pre><code>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa.</code></pre>
 <p>@simondueckert</p>
 <p>Lizenz</p>
 <p>lernOS Leitfäden stehen unter der Lizenz <a
@@ -1285,53 +1285,53 @@ sich gegenseitig helfen kann.</p>
 <p><strong>Der Lernpfad im Überblick:</strong></p>
 <table>
 <thead>
-<tr class="header">
+<tr>
 <th>Nr.</th>
 <th>Kata</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>1</td>
 <td>Get Started</td>
 </tr>
-<tr class="even">
+<tr>
 <td>2</td>
 <td>Wähle eine Podcast App und finde Podcasts</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>3</td>
 <td>Nutze den Podcast Canvas als Checkliste</td>
 </tr>
-<tr class="even">
+<tr>
 <td>4</td>
 <td>Nimm deine “Nullnummer” auf</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>5</td>
 <td>Dein Podcast-Studio</td>
 </tr>
-<tr class="even">
+<tr>
 <td>6</td>
 <td>Achtung Aufnahme Episode 1</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>7</td>
 <td>Deine Podcast-Webseite</td>
 </tr>
-<tr class="even">
+<tr>
 <td>8</td>
 <td>Achtung Aufnahme Episode 2</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>9</td>
 <td>Publiziere deine Episoden</td>
 </tr>
-<tr class="even">
+<tr>
 <td>10</td>
 <td>Kommunikation, Kommunikation, Kommunikation</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>11</td>
 <td>Podcast-Klinik</td>
 </tr>
@@ -1764,149 +1764,149 @@ Software für das Podcasting mit ungefähren Preisen (Stand Recherche:
 <col style="width: 4%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Hard-/Software</th>
 <th>Beschreibung</th>
 <th>Ca. Preis</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Apple EarPod</td>
 <td>In-Ear-Kopfhörer-Kabel mit integriertem Mikrofon, gibt es mit 3,5mm
 Klinke und Lightning-Anschluss</td>
 <td>17,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Behringer HA400</td>
 <td>Kopfhörerverstärker mit 4 Ausgängen</td>
 <td>25,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Behringer HA8000</td>
 <td>Kopfhörerverstärker mit 4 Ausgängen, gut für Podcast-Tische</td>
 <td>140,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Behringer U-Phoria UMC204HD</td>
 <td>Audio-Interface, 2 Mikrofon-Eingänge (wichtig: nicht das UMC202HD
 verwenden, da sich dort das Direct Monitoring nicht regeln lässt)</td>
 <td>79,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Behringer UMC404HD</td>
 <td>Audio-Interface, 4 Mikrofon-Eingänge</td>
 <td>120,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Behringer Xenyx 302USB</td>
 <td>USB-Mischpult mit 1 Mikrofon- und 1 Line-Eingang</td>
 <td>45,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>beyerdynamic DT-297-PV/80</td>
 <td>Hör-Sprech-Kombination (Headset), Achtung: Kabel muss extra gekauft
 werden</td>
 <td>330,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>beyerdynamic DT-770 PRO/80 Ohm</td>
 <td>Kopfhörer</td>
 <td>130,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>beyerdynamic DT-797 PV</td>
 <td>Hör-Sprech-Kombination (Headset) mit integriertem Kabel</td>
 <td>300,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Focusrite Scarlett Solo</td>
 <td>Audio-Interface, 1 Mikrofon- und 1 Line-Eingang</td>
 <td>100,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Focusrite Scarlett 2i2</td>
 <td>Audio-Interface, 2 Mikrofon-Eingänge</td>
 <td>150,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Focusrite Scarlett 18i20</td>
 <td>Audio-Interface, 8 Mikrofon-Eingänge, gut für Podcast-Tische</td>
 <td>490,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Reaper</td>
 <td>Digital Audio Workstation (Ultraschall-Erweiterung ist kostenlos),
 Preis ist für “discounted license”, die “commercial license” ist
 teurer</td>
 <td>60,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>RodeCaster Pro</td>
 <td>USB-Mischpult mit 4 Mikrofon-Eingängen und 4 Kopfhörer-Ausgängen
 speziell für Podcasting</td>
 <td>500,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Rode NT USB</td>
 <td>USB-Standmikrofon mit Kopfhöreranschluss (lokales Monitoring)</td>
 <td>140,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Rode PodMic</td>
 <td>Für Sprache optimiertes Nierenmikrofon</td>
 <td>100,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Shure SM 7B</td>
 <td>Studiomikrofon</td>
 <td>370,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Sony MDR-7506</td>
 <td>Kopfhörer</td>
 <td>100,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Superlux HMC 660 X</td>
 <td>Hör-Sprech-Kombination (Headset), Achtung: mit maximal 12V
 Phantom-Speisung (nicht 48V) betreiben, kann bei Zoom-Audio-Recordern
 eingestellt werden</td>
 <td>50,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Termichy Bluetooth Kopfhörer</td>
 <td>Bluetooth-Kopfhörer, das auch an einem 3,5mm Klinken-Kabel verwendet
 werden kann (z.B. für Mikrofon V-Moda BoomPro)</td>
 <td>25,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>V-Moda BoomPro</td>
 <td>Mikrofon-Kabel, das an einen Kopfhörer mit 3,5mm Klinkenbuchse
 gesteckt werden kann, Achtung: nicht V-Moda BoomPro X kaufen</td>
 <td>30,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Yamaha AG03</td>
 <td>USB-Mischpult mit 1 Mikrofon- und 1 Line-Eingang</td>
 <td>120,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Yamaha AG03</td>
 <td>USB-Mischpult mit 2 Mikrofon- und 1 Line-Eingängen</td>
 <td>160,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Zoom H5</td>
 <td>Audio-Recorder (4 Kanäle)</td>
 <td>230,-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Zoom H6</td>
 <td>Audio-Recorder (6 Kanäle)</td>
 <td>330,-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Zoom LiveTrak L-12</td>
 <td>USB-Mischpult mit 8 Mikrofon- und 2 Line-Eingängen und 5
 Kopfhörer-Ausgängen</td>
@@ -1947,7 +1947,7 @@ class="header-section-number">4.3</span> Änderungshistorie</h2>
 <col style="width: 3%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Version</th>
 <th>Bearbeitet von</th>
 <th>Beschreibung Änderung</th>
@@ -1955,7 +1955,7 @@ class="header-section-number">4.3</span> Änderungshistorie</h2>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>0.1</td>
 <td>Simon Dückert</td>
 <td>Initialen Version erstellt, Inhalte aus dem Wikibook übernommen,
@@ -1964,7 +1964,7 @@ Einleitung erstellt, Rudimentäre Version der Katas erstellt, Literatur-
 und Linkliste aktualisiert.</td>
 <td>24.03.2019</td>
 </tr>
-<tr class="even">
+<tr>
 <td>0.2</td>
 <td>Simon Dückert</td>
 <td>Teile der Sketchnote “Podcast in a Nutshell” von Marco Hitschler
@@ -1972,7 +1972,7 @@ und Linkliste aktualisiert.</td>
 als Bebilderung der Kapitel übernommen.</td>
 <td>27.07.2019</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>0.3</td>
 <td>Simon Dückert</td>
 <td>Inhaltsverzeichnis an lernOS High Level Structure angepasst,
@@ -1980,25 +1980,25 @@ Untertitel ergänzt, Kapitel “Podcasting-Grundausstattung” in “Podcasting
 Hardware” umbenannt.</td>
 <td>29.12.2019</td>
 </tr>
-<tr class="even">
+<tr>
 <td>0.4</td>
 <td>Simon Dückert</td>
 <td>Webpräsentation ergänzt, Link zu Ultraschall-Tutorial ergänzt</td>
 <td>27.12.2021</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>0.5</td>
 <td>Simon Dückert</td>
 <td>Feedback vom rc3 ergänzt</td>
 <td>29.12.2021</td>
 </tr>
-<tr class="even">
+<tr>
 <td>0.9</td>
 <td>Simon Dückert</td>
 <td>Katas im Lernpfad erweitert (war bisher nur eine Liste)</td>
 <td>27.02.2021</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>1.0</td>
 <td>Simon Dückert</td>
 <td>Feedback aus Learning Circle Experience lce22a eingefügt</td>
