@@ -2,6 +2,7 @@ site_name: lernOS Podcasting Leitfaden
 site_url: https://podcasting.lernos.org/
 docs_dir: src
 site_dir: ../docs/de
+edit_uri: ''
 
 nav:
     - Willkommen: index.md
@@ -19,7 +20,7 @@ nav:
         - Software:
             - Überlick: 2-5-0-equipment-software.md
             - Ardour: 2-5-1-ardour.md
-            - Audacity: 2-5-2-audacity.md 
+            - Audacity: 2-5-2-audacity.md
             - Audition: 2-5-3-audition.md
             - Ferrite: 2-5-4-ferrite.md
             - Garageband: 2-5-5-garageband.md
@@ -64,6 +65,8 @@ theme:
     icon:
       logo: material/home
       repo: fontawesome/brands/github
+    features:
+      - toc.integrate
 
 extra_css:
   - stylesheets/extra.css
