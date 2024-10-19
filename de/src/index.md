@@ -1,4 +1,4 @@
-# Über lernOS
+# Willkommen
 
 Der Trend **Working Out Loud** bedeutet, die eigene Arbeit sichtbar zu machen und über die eigene Arbeit zu erzählen, um Vernetzung zu ermöglichen und Hilfe aus dem Netzwerk zu erhalten. Als Plattform kommen oft interne und externe soziale Netzwerke zum Einsatz. Gerade wenn es um den Transport von Wissen zu komplexen Themen oder Emotionen geht, reichen kurze Texte oft nicht aus. Hier eignen sich Audio- und Video-Formate wie Screencasts, Erklärvideos und Podcasts besser.
 

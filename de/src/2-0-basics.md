@@ -13,5 +13,3 @@ Podcasts könnten damit einen "Kommunikationsapparat" darstellen, den Berthold B
 Selber Radio zu machen, ist einfach. Man sollte sich nur vorher überlegen, mit wie vielen Leuten man in welcher Situation sprechen will, welche Anforderung an Qualität und Mobilität der Technik stellt und vor allem, wie man die Gesprächsführung gestalten will. Die ersten Versuche werden sicherlich katastrophal ausfallen, aber das ändert sich schnell. Jeder Podcastende blickt mit einem latenten Unwohlsein auf seine erste Sendung, nicht selten auch die Zweite. Aber von da ab gewinnt man schnell an Erfahrung und Routine. Wer dranbleibt wird schnell zu passablen und befriedigenden Ergebnissen kommen.
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/Zirkusliebe-cc-by-podcast-in-a-nutshell-podcast-easypeasy.png)
-
-Ein Beispiel-Podcast ...
