@@ -31,6 +31,6 @@ Das sind die Felder des lernOS Podcasting Canvas (in der vorgeschlagenen Reihenf
 5. **Host & Gäste:** Wer ist Gastgeber*in? Wer sind regelmäßg Teilnehmende? Soll es Gäste geben?
 6. **Technik:** Welche Hardware wird zur Produktion verwendet (Audiorecorder, Audiointerfaces, Mikrofone etc.)? Welche Software wird für Aufnahme, Remote-Podcasting, Livestream und Schnitt verwendet?
 7. **Podhosting:** Wo sollen die Mediendateien des Podcasts bereitgestellt werden? Im Internet oder im Intranet? Eigenes Hosting oder Cloud Dienst?
-8. **Kanäle:** Auf welchen Kanälen wird der Podcast veröffentlicht (RSS-Feed, Spotify etc.) und kommuniziert (Soziale Medien, Twitter etc.)?
+8. **Kanäle:** Auf welchen Kanälen wird der Podcast veröffentlicht (RSS-Feed, Spotify etc.) und kommuniziert (Soziale Medien, Mastodon, Linkedin etc.)?
 9. **Aufwand:** Welcher Aufwand entsteht aus der Konzeption oben (Zeit & Geld)?
 10. **Nutzen:** Welchen Nutzen hast du von dem Podcast? Rechtfertig der Nutzen den Aufwand? Ist der Podast ein Hobby (Corporate Hobby) bzw. Teil der Arbeitsaufgabe oder muss sich der Podcast refinanzieren (z.B. Sponsoring, Spenden, Werbung)

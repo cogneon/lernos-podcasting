@@ -58,4 +58,4 @@ Kostenfreie Töne und Musik gibt es z.B an folgenden Stellen (auf Lizenzen und V
 
 - [Free Music Archive](https://freemusicarchive.org/home)
 
-- [YouTube](https://youtube.com), über die Suche, dann nach Creative Commons filtern, mit [youtube-dl](https://youtube-dl.org/) können Audios heruntergeladen werden
+- [YouTube](https://youtube.com), über die Suche, dann nach Creative Commons filtern, mit Tools wie [yt-dlp](https://github.com/yt-dlp/yt-dlp) können Audios heruntergeladen werden

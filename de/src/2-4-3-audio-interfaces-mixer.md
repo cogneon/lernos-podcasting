@@ -24,6 +24,12 @@ Die meisten Mischpulte sind für die Produktion von Musik gedacht. Es gibt aber 
 
 - Funktion zum Setzen von Schnitt- und Kapitelmarken
 
-Focusrite
+Häufig verwendete Audio-Interfaces und Mischpulte sind:
 
-Behringer
+- [Rodecaster Pro I](https://rode.com/de/interfaces-and-mixers/rodecaster-series/rodecaster-pro) und Nachfolger [Rodecaster Pro II](https://rode.com/de/interfaces-and-mixers/rodecaster-series/rodecaster-pro-ii?variant_sku=RCPIIW)
+
+- Focusrite [vocaster one](https://focusrite.com/products/vocaster-one) und [vocaster two](https://focusrite.com/products/vocaster-two)
+
+- [Focusrite Scarlett Modelle](https://focusrite.com/scarlett)
+
+- [Yamaha AG Modelle](https://de.yamaha.com/de/products/music_production/interfaces/ag_series/index.html) (AG03 und AG06)

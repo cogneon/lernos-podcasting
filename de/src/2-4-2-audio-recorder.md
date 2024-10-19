@@ -6,6 +6,8 @@ Ein Audio-Rekorder ist ein Gerät, das man ohne einen zusätzlichen Computer fü
 
 Ein sehr weit verbreiteter Audio-Rekorder ist der Zoom H6, der vier XLR-Eingänge, zwei Kanäle für Aufsteck-Mikrofone bzw. einen Audio-In (3,5mm Klinke) bietet. Der Zoom H6 zeichnet auf SD-Karte auf und kann per USB-Kabel als Audio-Interface betrieben werden (leider nicht beides gleichzeitig).
 
-Zoom H6
+Häufig verwendete Audio-Rekorder sind:
 
-PodTrak P4
+- [Zoom H6](https://zoomcorp.com/de/de/handy-recorder/handheld-recorders/h6-audio-recorder/) (der Klassiker)
+
+- [Zoom PodTrak P4](https://zoomcorp.com/de/de/podcast-rekorder/podcast-recorders/podtrak-p4/) (kann nur 44kHz)

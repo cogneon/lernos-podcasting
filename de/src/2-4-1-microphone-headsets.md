@@ -23,10 +23,12 @@ Mikrofone werden meist als Tischmikrofon auf einen Tisch gestellt oder an einem 
 
 **Tipp:** die Freisprecheinrichtung eines mobilen Telefons (z.B. iPhone) bietet oftmals erstaunlich gute Tonqualität (z.B. Earpod mit Klinken- oder Lightning-Anschluss). Man muss allerdings darauf achten, dass die im Kabel eingebaute Mikrofonkapsel nicht an Kleidung, Schal oder Haaren reibt.
 
-Beyerdynamic DT297
+Häufig verwendete Headsets und Mikrofone sind:
 
-V-Moda Boom Pro
+- [Beyerdynamic DT297](https://www.beyerdynamic.de/p/dt-297)
 
-Rode NT USB
+- [V-Moda Boom Pro](https://www.v-moda.com/us/de/products/boompro-microphone) (s.a. [Beitrag im Sendegate](https://sendegate.de/t/headsets-fuer-podcasting-und-videokonferenzen-corona-edition/12714))
 
-SMB7
+- [Rode NT USB](https://rode.com/de/microphones/usb/nt-usb)
+
+- Sure [SMB7](https://www.shure.com/de-DE/produkte/mikrofone/sm7b?variant=SM7B) oder [MV7](https://www.shure.com/de-DE/produkte/mikrofone/mv7d?variant=MV7-K) (Variante mit USB)
