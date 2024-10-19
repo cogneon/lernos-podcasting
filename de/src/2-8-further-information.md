@@ -12,7 +12,7 @@
 **Weblinks:**
 
 * Wikipedia-Artikel [Podcast](https://de.wikipedia.org/wiki/Podcast)
-* [Apple Podcast FAQ](https://www.apple.com/de/itunes/podcasts/fanfaq.html) - Was ist ein Podcast? Wie kann ich auf iOS in Podcasts einsteigen?
+* [Apple Podcast FAQ](https://www.apple.com/by/itunes/podcasts/fanfaq.html) - Was ist ein Podcast? Wie kann ich auf iOS in Podcasts einsteigen?
 * [Sketchnote Podcast in a Nutshell](https://www.unmus.de/podcast-in-a-nutshell) - Ein kleiner Leitfaden zur Orientierung in der komplizierten Welt des Podcasting
 * [fyyd.de](https://fyyd.de) - Podcast Suchmaschine
 * [Das Sendezentrum](https://das-sendezentrum.de) - Der Schmelztigel für die freie Podcast-Szene, u.a. Podcast Konferenz [SUBSCRIBE](https://das-sendezentrum.de/subscribe)
@@ -24,10 +24,7 @@
 
 **Events:**
 
-- [All Ears](https://www.allears.byspotify.com/) (Podcast-Konferenz von Spotify)
-
+- [Podcast Movement](https://podcastmovement.com/)
 - [Podstock](https://www.podstock.de/) (Podcast-Festival und -Barcamp)
-
 - [Subscribe](https://das-sendezentrum.de/subscribe/) (Podcast-Konferenz und -Barcamp der deutschsprachigen Podcasting-Community)
-
 - [Tutzinger Radiotage](https://www.apb-tutzing.de/)
