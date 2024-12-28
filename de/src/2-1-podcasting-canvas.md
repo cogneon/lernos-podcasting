@@ -3,16 +3,10 @@
 Der Wunsch, selbst Audiosendungen in Form von Podcasts zu produzieren stellt viele Neulinge zunächst einmal vor einige Fragen:
 
 1. Welches **Format** ist das richtige?
-
 2. Welche **Audiotechnik** benötige ich, um Aufnahmen in angemessener Qualität durchzuführen, zu bearbeiten und zu veröffentlichen?
-
 3. Wie viele **Personen** sind an dem Podcast beteiligt?
-
 4. Soll die Sendung **live übertragen** werden?
-
 5. Sollen Leute **per Telefon** mit in die Sendung einbezogen werden?
-
-6. uvm.
 
 Um diese Fragen gut beantworten und die richtigen Entscheidung treffen zu können, wird im Folgenden der **lernOS Podcasting Canvas** ([Vorlage](./images/lernOS-Podcasting-Canvas.png)) vorgestellt, eine **"visuelle Checkliste"** mit der alle für den eigenen Podcast relevanten Fragen gestellt und beantwortet werden können.
 
@@ -22,7 +16,7 @@ Der Canvas bietet einen Überblick über die **wichtigsten Gestaltungsfelder** e
 
 ![](./images/lernOS-Podcasting-Canvas.png)
 
-Das sind die Felder des lernOS Podcasting Canvas (in der vorgeschlagenen Reihenfolge der Bearbeitung):
+Das sind die **Felder des lernOS Podcasting Canvas** in der vorgeschlagenen Reihenfolge der Bearbeitung:
 
 1. **Why? Zweck & Vision:** Warum willst du den Podcast wirklich, wirklich machen? Was ist der Zweck des Podcasts? Warum ist dir der Podcast wichtig?
 2. **Zuhörer:innen & Zielgruppe:** Welche Zielgruppen hat der Podcast? Wer soll zuhören? Was motiviert die Zielgruppe zuzuhören?

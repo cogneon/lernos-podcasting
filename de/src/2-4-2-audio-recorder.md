@@ -8,6 +8,6 @@ Ein sehr weit verbreiteter Audio-Rekorder ist der Zoom H6, der vier XLR-Eingäng
 
 Häufig verwendete Audio-Rekorder sind:
 
-- [Zoom H6](https://zoomcorp.com/de/de/handy-recorder/handheld-recorders/h6-audio-recorder/) (der Klassiker)
-
-- [Zoom PodTrak P4](https://zoomcorp.com/de/de/podcast-rekorder/podcast-recorders/podtrak-p4/) (kann nur 44kHz)
+- Zoom H4essentials
+- Zoom H6essentials
+- Zoom PodTrak P4

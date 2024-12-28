@@ -2,7 +2,7 @@
 
 Früher kam Software hauptsächlich für den Schnitt von Podcasts zum Einsatz, aufgezeichnet wurde mit Hardware. Mittlerweile sind Computer viel schneller geworden und es ist zusätzlich Software vorhanden, mit der die Produktion von Podcasts ohne spezielle Audio-Hardware möglich ist.
 
-Typische Kategorien von Software im Podcasting sind:
+Typische **Kategorien von Software** im Podcasting sind:
 
 - **Digital Audio Workstation (DAW)**, Softwar zur Aufnahme, Bearbeitung und Produktion von Audio-Inhalten (z.B. Reaper).
 
