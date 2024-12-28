@@ -55,7 +55,6 @@ Während einer Episode können im Podcasts sog. "Jingles" eingespielt werden. Da
 Kostenfreie Töne und Musik gibt es z.B an folgenden Stellen (auf Lizenzen und Verwendungsrechte achten):
 
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk)
-
 - [Free Music Archive](https://freemusicarchive.org/home)
-
+- [Shotcut Ressourcen](https://shotcut.org/resources/)
 - [YouTube](https://youtube.com), über die Suche, dann nach Creative Commons filtern, mit Tools wie [yt-dlp](https://github.com/yt-dlp/yt-dlp) können Audios heruntergeladen werden

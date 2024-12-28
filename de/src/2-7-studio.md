@@ -1,5 +1,6 @@
 
 ## Studio
+Auch wenn man als Podcaster:innen meist kein professionelles [Tonstudio](https://de.wikipedia.org/wiki/Tonstudio) verwendet, gibt es doch einige Rahmenbedingungen zu beachten, um eine gute Audioqualität zu erhalten.
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-tonstudio.png)
 

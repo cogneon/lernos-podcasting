@@ -1,6 +1,6 @@
 ### Audio-Rekorder
 
-Ein Audio-Rekorder ist ein Gerät, das man ohne einen zusätzlichen Computer für die Audioaufzeichnung verwenden kann. Es gibt Audio-Rekorder mit eingebauten Mikrofonen (ähnlich Diktiergeräten), mit Anschlüssen für externe Mikrofone (z.B. XLR-Buchsen) oder die Kombination von beidem. Die Geräte zeichnen meist auf SD-Karten auf und können mit Batterien mobil betrieben werden.
+Ein [Audiorekorder](https://de.wikipedia.org/wiki/Audiorekorder) ist ein Gerät, das man ohne einen zusätzlichen Computer für die Audioaufzeichnung verwenden kann. Es gibt Audio-Rekorder mit eingebauten Mikrofonen (ähnlich Diktiergeräten), mit Anschlüssen für externe Mikrofone (z.B. [XLR](https://de.wikipedia.org/wiki/XLR)-Buchsen oder die Kombination von beidem. Die Geräte zeichnen meist auf SD-Karten auf und können mit Batterien mobil betrieben werden.
 
 Über USB-Anschlüsse können die meisten Audio-Rekorder an einen Computer angeschlossen werden um Audio-Dateien zu übertragen oder in der Verwendung als Audio-Interface.
 

@@ -1,7 +1,7 @@
 ---
 title: "lernOS Podcasting Leitfaden"
-subtitle: "Wissen teilen mit Audio, Podcasts und VLogs"
-date: "Version 1.0 (01.06.2022)"
+subtitle: "Wissen teilen mit Audio und Podcasts"
+date: "Version 1.1 (28.12.2022)"
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
@@ -10,7 +10,7 @@ links-as-notes: true
 lof: false
 toc: true
 toc-own-page: true
-toc-depth: 3
+toc-depth: 2
 logo: src/images/lernOS-logo-white-4000px.png
 logo-width: 300px
 ---

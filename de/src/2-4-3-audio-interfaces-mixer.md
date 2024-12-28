@@ -13,23 +13,15 @@ Mischpulte können rein analog ausgeführt sein (Ausgang ist ein analoges Signal
 Die meisten Mischpulte sind für die Produktion von Musik gedacht. Es gibt aber auch Mischpulte, die speziell auf Podcasting-Bedürfnisse ausgerichtet sind (z.B. Rode Rodecaster Pro) und z.B. folgende Funktionen bieten:
 
 - Eingebautes Soundboard für Einspieler, Jingles, Bumper etc.
-
 - Eingebaute N-1-Schaltung für Remote-Podcasting oder um an Videokonferenzen teilzunehmen
-
 - Klinke- (TRRS) oder Bluetooth-Konnektivität, z.B. um Smartphones anzuschließen
-
 - Eingebaute Kopfhörerverstärker
-
 - Eingebaute Effekte wie Noise Gate, Kompressor und Expander
-
 - Funktion zum Setzen von Schnitt- und Kapitelmarken
 
 Häufig verwendete Audio-Interfaces und Mischpulte sind:
 
 - [Rodecaster Pro I](https://rode.com/de/interfaces-and-mixers/rodecaster-series/rodecaster-pro) und Nachfolger [Rodecaster Pro II](https://rode.com/de/interfaces-and-mixers/rodecaster-series/rodecaster-pro-ii?variant_sku=RCPIIW)
-
 - Focusrite [vocaster one](https://focusrite.com/products/vocaster-one) und [vocaster two](https://focusrite.com/products/vocaster-two)
-
 - [Focusrite Scarlett Modelle](https://focusrite.com/scarlett)
-
 - [Yamaha AG Modelle](https://de.yamaha.com/de/products/music_production/interfaces/ag_series/index.html) (AG03 und AG06)
