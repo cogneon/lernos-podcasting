@@ -29,7 +29,11 @@ pandoc metadata.yaml --from markdown -s --resource-path="./src" --template lerno
 
 # Create eBook Version (epub)
 echo Creating eBook version ...
-pandoc metadata.yaml --from markdown -s --resource-path="./src" --number-sections --toc -V lang=de-de -o $filename.epub $chapters
+magick -density 300 $filename.pdf[0] ebook-cover.jpg
+mogrify -size 2500x2500 -resize 2500x2500 ebook-cover.jpg
+mogrify -crop 1563x2500+102+0 ebook-cover.jpg
+pandoc metadata.yaml --from markdown -s --resource-path="./src" --number-sections --epub-cover-image=ebook-cover.jpg --toc -V lang=de-de -o $filename.epub $chapters
+rm ebook-cover.jpg
 
 # Create Slides (revealjs)
 # echo Creating Presentation ...
