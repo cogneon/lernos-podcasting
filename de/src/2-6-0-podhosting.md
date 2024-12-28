@@ -1,6 +1,6 @@
 ## Podhosting
 
-Sind die Mediendateien fertig produziert, werden sie auf einer Hosting-Plattform veröffentlicht, damit die Hörer:innen darauf zugreifen können. In diesem Kapitel wird eine kleine Auswahl von Plattformen für Hosting im Internet und im Intranet vorgestellt (Liste alphabetisch):
+Sind die Mediendateien fertig produziert, werden sie auf einer **Hosting-Plattform** veröffentlicht, damit die Hörerenden darauf zugreifen können. In diesem Kapitel wird eine kleine Auswahl von Plattformen für **Hosting im Internet und im Intranet** vorgestellt (Liste alphabetisch):
 
 **Internet - fremdgehostet**
 

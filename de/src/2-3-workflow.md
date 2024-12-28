@@ -1,8 +1,8 @@
 ## Workflow
 
-Die Produktion von Podcast-Episoden beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem. Für den Start eines Podcasts ist es wichtig, den gesamten Podcast-Workflow von Anfang bis Ende verstanden zu haben:
+Die **Produktion von Podcast-Episoden** beginnt bereits vor der eigentlich Aufnahme, da man sich zunächst einmal darüber im Klaren sein sollte, was man eigentlich aufnehmen möchte, wie und mit wem. Für den Start eines Podcasts ist es wichtig, den gesamten Podcast-Workflow von Anfang bis Ende verstanden zu haben:
 
-![Typischer Podasting-Workflow](images/Podcasting-Workflow-900px.png)
+![Typischer Podasting-Workflow](images/lernOS-Podcasting-Workflow.png)
 
 Nicht alles, was hier aufgeführt wird muss zwingend so umgesetzt werden, aber es lohnt sich, zumindest zu prüfen, ob man vielleicht ohne nennenswerten Aufwand das eine oder andere von vornherein den Anforderungen an eine gute Aufnahme anpassen kann.
 

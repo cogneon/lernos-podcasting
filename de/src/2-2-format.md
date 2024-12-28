@@ -1,6 +1,6 @@
 ## Format
 
-Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. Im Folgenden eine Beschreibung typischer Podcast-Formate.
+Das **Format des Podcasts** ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. Im Folgenden eine Beschreibung typischer Podcast-Formate.
 
 ![Originalbild: Marco Hitschler auf zirkusliebe.de, CC BY, <https://www.unmus.de/podcast-in-a-nutshell/>](images/1200px-Zirkusliebe-cc-by-podcast-in-a-nutshell-format.png)
 
@@ -14,17 +14,17 @@ Die Gesprächspartner_innen im Podcast können über die Episoden (Sendungen) hi
 
 ### Sendungslänge und Frequenz
 
-Die "richtige" Länge für Podcasts gibt es nicht, Podcasts können eine beliebige Länge haben, die dem Zweck des Podcasts angemessen ist. Oft wird die Dauer eines Inlandsflugs (30-45 Minuten) als optimale Länge genannt. Ganz grob kann man drei Kategorien von Podcast-Längen unterscheiden:
+Die **"richtige" Länge für Podcasts** gibt es nicht, Podcasts können eine beliebige Länge haben, die dem Zweck des Podcasts angemessen ist. Oft wird die Dauer eines Inlandsflugs (30-45 Minuten) als optimale Länge genannt. Ganz grob kann man drei Kategorien von Podcast-Längen unterscheiden:
 
 * **Kurze Podcasts** haben eine Länge von weniger als 45 Minuten
 * **Mittellange** Podcasts sind zwischen 45 und 90 Minuten lang
 * **Lange Podcasts** sind länger als 90 Minuten (bis zu mehren Stunden)
 
-Auch die Frequenz mit der Podcast-Episoden kann sehr unterschiedlich sein. Der Podcast kann regelmäßig (z.B. wöchentlich, monatlich) oder unregelmäßig (je nach Anlass) erscheinen.
+Auch die **Frequenz der Podcast-Episoden** kann sehr unterschiedlich sein. Der Podcast kann regelmäßig (z.B. wöchentlich, monatlich) oder unregelmäßig (je nach Anlass) erscheinen.
 
 ### Inhalt und Form
 
-Bei der inhaltlichen Gestaltung von Podcasts ist der Phantasie keine Grenze gesetzt. Jedes Thema, dass eine Gruppe von Personen interessiert, kann sich für einen Podcast eignen. Podcast-Episoden können ein Thema (monothematisch) oder mehrere Themen behandeln. Podcasts können sich außerdem mit aktuellen Themen (News-Podcasts) oder mit zeitlosen Themen (Evergreen) befassen. Eine gute Orientierung zu Themen von Podcasts geben z.B. die [Kategorien des Podcast-Verzeichnis von Apple](https://podcasters.apple.com/de-de/support/1691-apple-podcasts-categories):
+Bei der **inhaltlichen Gestaltung von Podcasts** ist der Phantasie keine Grenze gesetzt. Jedes Thema, dass eine Gruppe von Personen interessiert, kann sich für einen Podcast eignen. Podcast-Episoden können ein Thema (monothematisch) oder mehrere Themen behandeln. Podcasts können sich außerdem mit aktuellen Themen (News-Podcasts) oder mit zeitlosen Themen (Evergreen) befassen. Eine gute Orientierung zu Themen von Podcasts geben z.B. die [Kategorien des Podcast-Verzeichnis von Apple](https://podcasters.apple.com/de-de/support/1691-apple-podcasts-categories):
 
 * Kunst
 * Wirtschaft
@@ -48,11 +48,11 @@ Bei der inhaltlichen Gestaltung von Podcasts ist der Phantasie keine Grenze gese
 
 ### Medien wie Intro, Outro und Jingles
 
-Ähnlich wie Radio- oder Fernsehsendung können auch Podcasts eine Musik am Anfang (Intro) und am Ende (Intro) haben, müssen sie aber nicht. Manche Podcasts nutzen das Intro auch, um einen Rückblick auf die vergangene Sendung zu machen (das "Previously") oder ein Zitat aus der aktuellen Episode anzuteasern.
+Ähnlich wie Radio- oder Fernsehsendung können auch Podcasts eine **Musik am Anfang** (Intro) und **am Ende** (Outro) haben, müssen sie aber nicht. Manche Podcasts nutzen das Intro auch, um einen **Rückblick auf die vergangene Sendung** zu machen (das "Previously") oder ein **Zitat aus der aktuellen Episode** anzuteasern.
 
-Während einer Episode können im Podcasts sog. "Jingles" eingespielt werden. Das kann z.B. Werbung oder kurze Melodien sein. Hat ein Podcast verschiedene thematische Rubriken, können diese durch kurze Jingles voneinander getrennt werden.
+Während einer Episode können im Podcasts sog. **"Jingles"** oder **Trenner** eingespielt werden. Das kann z.B. Werbung oder kurze Melodien sein. Hat ein Podcast verschiedene thematische Rubriken, können diese durch kurze Jingles voneinander getrennt werden.
 
-Kostenfreie Töne und Musik gibt es z.B an folgenden Stellen (auf Lizenzen und Verwendungsrechte achten):
+**Kostenfreie Töne und Musik** gibt es z.B an folgenden Stellen (auf Lizenzen und Verwendungsrechte achten):
 
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk)
 - [Free Music Archive](https://freemusicarchive.org/home)
