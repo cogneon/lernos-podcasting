@@ -1,6 +1,7 @@
 ---
 title: "lernOS Podcasting Leitfaden"
 subtitle: "Wissen teilen mit Audio und Podcasts"
+author: "Simon Dückert"
 date: "Version 1.1 (28.12.2024)"
 titlepage: true
 titlepage-color: "ff6600"
@@ -11,6 +12,7 @@ lof: false
 toc: true
 toc-own-page: true
 toc-depth: 2
-logo: src/images/lernOS-logo-white-4000px.png
+titlepage-logo: src/images/lernOS-logo-white-4000px.png
 logo-width: 300px
+table-use-row-colors: true
 ---
