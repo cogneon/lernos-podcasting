@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://podcasting.lernos.org/de/2-10-podcasting-glossary/</loc>
+         <lastmod>2024-12-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://podcasting.lernos.org/de/2-2-format/</loc>
          <lastmod>2024-12-28</lastmod>
          <changefreq>daily</changefreq>
@@ -111,7 +116,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://podcasting.lernos.org/de/2-8-further-information/</loc>
+         <loc>https://podcasting.lernos.org/de/2-8-buying-suggestions/</loc>
+         <lastmod>2024-12-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://podcasting.lernos.org/de/2-9-further-information/</loc>
          <lastmod>2024-12-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -151,12 +161,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://podcasting.lernos.org/de/3-5-Kata-Podcast-Studio/</loc>
+         <loc>https://podcasting.lernos.org/de/3-5-kata-podcast-studio/</loc>
          <lastmod>2024-12-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://podcasting.lernos.org/de/3-6-Kata-Episode-1/</loc>
+         <loc>https://podcasting.lernos.org/de/3-6-kata-episode-1/</loc>
          <lastmod>2024-12-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -166,7 +176,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://podcasting.lernos.org/de/3-8-Kata-Episode-2/</loc>
+         <loc>https://podcasting.lernos.org/de/3-8-kata-episode-2/</loc>
          <lastmod>2024-12-28</lastmod>
          <changefreq>daily</changefreq>
     </url>

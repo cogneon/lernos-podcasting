@@ -1,4 +1,4 @@
-## Technik - Software
+## Software
 
 Früher kam Software hauptsächlich für den Schnitt von Podcasts zum Einsatz, aufgezeichnet wurde mit Hardware. Mittlerweile sind Computer viel schneller geworden und es ist zusätzlich Software vorhanden, mit der die Produktion von Podcasts ohne spezielle Audio-Hardware möglich ist.
 

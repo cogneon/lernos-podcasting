@@ -6,8 +6,6 @@ Der Trend **Working Out Loud** bedeutet, die eigene Arbeit sichtbar zu machen un
 
 Mit diesem **Leitfaden** lernt ihr in einem Learning Sprint (13 Wochen bei 1-2 Stunden Lernzeit pro Woche), selber Podcast zu machen und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine, im Lerntandem (z.B. mit Podcast-Partner:in) oder in einem Learning Circle mit 4-5 anderen Personen durchlaufen.
 
-## Lizenz
-
 lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
